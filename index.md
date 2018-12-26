@@ -1,5 +1,5 @@
 ---
-title: About
+title: Outline
 layout: default
 ---
 <b>NOTE: This website is under construction. For the current version, visit [evidencesynthesishackathon.com](https://www.evidencesynthesishackathon.com).
