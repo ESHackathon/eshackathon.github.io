@@ -1,5 +1,3 @@
-theme: jekyll-theme-minima
 title: ESH
 description: ESHackathon
-google_analytics: true
-exclude: ["README.md"]
+theme: minima

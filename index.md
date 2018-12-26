@@ -1,6 +1,5 @@
 ---
-layout: default
 title: ESHackathon
-description: ESHackathon
+layout: default
 ---
 Body text goes here
