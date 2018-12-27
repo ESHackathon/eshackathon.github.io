@@ -19,6 +19,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: white;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -38,6 +39,7 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
+  color: white;
 
   .nav-trigger {
       display: none;
