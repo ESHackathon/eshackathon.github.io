@@ -22,7 +22,7 @@ You can apply for funding to cover these costs; but funds are limited and most p
 We're open to attendees with a range of skills. Many of the attendees will have a background in R, but people with experience in Python or JavaScript are most welcome; some will have no coding background whatsoever.
 
 <strong>I'm in the neighbourhood - can I just show up?</strong>  
-Unfortunately we have limits on space, so we’re asking people to apply in advance <a href="http://evidencesynthesishackathon.com/eoi/">here.</a>
+Unfortunately we have limits on space, so we’re asking people to apply in advance <a href="/pages/EoI.html">here.</a>
 
 <strong>Can you cover my salary while I attend the hackathon?</strong>  
 No.
