@@ -14,4 +14,4 @@ We think that we can make ES projects more efficient, and produce better results
 
 The inaugural ESH was held from Monday 23rd - Wednesday 25th April 2018 at the Stockholm Environment Institute, Sweden, and was a resounding success. You can read about the outcomes in our <a href="https://evidencesynthesishackathon.files.wordpress.com/2018/06/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener">summary report (PDF)</a>, on our <a href="http://evidencesynthesishackathon.com/what-was-produced/">outcomes page</a>, or view our <a href="https://github.com/ESHackathon" target="_blank" rel="noopener">GitHub</a> repo to view software in development. The second ESH will take place in Canberra in 2019 to help participants to learn about evidence synthesis, meet fellow coders, and help shape research in this important field.
 
-<img src="/assets/images/logos/promo_image.jpg" width="300"/>
+<img src="/assets/images/logos/promo_image.jpg" alt="ESH"/>
