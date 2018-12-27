@@ -4,3 +4,5 @@ theme: minima
 header_pages:
 - index.md
 - pages/canberra_2019.md
+  - pages/faq.md
+  - pages/EoI.md
