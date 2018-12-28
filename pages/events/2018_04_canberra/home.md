@@ -7,9 +7,9 @@ The second Evidence Synthesis Hackathon will take place in Canberra, Australia f
 
 Our intention is to inspire and support the development of new ideas in this important field. By bringing together technologists and developers with subject-matter experts, this will be a unique opportunity to form new collaborations and develop new ways to approach critical problems. Attendees will have the opportunity to work together to build software tools and research papers that will profoundly influence the field of meta-research.
 
-We're still confirming the timetable, speakers and events, and will update this website as new information becomes available. Due to limitations on space we can't accept open registration, but if you're as excited about this event as we are, then you can <a href="/pages/EoI.html">apply to attend here</a>.
+We're still confirming the timetable, speakers and events, and will update this website as new information becomes available. Due to limitations on space we can't accept open registration, but if you're as excited about this event as we are, then you can <a href="/pages/events/2018_04_canberra/EoI.html">apply to attend here</a>.
 
-Want more information? Check out the <a href="/pages/faq.html">FAQs page</a> or see below:
+Want more information? Check out the <a href="/pages/events/2018_04_canberra/faq.html">FAQs page</a> or see below:
 
 <strong>Details</strong>
 <strong>Dates: </strong>Monday 8th - Wednesday 10th April 2019

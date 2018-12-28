@@ -2,6 +2,6 @@ title: Evidence Synthesis Hackathon
 theme: minima
 
 header_pages:
-- pages/events/2019_04_canberra.md
+- pages/events/2019_04_canberra/home.md
 - pages/events.md
-- pages/organizers.md
+- pages/events/2019_04_canberra/organizers.md
