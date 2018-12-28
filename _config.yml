@@ -3,6 +3,6 @@ theme: minima
 
 header_pages:
 - index.md
-- pages/canberra_2019.md
+- pages/events/2019_04_canberra.md
 - pages/events.md
 - pages/organizers.md
