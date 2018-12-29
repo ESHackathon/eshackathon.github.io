@@ -1,6 +1,8 @@
 title: Evidence Synthesis Hackathon
+description: An event series to develop open software for evidence synthesis
 theme: minima
-
+github_username: ESHackathon
+email: eshackathon@gmail.com
 header_pages:
 - pages/events/2019_04_canberra/home.md
 - pages/event_list.md
