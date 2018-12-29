@@ -11,7 +11,7 @@ layout: default
 <em>Research Profile:</em> <a href="http://www.i-deel.org/" target="_blank" rel="noopener">http://www.i-deel.org/</a>  
 <em>Twitter:</em> I have been avoiding Twitter for years (may have to give in soon)
 
-<b>Dan Noble</b> is a Lecturer at the Australian National University. In addition to his empirical work in ecophysiology and evolutionary ecology, Dan is passionate about developing new statistical and computational approaches to facilitate systematic reviews and meta-analyses. He is one of the authors of <a href="https://cran.r-project.org/web/packages/metaDigitise/index.html">metaDigitise</a>, an R package used for extracting data from the primary literature and he has published a number of large-scale meta-analyses exploring questions in evolutionary ecology.  
+<b>Daniel Noble</b> is a Lecturer at the Australian National University. In addition to his empirical work in ecophysiology and evolutionary ecology, Dan is passionate about developing new statistical and computational approaches to facilitate systematic reviews and meta-analyses. He is one of the authors of <a href="https://cran.r-project.org/web/packages/metaDigitise/index.html">metaDigitise</a>, an R package used for extracting data from the primary literature and he has published a number of large-scale meta-analyses exploring questions in evolutionary ecology.  
 <em>Research profile:</em> <a href="http://nobledan.com" target="_blank" rel="noopener">http://nobledan.com</a>  
 <em>Twitter:</em> <a href="https://twitter.com/DanielWANoble" target="_blank" rel="noopener">@DanielWANoble</a>
 

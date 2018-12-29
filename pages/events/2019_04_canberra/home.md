@@ -11,9 +11,9 @@ We're still confirming the timetable, speakers and events, and will update this 
 
 Want more information? Check out the <a href="/pages/events/2018_04_canberra/faq.html">FAQs page</a> or see below:
 
-<strong>Details</strong>
-<strong>Dates: </strong>Monday 8th - Wednesday 10th April 2019
-<strong>Venue: </strong>UNSW Canberra
+<strong>Details</strong>  
+<strong>Dates: </strong>Monday 8th - Wednesday 10th April 2019  
+<strong>Venue: </strong>UNSW Canberra & ANU  
 <strong>Registration cost: </strong>$100 (full) or $50 (student)
 
 <strong>Events</strong>
@@ -27,9 +27,10 @@ Want more information? Check out the <a href="/pages/events/2018_04_canberra/faq
 
 <strong>Confirmed presenters </strong>
 <ul>
+  <li>Adam Dunn | Macquarie University</li>
+  <li>Kerrie Mengersen | Queensland University of Technology</li>
+  <li>Gillian Petrokofsky | University of Oxford</li>
 	<li>Vivian Welch | Campbell Collaboration</li>
-	<li>Adam Dunn | Macquarie University</li>
-	<li>Kerrie Mengersen | QUT</li>
 	<li>Wolfgang Viechtbauer | Maastricht University</li>
 </ul>
 
@@ -37,6 +38,6 @@ Want more information? Check out the <a href="/pages/events/2018_04_canberra/faq
 <ul>
 	<li>Neal Haddaway | Stockholm Environment Institute</li>
 	<li>Shinichi Nakagawa | University of New South Wales</li>
-	<li>Dan Noble | Australian National University</li>
+	<li>Daniel Noble | Australian National University</li>
 	<li>Martin Westgate | Australian National University</li>
 </ul>
