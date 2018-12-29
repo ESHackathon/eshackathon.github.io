@@ -7,6 +7,8 @@ Our first Evidence Synthesis Hackathon was held in Stockholm during April 2018, 
 
 Here you will find summaries of the outputs that our participants developed over the three days of the Evidence Synthesis Hackathon, with links to the GitHub repositories where the apps continue to be developed. Alternatively, you can read our report about the hackathon <a href="/assets/docs/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener"> here (PDF)</a>.
 
+<img src="/assets/images/people/ESH2018_group_photo.jpg" alt="ESH 2018"/>
+
 ## Output 1: EviAtlas
 Systematic Maps are, according to the <a href="https://environmentalevidencejournal.biomedcentral.com/submission-guidelines/preparing-your-manuscript/systematic-map">Environmental Evidence Journal</a>, “overviews of the quantity and quality of evidence in relation to a broad (open) question of policy or management relevance.” In simple terms, this means that documents are categorized according to the type, location, and publication information available for each work within a particular topic. Systematic maps are often used for environmental research, where it is particularly important to track the location of study sites. The spatial nature of a systematic map, particularly for environmental research, means that academics often use some kind of geographic map to analyze and present their information. Understanding the academic community’s familiarity with the R programming language, the team decided to build a webapp using R Shiny that could automate certain parts of creating a systematic map for environmental research.
 
