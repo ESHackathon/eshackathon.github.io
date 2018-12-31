@@ -2,6 +2,15 @@
 title: Canberra 2019
 layout: default
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121833450-3');
+</script>
 
 # Canberra 2019
 The second Evidence Synthesis Hackathon will take place at The University of New South Wales in Canberra, Australia from 8-10 April 2019. This will be a rare opportunity to meet and work with leading thinkers in the fields of evidence synthesis and meta-research.
