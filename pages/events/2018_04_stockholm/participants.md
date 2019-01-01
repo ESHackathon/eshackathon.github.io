@@ -15,17 +15,17 @@ layout: default
 
 # Stockholm 2018
 ## Invited speakers
-<img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/lajeunesse_marc.png" alt="Marc Lajeunesse"/><b>Marc Lajeunesse</b> | University of South Florida  
+<img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/lajeunesse_marc.png" alt="Marc Lajeunesse"/> <b>Marc Lajeunesse</b> | University of South Florida  
 Marc is an Associate Professor in ecology and evolutionary biology at the University of South Florida. He is an elected member of the Society for Research Synthesis Methodology (SRSM) and has 15 years of experience in research synthesis methods. Marc has developed meta-analysis and systematic review tools in Python (<a href="http://www.cebm.brown.edu/openmee/" target="_blank" rel="noopener">OpenMEE</a>) and R (<a href="https://cran.r-project.org/package=metagear" target="_blank" rel="noopener">metagear</a>).
 
-<img class="alignleft size-thumbnail wp-image-154" src="https://evidencesynthesishackathon.files.wordpress.com/2018/03/viechtbauer_wolfgang.jpg?w=150" alt="viechtbauer_wolfgang" width="150" height="150" /><b>Wolfgang Viechtbauer</b> | Maastricht University  
+<img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/viechtbauer_wolfgang.png" alt="Wolfgang Viechtbauer"/> <b>Wolfgang Viechtbauer</b> | Maastricht University  
 Wolfgang is associate professor of methodology and statistics at Maastricht University in the Netherlands. His research is primarily focused on developing statistical methods and software for meta-analysis and the design and analysis of longitudinal and multilevel studies using appropriate mixed-effects models. He is author of the <a href="http://www.metafor-project.org/" target="_blank" rel="noopener">metafor</a> package for R, which covers a wide variety of standard and advanced meta-analytic methods (e.g., fixed/random/mixed-effects models, meta-regression, multilevel and multivariate meta-analysis, network meta-analysis, phylogenetic and spatio-temporal models).
 
 
 ## Participants
 The participants in the inaugural Evidence Synthesis Hackathon are listed in alphabetical order by last name.  
 
-<img class="alignleft size-thumbnail wp-image-106" src="https://evidencesynthesishackathon.files.wordpress.com/2018/03/baker_laurie.jpg?w=150" alt="baker_laurie" width="150" height="150" /><b>Laurie Baker</b> | University of Glasgow  
+<img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/baker_laurie.png" alt="Laurie Baker"/> <b>Laurie Baker</b> | University of Glasgow  
 Laurie is a final year PhD student in Biology at the University of Glasgow. For her PhD she is using Bayesian state-space models to understand spatial and temporal patterns in disease transmission. During her masters and bachelors in marine biology she studied grey seal movement off the coast of Nova Scotia and the effect of management decisions on the Chilean pink cusk-eel fishery. Her interests are in spatial modeling and she's recently discovered the joys of text analysis and topic modeling.
 
 <img class="alignleft size-thumbnail wp-image-78" src="https://evidencesynthesishackathon.files.wordpress.com/2018/03/benitez-diaz_sergio_leonardo.jpg?w=150" alt="Benitez-Diaz_Sergio_Leonardo" width="150" height="150" /><b>Sergio Leonardo Benítez Díaz</b> | Prodigious  

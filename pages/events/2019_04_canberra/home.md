@@ -21,7 +21,7 @@ We're still confirming the timetable, speakers and events, and will update this 
 
 Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a> or see below
 
-<img src="/assets/images/places/UNSW_Canberra_1.jpg" alt="UNSW_Canberra"/>
+<img src="/assets/images/events/2019_04_canberra/UNSW_Canberra_1.jpg" alt="UNSW_Canberra"/>
 
 ## Details
 <strong>Dates: </strong>Monday 8th - Wednesday 10th April 2019  
@@ -54,4 +54,4 @@ Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq
 	<li>Martin Westgate | Australian National University</li>
 </ul>
 
-<img src="/assets/images/places/UNSW_Canberra_2.jpg" alt="UNSW_Canberra"/>
+<img src="/assets/images/events/2019_04_canberra/UNSW_Canberra_2.jpg" alt="UNSW_Canberra"/>
