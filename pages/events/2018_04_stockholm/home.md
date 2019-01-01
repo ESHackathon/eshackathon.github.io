@@ -18,7 +18,7 @@ Our first Evidence Synthesis Hackathon was held in Stockholm during April 2018, 
 Here you will find summaries of the outputs that our participants developed over the three days of the Evidence Synthesis Hackathon, with links to the GitHub repositories where the apps continue to be developed. Alternatively, you can read our report about the hackathon <a href="/assets/docs/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener"> here (PDF)</a>.
 
 <figure>
-  <img src="/assets/images/people/ESH2018_group_photo.jpg" alt="ESH 2018"/>
+  <img src="/assets/images/events/2018_04_stockholm/ESH2018_group_photo.jpg" alt="ESH 2018"/>
   <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="/pages/events/2018_04_stockholm/participants.html">Click here</a> for individual attendee profiles.</figcaption>
 </figure>
 

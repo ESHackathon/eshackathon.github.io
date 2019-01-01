@@ -15,7 +15,7 @@ layout: default
 
 # Stockholm 2018
 ## Invited speakers
-<img class="alignleft size-thumbnail wp-image-143" src="https://evidencesynthesishackathon.files.wordpress.com/2018/03/lajeunesse_marc.png?w=150" alt="Lajeunesse_Marc" width="150" height="150" /><b>Marc Lajeunesse</b> | University of South Florida  
+<img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/lajeunesse_marc.png" alt="Marc Lajeunesse"/><b>Marc Lajeunesse</b> | University of South Florida  
 Marc is an Associate Professor in ecology and evolutionary biology at the University of South Florida. He is an elected member of the Society for Research Synthesis Methodology (SRSM) and has 15 years of experience in research synthesis methods. Marc has developed meta-analysis and systematic review tools in Python (<a href="http://www.cebm.brown.edu/openmee/" target="_blank" rel="noopener">OpenMEE</a>) and R (<a href="https://cran.r-project.org/package=metagear" target="_blank" rel="noopener">metagear</a>).
 
 <img class="alignleft size-thumbnail wp-image-154" src="https://evidencesynthesishackathon.files.wordpress.com/2018/03/viechtbauer_wolfgang.jpg?w=150" alt="viechtbauer_wolfgang" width="150" height="150" /><b>Wolfgang Viechtbauer</b> | Maastricht University  
