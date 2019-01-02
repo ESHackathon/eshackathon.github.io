@@ -13,7 +13,7 @@ layout: default
   gtag('config', 'UA-121833450-3');
 </script>
 
-# Stockholm 2018
+# Attendees: Stockholm 2018
 ## Invited speakers
 <img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/lajeunesse_marc.png" alt="Marc Lajeunesse"/> <b>Marc Lajeunesse</b> | University of South Florida  
 Marc is an Associate Professor in ecology and evolutionary biology at the University of South Florida. He is an elected member of the Society for Research Synthesis Methodology (SRSM) and has 15 years of experience in research synthesis methods. Marc has developed meta-analysis and systematic review tools in Python (<a href="http://www.cebm.brown.edu/openmee/" target="_blank" rel="noopener">OpenMEE</a>) and R (<a href="https://cran.r-project.org/package=metagear" target="_blank" rel="noopener">metagear</a>).<br><br>
@@ -29,7 +29,7 @@ The participants in the inaugural Evidence Synthesis Hackathon are listed in alp
 Laurie is a final year PhD student in Biology at the University of Glasgow. For her PhD she is using Bayesian state-space models to understand spatial and temporal patterns in disease transmission. During her masters and bachelors in marine biology she studied grey seal movement off the coast of Nova Scotia and the effect of management decisions on the Chilean pink cusk-eel fishery. Her interests are in spatial modeling and she's recently discovered the joys of text analysis and topic modeling.
 
 <img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/benitez-diaz_sergio_leonardo.jpg" alt="Sergio Leonardo Benítez Díaz"/> <b>Sergio Leonardo Benítez Díaz</b> | Prodigious  
-Sergio is a system engineer with the emphasis on the design of user interfaces for improved user experiences. His work focussed on improved human-machine interactions and novel tools for data visualisation. His interests include football, tennis and travel.<br><br><br><br>
+Sergio is a system engineer with the emphasis on the design of user interfaces for improved user experiences. His work focussed on improved human-machine interactions and novel tools for data visualisation. His interests include football, tennis and travel.<br><br><br>
 
 <img align="left" width="150" height="150" src="/assets/images/events/2018_04_stockholm/attendees/bozelos_panagiotis.jpg" alt="Panagiotis Bozelos"/> <b>Panagiotis Bozelos</b> | University of Oxford  
 Panagiotis is a PhD candidate in Theoretical and Computational Neuroscience, with a major in Molecular Biology and Genetics. He is also employed as a Data Analyst at the Centre for Neural Circuits and Behaviour, University of Oxford. His research interests revolve around hippocampal processing functions of spatial and non-spatial information. He is also interested in the fields of Machine Learning / Artificial Intelligence, and History / Philosophy of Science.
