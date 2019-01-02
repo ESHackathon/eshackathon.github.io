@@ -25,10 +25,10 @@
     padding-right: 45px;
   }
 
-  &,
-  &:visited {
-    color: white; //$grey-color-dark;
-  }
+  // &,
+  // &:visited {
+  //   color: white; //$grey-color-dark;
+  // }
 }
 
 .site-nav {
@@ -78,7 +78,7 @@
   }
 
   .page-link {
-    color: blue; //$text-color;
+    color: $text-color; // white
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
