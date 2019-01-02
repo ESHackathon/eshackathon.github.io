@@ -27,7 +27,7 @@
 
   &,
   &:visited {
-    color: white; //$grey-color-dark;
+    color: $grey-color-dark;
   }
 }
 
@@ -39,7 +39,7 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
-  // color: white;
+  color: $grey-color; // white;
 
   .nav-trigger {
       display: none;
