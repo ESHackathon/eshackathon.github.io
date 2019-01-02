@@ -12,16 +12,16 @@ layout: default
   gtag('config', 'UA-121833450-3');
 </script>
 
+<img src="/assets/images/events/2019_04_canberra/Canberra_banner_small.jpg" alt="UNSW_Canberra"/>
+
 # Canberra 2019
 The second Evidence Synthesis Hackathon will take place at The University of New South Wales in Canberra, Australia from 8-10 April 2019. This will be a rare opportunity to meet and work with leading thinkers in the fields of evidence synthesis and meta-research.
 
-Our intention is to inspire and support the development of new ideas in this important field. By bringing together technologists and developers with subject-matter experts, this will be a unique opportunity to form new collaborations and develop new ways to approach critical problems. Attendees will have the opportunity to work together to build software tools and research papers that will profoundly influence the field of meta-research.
+Our intention is to inspire and support the development of new ideas in this important field. By bringing together technologists and developers with subject-matter experts, this will be a unique opportunity to form new collaborations and develop new ways to approach critical problems. Attendees will work together to build software tools and research papers that will profoundly influence the field of meta-research.
 
 We're still confirming the timetable, speakers and events, and will update this website as new information becomes available. Due to limitations on numbers we can't run open registration, but there should be plenty of room! You can <a href="/pages/events/2019_04_canberra/EoI.html">apply to attend here</a>.
 
-Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a> or see below
-
-<img src="/assets/images/events/2019_04_canberra/UNSW_Canberra_1.jpg" alt="UNSW_Canberra"/>
+Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a> or see below:
 
 ## Details
 <strong>Dates: </strong>Monday 8th - Wednesday 10th April 2019  
