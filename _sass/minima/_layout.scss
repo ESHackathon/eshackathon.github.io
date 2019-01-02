@@ -5,7 +5,7 @@
   border-top: 0px;
   border-bottom: 0px;
   background-color: #4FB3A9;
-  color: white;
+  color: black;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -39,7 +39,7 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
-  color: black; // white;
+  // color: white;
 
   .nav-trigger {
       display: none;
