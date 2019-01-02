@@ -12,22 +12,20 @@ layout: default
   gtag('config', 'UA-121833450-3');
 </script>
 
+<img src="/assets/images/events/2018_04_stockholm/Stockholm_banner_small.jpg" alt="Stockholm panorama"/>
+
 # Stockholm 2018
 
 The first Evidence Synthesis Hackathon was developed by <a href="/pages/events/2018_04_stockholm/organizers.html">Neal Haddaway and Martin Westgate</a>, and was held in Stockholm during April 2018. It was funded by MISTRA EviEM and the Environment and Society Synthesis Program (Fenner School, ANU). Hosted by the Stockholm Environment Institute and the Global Water Partnership, ESH2018 involved <a href="/pages/events/2018_04_stockholm/participants.html">29 participants from 10 countries</a>. 
 
 Here you will find summaries of the outputs that our participants developed over the three days of the Evidence Synthesis Hackathon, with links to the GitHub repositories where the apps continue to be developed. Alternatively, you can read our report about the hackathon <a href="/assets/docs/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener"> here (PDF)</a>.
 
-<figure>
-  <img src="/assets/images/events/2018_04_stockholm/ESH2018_group_photo.jpg" alt="ESH 2018"/>
-  <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="/pages/events/2018_04_stockholm/participants.html">Click here</a> for individual attendee profiles.</figcaption>
-</figure>
+# Software
 
 ## Output 1: EviAtlas
 Systematic Maps are, according to the <a href="https://environmentalevidencejournal.biomedcentral.com/submission-guidelines/preparing-your-manuscript/systematic-map">Environmental Evidence Journal</a>, “overviews of the quantity and quality of evidence in relation to a broad (open) question of policy or management relevance.” In simple terms, this means that documents are categorized according to the type, location, and publication information available for each work within a particular topic. Systematic maps are often used for environmental research, where it is particularly important to track the location of study sites. The spatial nature of a systematic map, particularly for environmental research, means that academics often use some kind of geographic map to analyze and present their information. Understanding the academic community’s familiarity with the R programming language, the team decided to build a webapp using R Shiny that could automate certain parts of creating a systematic map for environmental research.
 
 Using EviAtlas, a researcher will be able to shorten the time needed to generate key plots and maps of the previous work they’re analyzing. What might have taken a full days work in the past could now be condensed into about an hour. EviAtlas is still in development, and is open to pull requests <a href="https://github.com/ESHackathon/eviatlas/">on GitHub</a>.
-
 
 ## Output 2: ROSES (RepOrting standards for Systematic Evidence Syntheses) website overhaul
 The ROSES forms were developed to improve the standards of evidence synthesis reporting and the transparency of the methods used for reviews and maps. The website (<a href="http://www.roses-reporting.com">www.roses-reporting.com</a>) aims to help adoption of the ROSES forms as well as improve the barrier to entry on using the ROSES forms in the least obtrusive way possible. In this project we've been working to improve the user experience, increasing efficiency and helping reviewers get the most out of the forms and website. We will be releasing the new version of the ROSES website shortly.
@@ -64,6 +62,13 @@ The mapping components are written using D3.js. The website is static, and can b
 
 ## Output 9: A tool to fill in missing information from incomplete references
 Often, citations downloaded from bibliographic databases and other resources, such as Google Scholar, are missing certain details like abstracts or volume/page details that are important for a variety of reasons, such as screening in systematic reviews or locating full text documents. This functionality is intended to be used for filling in missing information from a set of citation files, including abstracts. More information can be found on Github <a href="https://github.com/ESHackathon/fill_in_incomplete_refs">here</a>.
+
+<figure>
+  <img src="/assets/images/events/2018_04_stockholm/ESH2018_group_photo.jpg" alt="ESH 2018"/>
+  <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="/pages/events/2018_04_stockholm/participants.html">Click here</a> for individual attendee profiles.</figcaption>
+</figure>
+
+# Papers
 
 ## Output 10: An academic paper on using R for evidence synthesis
 R is a widely-used, open source programming language and statistical environment. Users are able to contribute add-ons to R functionality in a standardised way by developing new software ‘packages’. However, identifying which packages are most useful for a specific task can be challenging, particularly for evidence synthesis (ES) projects which typically include a number of discrete tasks, many using packages that may have been designed for other purposes. Consequently, a valuable tool for future researchers (and hackathons) would be a ‘map’ of available software packages, showing how those packages apply to ES. This would help guide new users through effective workflows, as well as identifying parts of the evidence synthesis process that are currently well supported in R, or conversely, in need of further software development. This project is currently in the data collection phase, wherein participants systematically search for R packages of potential value to ES projects and catalogue their findings in a structured way. The intended output is an academic article describing our findings, linked to a live database of R packages, the functions they contain, and the specific ES tasks that they each solve.
