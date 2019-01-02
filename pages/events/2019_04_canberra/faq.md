@@ -12,7 +12,7 @@ layout: default
   gtag('config', 'UA-121833450-3');
 </script>
 
-# FAQ: Canberra 2019
+# Canberra 2019: FAQ
 
 <strong>How big will this event be?</strong>  
 Numbers are capped at 60 people.

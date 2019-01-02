@@ -12,7 +12,7 @@ layout: default
   gtag('config', 'UA-121833450-3');
 </script>
 
-# Organizers: Stockholm 2018
+# Stockholm 2018: Organizers
 
 <img align="left" width="150" height="150" src="/assets/images/events/organizers/Haddaway_Neal.jpg" alt="Neal Haddaway"/><b>Neal Haddaway</b> is a research fellow at the Stockholm Environment Institute. His main research interests are around the production and use of environmental evidence in decision-making, by improving the transparency, efficiency and reliability of evidence synthesis as a methodology. Neal is the co-creator of ROSES (<a href="http://www.roses-reporting.com" target="_blank" rel="noopener">RepOrting standards for Systematic Evidence Syntheses</a>), a set of rigorous standards for reporting the conduct of systematic reviews and maps in environmental topics.  
 <em>Research profile:</em> <a href="https://sei.academia.edu/NealHaddaway" target="_blank" rel="noopener">https://sei.academia.edu/NealHaddaway</a>  
