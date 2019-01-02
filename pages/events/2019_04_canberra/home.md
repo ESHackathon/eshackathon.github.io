@@ -47,7 +47,7 @@ In alphabetical order:
 	<li>Wolfgang Viechtbauer | Maastricht University</li>
 </ul>
 
-<a href="/pages/events/2019_04_canberra/organizers.html"><h2>Organising committee</h2></a>
+<h2><a href="/pages/events/2019_04_canberra/organizers.html">Organising committee</a></h2>
 <ul>
 	<li>Neal Haddaway | Stockholm Environment Institute</li>
 	<li>Shinichi Nakagawa | University of New South Wales</li>
