@@ -13,7 +13,8 @@ layout: default
 </script>
 
 # Stockholm 2018
-Our first Evidence Synthesis Hackathon was held in Stockholm during April 2018, and involved <a href="/pages/events/2018_04_stockholm/participants.html">29 participants from 10 countries</a>. It was funded by MISTRA EviEM and the Environment and Society Synthesis Program (Fenner School, ANU), and hosted by the Stockholm Environment Institute and the Global Water Partnership.
+
+The first Evidence Synthesis Hackathon was developed by <a href="/pages/events/2018_04_stockholm/organizers.html">Neal Haddaway and Martin Westgate</a>, and was held in Stockholm during April 2018. It was funded by MISTRA EviEM and the Environment and Society Synthesis Program (Fenner School, ANU). Hosted by the Stockholm Environment Institute and the Global Water Partnership, ESH2018 included <a href="/pages/events/2018_04_stockholm/participants.html">29 participants from 10 countries</a>. 
 
 Here you will find summaries of the outputs that our participants developed over the three days of the Evidence Synthesis Hackathon, with links to the GitHub repositories where the apps continue to be developed. Alternatively, you can read our report about the hackathon <a href="/assets/docs/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener"> here (PDF)</a>.
 
