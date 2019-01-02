@@ -5,7 +5,7 @@
   border-top: 0px;
   border-bottom: 0px;
   background-color: #4FB3A9;
-  color: black;
+  // color: black;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -78,7 +78,7 @@
   }
 
   .page-link {
-    color: white; //$text-color;
+    color: blue; //$text-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
