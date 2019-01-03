@@ -37,7 +37,11 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
-  color: $grey-color-dark; // white;
+  color: white;
+
+  @include media-query($on-palm) {
+    color: $grey-color-dark;
+  }
 
   .nav-trigger {
       display: none;
