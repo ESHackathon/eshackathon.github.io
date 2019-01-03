@@ -23,10 +23,13 @@
     padding-right: 45px;
   }
 
-  // &,
-  // &:visited {
-  //   color: $grey-color-light;
-  // }
+  &,
+  &:visited {
+    color: white;
+    @include media-query($on-palm) {
+      color: $grey-color-light;
+    }
+  }
 }
 
 .site-nav {
