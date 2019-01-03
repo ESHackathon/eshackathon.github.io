@@ -37,7 +37,7 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
-  color: $grey-color; // white;
+  color: $grey-color-dark; // white;
 
   .nav-trigger {
       display: none;
@@ -76,7 +76,7 @@
   }
 
   .page-link {
-    color: $grey-color; // white;
+    color: $grey-color-dark; // white;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
