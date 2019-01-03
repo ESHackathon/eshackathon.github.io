@@ -2,16 +2,6 @@
 title: Outline
 layout: default
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121833450-3');
-</script>
-
 # Developing tools to rapidly summarise research evidence
 
 Evidence synthesis (ES) is the process of converting scientific outputs (such as articles and reports) into usable evidence to inform management or policy. ES is critical to evidence-based management in a range of fields from environmental conservation to medicine, but ES projects can be enormously time-consuming and expensive.

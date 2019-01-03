@@ -2,17 +2,8 @@
 title: Events
 layout: default
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121833450-3');
-</script>
-
 # Event List
+
 <h2><a href="/pages/events/2019_04_canberra/home.html">Canberra | April 2019</a></h2>
 The next ESH will be held at UNSW Canberra from 8th-10th April 2019. Registration is open now!
 

@@ -2,16 +2,6 @@
 title: Canberra 2019
 layout: default
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121833450-3');
-</script>
-
 <img src="/assets/images/events/2019_04_canberra/Canberra_banner_small.jpg" alt="Canberra panorama"/>
 
 # Canberra 2019

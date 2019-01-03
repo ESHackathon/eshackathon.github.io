@@ -2,17 +2,6 @@
 title: Stockholm 2018 | Participants
 layout: default
 ---
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-121833450-3');
-</script>
-
 # Stockholm 2018: Attendees
 
 ## Invited speakers
