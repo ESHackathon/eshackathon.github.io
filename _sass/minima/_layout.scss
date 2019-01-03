@@ -25,7 +25,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $grey-color-light;
   }
 }
 
@@ -37,11 +37,6 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
-  color: white;
-
-  @include media-query($on-palm) {
-    color: $grey-color-dark;
-  }
 
   .nav-trigger {
       display: none;
@@ -80,10 +75,15 @@
   }
 
   .page-link {
-    color: $grey-color-dark; // white;
+    // color: $grey-color-dark; // white
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
+    color: white;
+
+    @include media-query($on-palm) {
+      color: $grey-color-dark;
+    }
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
