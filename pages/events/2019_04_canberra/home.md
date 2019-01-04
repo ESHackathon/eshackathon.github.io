@@ -11,7 +11,7 @@ Our intention is to inspire and support the development of new ideas in this imp
 
 We're still confirming the timetable, speakers and events, and will update this website as new information becomes available. Due to limitations on numbers we can't run open registration, but there should be plenty of room! You can <a href="/pages/events/2019_04_canberra/EoI.html">apply to attend here</a>.
 
-Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a>, <a href="mailto:eshackathon@gmail.com>"send us an email</a>, or see below:
+Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a>, <a href="mailto:eshackathon@gmail.com">send us an email</a>, or see below:
 
 ## Details
 <strong>Dates: </strong>Monday 8<sup>th</sup> - Wednesday 10<sup>th</sup> April 2019  
