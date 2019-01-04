@@ -27,7 +27,7 @@
   &:visited {
     color: white;
     @include media-query($on-palm) {
-      color: $grey-color-light;
+      color: $grey-color-dark;
     }
   }
 }

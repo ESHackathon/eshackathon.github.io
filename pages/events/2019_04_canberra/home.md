@@ -11,10 +11,10 @@ Our intention is to inspire and support the development of new ideas in this imp
 
 We're still confirming the timetable, speakers and events, and will update this website as new information becomes available. Due to limitations on numbers we can't run open registration, but there should be plenty of room! You can <a href="/pages/events/2019_04_canberra/EoI.html">apply to attend here</a>.
 
-Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a> or see below:
+Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq.html">FAQs page</a>, <a href="mailto:eshackathon@gmail.com>"send us an email</a>, or see below:
 
 ## Details
-<strong>Dates: </strong>Monday 8th - Wednesday 10th April 2019  
+<strong>Dates: </strong>Monday 8<sup>th</sup> - Wednesday 10<sup>th</sup> April 2019  
 <strong>Venue: </strong>UNSW Canberra & ANU  
 <strong>Registration cost: </strong>$100 (full) or $50 (student)
 
@@ -25,6 +25,7 @@ Want more information? Check out the <a href="/pages/events/2019_04_canberra/faq
 	<li>Coding stream: Build software for ES with leading developers</li>
 	<li>Poster session</li>
 	<li>Public lecture and software presentation session</li>
+  <li>Conference Dinner</li>
 </ul>
 
 ## Confirmed presenters
@@ -33,8 +34,8 @@ In alphabetical order:
   <li>Adam Dunn | Macquarie University</li>
   <li>Kerrie Mengersen | Queensland University of Technology</li>
   <li>Gillian Petrokofsky | University of Oxford</li>
+  <li>Wolfgang Viechtbauer | Maastricht University</li>
 	<li>Vivian Welch | Campbell Collaboration</li>
-	<li>Wolfgang Viechtbauer | Maastricht University</li>
 </ul>
 
 <h2><a href="/pages/events/2019_04_canberra/organizers.html">Organising committee</a></h2>
