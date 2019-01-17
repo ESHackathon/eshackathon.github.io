@@ -5,7 +5,7 @@ categories: misc
 ---
 <em>An interview with Neal Haddaway</em>  
 
-In the first of our blog series, Neal Haddaway, a Research Fellow from the Stockholm Environmental Institute, answers our questions about what exactly the Evidence Synthesis Hackathon is and how Evidence Synthesis Technology can support rigorous evidence-informed decision-making.  
+In the first of our blog series, Neal Haddaway, a Research Fellow from the Stockholm Environmental Institute, answers our questions about what exactly the <em>Evidence Synthesis Hackathon</em> is and how <em>Evidence Synthesis Technology</em> can support rigorous evidence-informed decision-making.  
 <br>
 
 <b><em>1. So, what exactly is the Evidence Synthesis Hackathon?</em></b>  
@@ -13,7 +13,7 @@ Let’s start with Evidence Synthesis – this is the term we use to describe fo
 
 Rigorous evidence synthesis can take a considerable amount of time and resources, and at the moment we’re seeing an explosion of evidence across all subjects. That makes it increasingly difficult for reviewers to summarise a topic, even when it’s quite narrow in scope.
 
-In recent years, we’ve seen a huge growth in technology that can make our lives easier when we conduct evidence syntheses: from text analysis to machine learning. Much of the job of a systematic reviewer is very repetitive and there is a great scope for computers to automate or assist in these tasks: this is the essence of Evidence Synthesis Technology.
+In recent years, we’ve seen a huge growth in technology that can make our lives easier when we conduct evidence syntheses: from text analysis to machine learning. Much of the job of a systematic reviewer is very repetitive and there is a great scope for computers to automate or assist in these tasks: this is the essence of <em>Evidence Synthesis Technology</em>.
 
 A ‘hackathon’ is a workshop where people work to solve problems; sometimes by writing code, but it can also involve planning out what future research or software might be needed. Martin Westgate and I first chatted in 2017 about using different tools (‘packages’) in the statistical software ‘R’ to support evidence synthesis. We rapidly realized that there was a large community of passionate coders and programmers who might be able to work with us to produce tools to assist reviewers, and so the Evidence Synthesis Hackathon (ESH) was born.
 
@@ -27,7 +27,7 @@ Evidence Synthesis Technology (ESTech) is not only important to help us deal wit
 <b><em>3. What does a hackathon involve? Is it only for programmers?</em></b>  
 Our hackathons bring together diverse groups of people with a range of different skills to produce solutions for our main problems in evidence synthesis. People differ in their backgrounds (social scientists, natural scientists, computer scientists, mathematicians…) and the industries where they work (researchers, NGOs, start-ups, industry…). Further, attendees that can write code usually differ in the coding languages they use (R, java, python…). This diversity helps people to overcome problems by working as a team.
 
-But the hackathon is more than just a computer science exercise – it’s primarily about solving problems, and some of this can be done by producing technology, whilst for other issues we need to identify and understand the problem. For that reason, we also rely heavily on evidence synthesis experts to think through some of the more fundamental issues facing evidence synthesis, for example, how we can deal with predatory journals or paywalled research. There is a vital place at the ESH for non-programmers as well in helping to understand these problems and identify possible solutions, some of which may require technology.  
+But the hackathon is more than just a computer science exercise – it’s primarily about solving problems, and some of this can be done by <em>producing</em> technology, whilst for other issues we need to identify and understand the problem. For that reason, we also rely heavily on evidence synthesis experts to think through some of the more fundamental issues facing evidence synthesis, for example, how we can deal with predatory journals or paywalled research. There is a vital place at the ESH for non-programmers as well in helping to understand these problems and identify possible solutions, some of which may require technology.  
 <br>
 
 <b><em>4. How did you get interested in Evidence Synthesis Technology?</em></b>  
