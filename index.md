@@ -1,6 +1,6 @@
 ---
 title: Outline
-layout: default
+layout: home
 ---
 # Developing tools to rapidly summarise research evidence
 
