@@ -31,9 +31,9 @@ But the hackathon is more than just a computer science exercise – it’s prima
 <br>
 
 <b><em>4. How did you get interested in Evidence Synthesis Technology?</em></b>  
-I’ve always been the kind of person who, when faced with a tedious or repetitive task, would spend days trying to find or develop a tool that could do it for me. I wouldn’t call myself a ‘coder’ but I love what computers can do for us and how increasing efficiency can free up resources for more intellectual tasks and bigger problems. I got into evidence synthesis somewhat by accident, but I’m now very happy to combine my love for rigorous evidence synthesis with my systematic aversion to tedious tasks.
+I’ve always been the kind of person who, when faced with a tedious or repetitive task, would spend days trying to find or develop a tool that could do it for me. I wouldn’t call myself a ‘coder’ but I love what computers can do for us and how increasing efficiency can free up resources for more intellectual tasks and bigger problems. I got into evidence synthesis somewhat by accident, but I’m now very happy to combine my love for rigorous evidence synthesis with my systematic aversion to tedious tasks.  
 <br>
 
 <b><em>5. How can others get involved?</em></b>  
-The best way to learn about evidence synthesis is to do one: conduct a systematic map or systematic review (after careful thought and planning!). Getting involved with the ESH is easy – until the end of January you can apply to join us in Canberra, and after that you can still have the opportunity to join remotely. We’ll be running ESH events throughout 2019 and beyond, so get in touch and find out more at <a href="https://www.evidencesynthesishackathon.com">evidencesynthesishackathon.com</a>.
+The best way to learn about evidence synthesis is to do one: conduct a systematic map or systematic review (after careful thought and planning!). Getting involved with the ESH is easy – until the end of January you can apply to join us in Canberra, and after that you can still have the opportunity to join remotely. We’ll be running ESH events throughout 2019 and beyond, so get in touch and find out more at <a href="/">evidencesynthesishackathon.com</a>.
 
