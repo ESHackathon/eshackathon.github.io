@@ -42,7 +42,7 @@ Jacqui is an evidence synthesis specialist who has spent the last 9 years workin
 <img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/feiermann_andrew.jpg" alt="Andrew Feiermann"/><b>Andrew Feierman</b> | Data-Driven Yale  
 Andrew is a Quantitative Analyst for the Yale Data-Driven Environmental Solutions group. His research and experience is centered around energy efficiency in real estate. Prior to joining Yale, he worked for the Institute for Market Transformation in Washington, DC, where he modeled city-level environmental policies and worked with real estate companies to reduce energy consumption within their buildings. He has a B.A. from American University’s School of International Service, and further education from the New York City Data Science Academy.
 
-<img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/grainger_matthew.JPG" alt="Matthew Grainger"/><b>Matt Grainger</b> | Newcastle University  
+<img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/grainger_matthew.jpg" alt="Matthew Grainger"/><b>Matt Grainger</b> | Newcastle University  
 Matt is a Research Associate in the Modelling, Evidence & Policy Research Group at Newcastle University. He works with graphical Bayesian decision models to contextualise scientific evidence for the benefit of policy makers in the realm of biodiversity conservation and sustainability. He is an expert in combining quantitative and qualitative data and dealing with high levels of uncertainty. He also has a side-line in the conservation of pheasants, predominately in Southeast Asia.
 
 <img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/gray_charles.jpg" alt="Charles Gray"/><b>Charles Gray</b> | La Trobe University  
@@ -51,7 +51,7 @@ Charles is a proud <a href="http://choosemaths.org.au/charles-gray/" target="_bl
 <img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/han_sarah.png" alt="Sarah Han"/><b>Sarah Han</b> | Collide LLC  
 Sarah is a multi-disciplinary software engineer and UX/UI designer with skills in front end development, 3D web visualizations and 3D modeling. She is passionate about integrating design and technology to develop beautiful, functional and interactive products that enhance people’s lives. Sarah is particularly interested in emerging and experimental technologies. She regularly participates in hackathons to create innovative inventions.
 
-<img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/jain_udit.JPG" alt="Udit Jain"/><b>Udit Jain</b> | Data-Driven Yale  
+<img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/jain_udit.jpg" alt="Udit Jain"/><b>Udit Jain</b> | Data-Driven Yale  
 Udit is a Senior at Yale College where he is a double major in Computer Science and Statistics & Data Science. He's worked on numerous projects as a researcher with the Data Driven Environmental Research group at Yale. Most of his projects leveraged his interest and expertise in large scale data analysis, machine learning, natural language processing and network science. His other research projects have focused on deep learning. Udit is also passionate about startups and venture capital and serves as a Partner at Dorm Room Fund.
 
 <img align="left" width="150" height="150" src="/events/2018-04-stockholm/people/ma_peter.jpg" alt="Peter Ma"/><b>Peter Ma</b> | Clean Water AI  
