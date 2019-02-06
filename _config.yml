@@ -7,6 +7,5 @@ github_username: ESHackathon
 email: eshackathon@gmail.com
 google_analytics: UA-121833450-3
 header_pages:
-- pages/events/2019_04_canberra/home.md
-- pages/event_list.md
-- pages/events/2019_04_canberra/organizers.md
+- events/2019-04-canberra.md
+- event_list.md

@@ -17,7 +17,7 @@ In recent years, we’ve seen a huge growth in technology that can make our live
 
 A ‘hackathon’ is a workshop where people work to solve problems; sometimes by writing code, but it can also involve planning out what future research or software might be needed. Martin Westgate and I first chatted in 2017 about using different tools (‘packages’) in the statistical software ‘R’ to support evidence synthesis. We rapidly realized that there was a large community of passionate coders and programmers who might be able to work with us to produce tools to assist reviewers, and so the Evidence Synthesis Hackathon (ESH) was born.
 
-The ESH brings together diverse groups of coders from across the globe to learn about evidence synthesis and collaboratively produce tools to support evidence synthesis. The first ESH was in <a href="/pages/events/2018_04_stockholm/home.html">Stockholm in April 2018</a>, and our second annual ESH is taking place in <a href="/pages/events/2019_04_canberra/home.html">Canberra in April 2019</a>. In 2018, participants produced 9 apps and 2 academic papers; a hugely productive event!  
+The ESH brings together diverse groups of coders from across the globe to learn about evidence synthesis and collaboratively produce tools to support evidence synthesis. The first ESH was in <a href="/pages/events/2018-04-stockholm/home.html">Stockholm in April 2018</a>, and our second annual ESH is taking place in <a href="/pages/events/2019-04-canberra/home.html">Canberra in April 2019</a>. In 2018, participants produced 9 apps and 2 academic papers; a hugely productive event!  
 <br>
 
 <b><em>2. Why is technology important for Evidence Synthesis?</em></b>  
