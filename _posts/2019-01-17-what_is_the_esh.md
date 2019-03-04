@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What is the Evidence Synthesis Hackathon?
-categories: misc
+description: An interview with Neal Haddaway
+tag: posts interviews
 ---
-<em>An interview with Neal Haddaway</em>  
 
 In the first of our blog series, Neal Haddaway, a Research Fellow from the Stockholm Environmental Institute, answers our questions about what exactly the <em>Evidence Synthesis Hackathon</em> is and how <em>Evidence Synthesis Technology</em> can support rigorous evidence-informed decision-making.  
 <br>
@@ -35,5 +35,6 @@ I’ve always been the kind of person who, when faced with a tedious or repetiti
 <br>
 
 <b><em>5. How can others get involved?</em></b>  
-The best way to learn about evidence synthesis is to do one: conduct a systematic map or systematic review (after careful thought and planning!). Getting involved with the ESH is easy – until the end of January you can apply to join us in Canberra, and after that you can still have the opportunity to join remotely. We’ll be running ESH events throughout 2019 and beyond, so get in touch and find out more at <a href="/">evidencesynthesishackathon.com</a>.
+The best way to learn about evidence synthesis is to do one: conduct a systematic map or systematic review (after careful thought and planning!). Getting involved with the ESH is easy – until the end of January you can apply to join us in Canberra, and after that you can still have the opportunity to join remotely. We’ll be running ESH events throughout 2019 and beyond, so get in touch and find out more at <a href="/">evidencesynthesishackathon.com</a>.  
 
+<em>Posted 2019-01-17</em>
