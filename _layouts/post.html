@@ -16,10 +16,10 @@ layout: default
   </header>
 
   <span>[
-  {%- for tag in page.tags -%}
+  {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {%- endfor -%}
+  {% endfor %}
 ]</span>
 
   <div class="post-content e-content" itemprop="articleBody">
