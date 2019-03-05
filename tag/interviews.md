@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: interviews"
+title: "Interviews"
 tag: interviews
 ---
