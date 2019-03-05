@@ -8,12 +8,6 @@ layout: default
   <a href="{{ post.url }}">{{ post.title }}</a><br>
     <em>{{ post.description }}</em><br>
     {{ post.excerpt }}
-    <span>
-      {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-      {% endfor %}
-    </span>
 {% endfor %}
 </ul>
 </div>
