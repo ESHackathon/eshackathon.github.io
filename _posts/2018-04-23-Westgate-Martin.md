@@ -14,5 +14,5 @@ rel="noopener">
   <i class="fa fa-twitter fa-2x" style="color:#4FB3A9"></i>
 </a>&nbsp;
 <a href="https://github.com/mjwestgate/revtools" title="GitHub" target="_blank" rel="noopener">
-  <i class="fa fa-github fa-2x" style="color:#727272"></i>
+  <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i>
 </a>
