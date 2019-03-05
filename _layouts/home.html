@@ -9,7 +9,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {% for post in site.tags[posts] %}
+      {% for post in site.tags["posts"] %}
         <a href="{{ post.url }}">{{ post.title }}</a><br>
           <em>{{ post.description }}</em><br>
           {{ post.excerpt }}
