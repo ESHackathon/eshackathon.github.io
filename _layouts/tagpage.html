@@ -3,13 +3,12 @@ layout: default
 ---
 <div class="post">
 <h1>{{ page.title }}</h1>
-<ul>
 {% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a>
+  <p>
+    <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
     <em>{{ post.description }}</em><br>
     {{ post.excerpt }}
-  </li>
+  </p>
 {% endfor %}
-</ul>
 </div>
 <hr>
