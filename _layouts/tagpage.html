@@ -6,7 +6,7 @@ layout: default
 {% for post in site.tags[page.tag] %}
   <p>
     <a href="{{ post.url }}"><b>{{ post.title }}</b></a> | {{ post.description }}<br>
-    {{ post.excerpt }}
+    {{ post.excerpt }}<br>
   </p>
 {% endfor %}
 </div>
