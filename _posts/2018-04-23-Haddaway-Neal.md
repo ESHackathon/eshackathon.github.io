@@ -10,7 +10,7 @@ tags: participants organisers stockholm-2018 canberra-2019
   <a href="https://sei.academia.edu/NealHaddaway" title="Homepage" target="_blank" rel="noopener">
     <i class="fa fa-home fa-2x" style="color:#727272"></i>
   </a>
-  <a href="https://twitter.com/nealhaddaway", title="Twitter">
+  <a href="https://twitter.com/nealhaddaway", title="Twitter" target="_blank" rel="noopener">
     <i class="fa fa-twitter fa-2x" style="color:#727272"></i>
   </a>
 </div>
