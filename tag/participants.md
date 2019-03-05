@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Participants"
-tag: participants
+title: "Alumni"
+tag: participant
 ---

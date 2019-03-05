@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Organisers"
-tag: organisers
+tag: organiser
 ---
