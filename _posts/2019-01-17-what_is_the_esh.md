@@ -4,8 +4,7 @@ title: What is the Evidence Synthesis Hackathon?
 description: An interview with Neal Haddaway
 tags: posts interviews
 ---
-
-In the first of our blog series, Neal Haddaway, a Research Fellow from the Stockholm Environmental Institute, answers our questions about what exactly the <em>Evidence Synthesis Hackathon</em> is and how <em>Evidence Synthesis Technology</em> can support rigorous evidence-informed decision-making.  
+<img align="left" width="150" height="150" src="/events/2019-04-canberra/people/Haddaway_Neal.jpg" alt="Neal Haddaway"/>In the first of our blog series, Neal Haddaway, a Research Fellow from the Stockholm Environmental Institute, answers our questions about what exactly the <em>Evidence Synthesis Hackathon</em> is and how <em>Evidence Synthesis Technology</em> can support rigorous evidence-informed decision-making.  
 <br>
 
 <b><em>1. So, what exactly is the Evidence Synthesis Hackathon?</em></b>  
