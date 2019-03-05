@@ -13,6 +13,6 @@ tags: participant organiser stockholm-2018 stockholm-2018-mini canberra-2019 stk
 rel="noopener">
   <i class="fa fa-twitter fa-2x" style="color:#4FB3A9"></i>
 </a>&nbsp;
-<a href="https://github.com/mjwestgate/revtools" title="GitHub" target="_blank" rel="noopener">
+<a href="https://github.com/mjwestgate" title="GitHub" target="_blank" rel="noopener">
   <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i>
 </a>
