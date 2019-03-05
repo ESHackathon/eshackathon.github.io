@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Stockholm 2018"
+title: "Participants: Stockholm 2018"
 tag: stockholm-2018
 ---
