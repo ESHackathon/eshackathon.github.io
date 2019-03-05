@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Posts"
-tag: posts
+tag: Posts
 ---
