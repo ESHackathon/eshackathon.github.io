@@ -16,7 +16,6 @@ The next ESH will be held at UNSW Canberra from 8th-10th April 2019.
 The first miniESH ran for 3 days, and focussed on completing the visualisation app '<a href="https://github.com/ESHackathon/eviatlas">eviatlas'</a>.<sup>1</sup>  
 <br>
 <br>
-<br>
 <a href="/events/2018-04-stockholm.html">
   <img align="left" width="100" height="100" src="/assets/images/ESH_logo_stockholm2018.png" alt="ESH Stockholm 2018"/>
 </a><a href="/events/2018-04-stockholm.html"><b>Stockholm</b> | April 2018</a>  
