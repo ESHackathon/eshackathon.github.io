@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Alumni"
+title: "People"
 tag: participant
 ---
 <b>People</b> <a href="/tag/participant"><code><nobr>all-attendees</nobr></code></a>&nbsp;
