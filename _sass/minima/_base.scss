@@ -62,9 +62,12 @@ img {
   padding: 5px 15px 5px 0px;
 }
 
-clearpara {
-  overflow: auto;
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
+
 
 /**
  * Figures
