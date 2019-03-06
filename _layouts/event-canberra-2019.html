@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  <h2>Invited Speakers</h2>
+  <div class="post">
+  {% for post in site.tags["canberra-2019-speaker"] %}
+    <p>
+      <a href="{{ post.url }}"><b>{{ post.title }}</b></a> | {{ post.description }}<br>
+      {{ post.excerpt }}<br>
+    </p>
+  {% endfor %}
+  </div>
+  <hr>
+
+  <h2>Organising commitee</h2>
+  <div class="post">
+  {% for post in site.tags["canberra-2019-organiser"] %}
+    <p>
+      <a href="{{ post.url }}"><b>{{ post.title }}</b></a> | {{ post.description }}<br>
+      {{ post.excerpt }}<br>
+    </p>
+  {% endfor %}
+  </div>
+  <hr>
+
+</div>
