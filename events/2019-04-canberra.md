@@ -2,7 +2,7 @@
 title: Canberra 2019
 layout: event-canberra-2019
 ---
-<img align="left" width="100" height="100" src="/assets/images/ESH_logo_canberra2019.png" alt="ESH Canberra 2019"/><b>Canberra 2019</b>  
+<img align="left" width="150" height="150" src="/assets/images/ESH_logo_canberra2019.png" alt="ESH Canberra 2019"/><b>Canberra 2019</b>  
 The second Evidence Synthesis Hackathon will take place at The University of New South Wales in Canberra, Australia from 8-10 April 2019. This will be a rare opportunity to meet and work with leading thinkers in the fields of evidence synthesis and meta-research, including speakers from all three evidence synthesis collaborations: <a href="https://www.cochrane.org">Cochrane</a>, <a href="https://campbellcollaboration.org">Campbell</a>, and the <a href="http://www.environmentalevidence.org">Collaboration for Environmental Evidence</a>.
 
 Our intention is to inspire and support the development of new ideas in this important field. By bringing together technologists and developers with subject-matter experts, this will be a unique opportunity to form new collaborations and develop new ways to approach critical problems. Attendees will work together to build software tools and research papers that will profoundly influence the field of meta-research.

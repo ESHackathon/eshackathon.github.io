@@ -2,13 +2,12 @@
 title: Stockholm 2018
 layout: default
 ---
-<img src="/events/2018-04-stockholm/Stockholm_banner_small.jpg" alt="Stockholm panorama"/>
-
-# Stockholm 2018
-
+<img align="left" width="150" height="150" src="/assets/images/ESH_logo_stockholm2018.png" alt="ESH Stockholm 2018 2019"/><b>Stockholm 2018</b>  
 The first Evidence Synthesis Hackathon was developed by <a href="/events/2018-04-stockholm/organizers.html">Neal Haddaway and Martin Westgate</a>, and was held in Stockholm during April 2018. It was funded by MISTRA EviEM and the Environment and Society Synthesis Program (Fenner School, ANU). Hosted by the Stockholm Environment Institute and the Global Water Partnership, ESH2018 involved <a href="/events/2018-04-stockholm/participants.html">29 participants from 10 countries</a>. 
 
-Here you will find summaries of the outputs that our participants developed over the three days of the Evidence Synthesis Hackathon, with links to the GitHub repositories where the apps continue to be developed. Alternatively, you can read our report about the hackathon <a href="/assets/docs/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener"> here (PDF)</a>.
+Here you will find summaries of the outputs that our participants developed over the three days of the Evidence Synthesis Hackathon, with links to the GitHub repositories where the apps continue to be developed. Alternatively, you can read our report about the hackathon <a href="/assets/docs/evidence-synthesis-hackathon-summary-report-2018.pdf" target="_blank" rel="noopener"> here (PDF)</a>.  
+
+<img src="/events/2018-04-stockholm/Stockholm_banner_small.jpg" alt="Stockholm panorama"/>
 
 # Software
 
