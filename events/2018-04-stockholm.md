@@ -37,7 +37,7 @@ We hope to improve the project and tackle most of the previously described probl
 ## Output 6: Tool to extract reference lists from PDFs
 Full-text PDFs are almost always the most reliable source of information from academic articles. Even though several resources allow for the extraction of data from full-text documents, most of the time the information is incomplete, inaccurate, or not available. PDFs were created to look great, not to extract data from. So, when you try to copy/paste from PDF you often get unexpected results.
 
-In this first version the project allows users to easily copy text from a PDF and attempts to automatically identify the references. You can try the current version <a href="http://35.196.139.104/">here</a>or check the <a href="https://github.com/ESHackathon/pdf-to-text">repository</a>.
+In this first version the project allows users to easily copy text from a PDF and attempts to automatically identify the references. You can try the current version <a href="http://35.196.139.104/">here</a> or check the <a href="https://github.com/ESHackathon/pdf-to-text">repository</a>.
 
 ## Output 7: Paperweight (using natural language processing to improve search queries)
 Paperweight, driven by a combination of natural language processing (NLP) algorithms. In the evidence synthesis process, the first steps typically require reviewers to manually build a database of articles and journals they want to summarize. This process entails an exhaustive search of <a href="https://scholar.google.com/">Google Scholar</a> using manually chosen keywords. This approach is vulnerable to bias since the reviewer might be more likely to find certain articles or journals in their review over other ones, depending on the selected search keywords. Tackling this problem, Paperweight seeks to remove the need for a reviewer to manually choose keywords to form their search queries.
@@ -54,7 +54,7 @@ Often, citations downloaded from bibliographic databases and other resources, su
 
 <figure>
   <img src="/events/2018-04-stockholm/ESH2018_group_photo.jpg" alt="ESH 2018"/>
-  <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="/events/2018-04-stockholm/participants.html">Click here</a> for individual attendee profiles.</figcaption>
+  <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="tag/stockholm-2018">Click here</a> for individual attendee profiles.</figcaption>
 </figure>
 
 # Papers
