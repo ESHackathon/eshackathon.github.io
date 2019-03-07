@@ -10,9 +10,12 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {% for post in site.tags["posts"] %}
-        <a href="{{ post.url }}">{{ post.title }}</a><br>
+        <div class="clearfix">
+          <a href="{{ post.url }}">{{ post.title }}</a><br>
           <em>{{ post.description }}</em><br>
           {{ post.excerpt }}
+        </div>
+        <br>
       {% endfor %}
     </ul>
   {%- endif -%}
