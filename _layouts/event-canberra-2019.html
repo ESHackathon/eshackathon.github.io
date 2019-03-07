@@ -5,27 +5,31 @@ layout: default
 <div class="home">
 
   {{ content }}
+  <br>
 
   <h2>Invited Speakers</h2>
   <div class="post">
   {% for post in site.tags["canberra-2019-speaker"] %}
-    <p>
-      <a href="{{ post.url }}"><b>{{ post.title }}</b></a> | {{ post.description }}<br>
-      {{ post.excerpt }}<br>
-    </p>
+    <div class="clearfix">
+      <br>
+      <b><a href="{{ post.url }}">{{ post.title }}</a> | {{ post.description }}</b><br>
+      {{ post.excerpt }}
+    </div>
   {% endfor %}
   </div>
+
   <hr>
+  <br>
 
   <h2>Organising commitee</h2>
   <div class="post">
   {% for post in site.tags["canberra-2019-organiser"] %}
-    <p>
-      <a href="{{ post.url }}"><b>{{ post.title }}</b></a> | {{ post.description }}<br>
-      {{ post.excerpt }}<br>
-    </p>
+    <div class="clearfix">
+      <br>
+      <b><a href="{{ post.url }}">{{ post.title }}</a> | {{ post.description }}</b><br>
+      {{ post.excerpt }}
+    </div>
   {% endfor %}
   </div>
-  <hr>
 
 </div>
