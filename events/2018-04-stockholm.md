@@ -54,7 +54,7 @@ Often, citations downloaded from bibliographic databases and other resources, su
 
 <figure>
   <img src="/events/2018-04-stockholm/ESH2018_group_photo.jpg" alt="ESH 2018"/>
-  <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="tag/stockholm-2018">Click here</a> for individual attendee profiles.</figcaption>
+  <figcaption>Participants at the Stockholm Evidence Synthesis Hackathon. <a href="/tag/stockholm-2018">Click here</a> for individual attendee profiles.</figcaption>
 </figure>
 
 # Papers
