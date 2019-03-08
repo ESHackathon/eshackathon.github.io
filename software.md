@@ -3,7 +3,6 @@ title: Software
 layout: tagpage
 tag: software
 ---
-# Software
 <button class="button"><a class="linkbutton" href="/tag/software">
   All Software
 </a></button>&nbsp;
