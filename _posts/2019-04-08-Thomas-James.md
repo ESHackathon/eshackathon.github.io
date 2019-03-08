@@ -2,7 +2,7 @@
 layout: post
 title: James Thomas
 description: University College London
-tags: participant canberra-2019-people canberra-2019-remote
+tags: participant participant-remote canberra-2019-people canberra-2019-remote
 ---
 <img align="left" width="150" height="150" src="/assets/people/Thomas_James.jpg" alt="James Thomas"/>James is the Director of the EPPI-Centre's Reviews Facility for the Department of Health, England, co-senior editor on the Cochrane Handbook, co-convenor of the qualitative and implementation methods group, and undertakes research on the use of new technologies in systematic reviews. He is co-lead of the Cochrane ‘Project Transform’, which is implementing novel technologies and processes to improve the efficiency of systematic reviews, and leads development of EPPI-Reviewer, a popular web-based platform for conducting systematic reviews.  
 

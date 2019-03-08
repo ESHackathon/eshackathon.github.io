@@ -2,7 +2,7 @@
 layout: post
 title: Michael Schermann
 description: Santa Clara University
-tags: participant canberra-2019-people canberra-2019-participant
+tags: participant participant-local canberra-2019-people canberra-2019-participant
 ---
 <img align="left" width="150" height="150" src="/assets/people/Schermann_Michael.png" alt="Michael Schermann "/>Michael is an assistant professor at Santa Clara University. His work focusses on mining both the quantitative and qualitative research of the information systems discipline to understand how
 managers learn from previous behavior and adapt and how this behavior change makes theories obsolete. He was a senior research fellow at Technische Universität München, Germany and a visiting researcher at

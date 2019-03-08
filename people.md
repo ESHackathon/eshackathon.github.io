@@ -3,7 +3,7 @@ title: People
 layout: default
 ---
 # People
-The Evidence Syntheis Hackathon series is a meeting place that brings people together to form new networks and collaborations across sectors, disciplines and career stages. These networks of collaborators are our most important outcome, as they lead to developments and projects that would not otherwise have been possible, driving progress in evidence synthesis methods. You can browse our network of participants below by event or role.
+The Evidence Synthesis Hackathon series is a meeting place that brings people together to form new networks and collaborations across sectors, disciplines and career stages. These networks of collaborators are our most important outcome, as they lead to developments and projects that would not otherwise have been possible, driving progress in evidence synthesis methods.
 
 <b>Roles</b>  
 <button class="button"><a class="linkbutton" href="/tag/participant">
