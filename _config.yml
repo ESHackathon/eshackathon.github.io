@@ -10,3 +10,5 @@ google_analytics: UA-121833450-3
 header_pages:
 - event_list.md
 - people.md
+- tag/software
+- sponsors.md

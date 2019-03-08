@@ -1,9 +1,9 @@
 ---
-title: Funding
+title: Sponsors
 layout: default
 ---
-# Funding
-The Evidence Synthesis Hackathon series relies on generous funding from a number of supporters to support our goals of making evidence synthesis faster, cheaper, and more reliable. If you are interested in supporting our activities then please <a href="mailto:eshackathon@gmail.com">contact us</a>.
+# Sponsors
+The Evidence Synthesis Hackathon series relies on generous funding from a number of supporters to progress our goals of making evidence synthesis faster, cheaper, and more reliable. If you are interested in supporting our activities then please <a href="mailto:eshackathon@gmail.com">contact us</a>.
 
 Our work has received generous support from the following organisations:
 
