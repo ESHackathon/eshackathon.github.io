@@ -15,7 +15,9 @@ layout: default
   <span>
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      <button class="button"><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></button>&nbsp;
+      <button class="button"><a class="linkbutton" href="/tag/{{ tag_name }}">
+        {{ tag_name }}
+      </a></button>&nbsp;
     {% endfor %}
   </span>
 

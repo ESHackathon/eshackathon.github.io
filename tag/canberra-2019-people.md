@@ -4,17 +4,17 @@ title: "All Attendees: Canberra 2019"
 tag: canberra-2019-people
 ---
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-people">
-  all-attendees
+  All attendees
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-remote">
-  participants-remote
+  Remote participants
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-participant">
-  participants-local
+  Local participants
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-speaker">
-  invited-speakers
+  Invited speakers
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-organiser">
-  organisers
+  Organisers
 </a></button>

@@ -4,14 +4,14 @@ title: "Participants: Stockholm 2018"
 tag: stockholm-2018-participant
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-people">
-  all-attendees
+  All attendees
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-participant">
-  participants-local
+  Local participants
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-speaker">
-  invited-speakers
+  Invited speakers
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-organiser">
-  organisers
+  Organisers
 </a></button>
