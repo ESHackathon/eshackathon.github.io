@@ -3,7 +3,15 @@ layout: tagpage
 title: "Stockholm 2018 miniESH"
 tag: stockholm-mini-2018-participant
 ---
-<a href="/tag/stockholm-mini-2018"><code><nobr>all-attendees</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-mini-2018-remote"><code><nobr>participants-remote</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-mini-2018-participant"><code><nobr>participants-local</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-mini-2018-organiser"><code><nobr>organisers</nobr></code></a>
+<button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-people">
+  all-attendees
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-remote">
+  participants-remote
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-participant">
+  participants-local
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-organiser">
+  organisers
+</a></button>

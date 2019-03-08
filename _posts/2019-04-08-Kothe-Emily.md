@@ -2,7 +2,7 @@
 layout: post
 title: Emily Kothe
 description: Deakin University
-tags: participant canberra-2019 canberra-2019-participant
+tags: participant canberra-2019-people canberra-2019-participant
 ---
 <img align="left" width="150" height="150" src="/assets/people/Kothe_Emily.jpg" alt="Emily Kothe"/>Emily is Senior Lecturer at Deakin University (Melbourne). She is part of the Misinformation Lab where she researches the impact of false beliefs and misinformation on behaviour and behaviour change. She is also the advisor for systematic review and meta-analysis for the School of Psychology Data Sciences Unit and teaches systematic review and meta-analysis within the postgraduate curriculum at Deakin University.
 

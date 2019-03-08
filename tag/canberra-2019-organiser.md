@@ -3,8 +3,18 @@ layout: tagpage
 title: "Organisers: Canberra 2019"
 tag: canberra-2019-organiser
 ---
-<a href="/tag/canberra-2019"><code><nobr>all-attendees</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-remote"><code><nobr>participants-remote</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-participant"><code><nobr>participants-local</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-speaker"><code><nobr>invited-speakers</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-organiser"><code><nobr>organisers</nobr></code></a>
+<button class="button"><a class="linkbutton" href="/tag/canberra-2019-people">
+  all-attendees
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/canberra-2019-remote">
+  participants-remote
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/canberra-2019-participant">
+  participants-local
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/canberra-2019-speaker">
+  invited-speakers
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/canberra-2019-organiser">
+  organisers
+</a></button>

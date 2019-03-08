@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Stockholm 2018 miniESH"
-tag: stockholm-mini-2018-remote
+title: "All Attendees: Stockholm miniESH 2018"
+tag: stockholm-mini-2018-people
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-people">
   all-attendees

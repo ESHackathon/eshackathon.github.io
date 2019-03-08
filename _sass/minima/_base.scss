@@ -132,6 +132,9 @@ a {
   }
 }
 
+a.linkbutton {
+  color: white;
+}
 
 /**
  * Blockquotes
@@ -269,11 +272,12 @@ table {
 }
 
 
+
 .button {
-  background-color: #7a7a7a;
+  background-color: #a3a3a3;
   border: none;
   color: white;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;

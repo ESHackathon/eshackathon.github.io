@@ -3,7 +3,15 @@ layout: tagpage
 title: "Organisers: Stockholm 2018"
 tag: stockholm-2018-organiser
 ---
-<a href="/tag/stockholm-2018"><code><nobr>all-attendees</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-2018-participant"><code><nobr>participants</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-2018-speaker"><code><nobr>invited-speakers</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-2018-organiser"><code><nobr>organisers</nobr></code></a>
+<button class="button"><a class="linkbutton" href="/tag/stockholm-2018-people">
+  all-attendees
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/stockholm-2018-participant">
+  participants-local
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/stockholm-2018-speaker">
+  invited-speakers
+</a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/stockholm-2018-organiser">
+  organisers
+</a></button>

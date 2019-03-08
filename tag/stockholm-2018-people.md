@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Invited Speakers: Stockholm 2018"
-tag: stockholm-2018-speaker
+title: "All Attendees: Stockholm 2018"
+tag: stockholm-2018-people
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-people">
   all-attendees
