@@ -7,11 +7,11 @@ The Evidence Synthesis Hackathon series is a meeting place that brings people to
 
 <table>
   <tr>
-    <th>All</th>
+    <th>Event</th>
     <th>Organisers</th>
     <th>Speakers</th>
     <th>Local</th>
-    <th>remote</th>
+    <th>Remote</th>
   </tr>
   <tr>
     <td>

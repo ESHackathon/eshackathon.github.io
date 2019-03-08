@@ -255,10 +255,8 @@ table {
   border: 0px solid $grey-color-light;
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
-    text-align: center;
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
     border: 0px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
