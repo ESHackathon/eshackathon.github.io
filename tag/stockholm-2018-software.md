@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Stockholm 2018 | Organisers"
-tag: stockholm-2018-organiser
+title: "Stockholm 2018 | Software"
+tag: stockholm-2018-software
 ---
 <button class="button"><a class="linkbutton" href="/tag/software">
   All Software
