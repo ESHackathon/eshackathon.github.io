@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Stockholm 2018 miniESH"
+title: "Organisers: Stockholm miniESH 2018"
 tag: stockholm-mini-2018-organiser
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-people">

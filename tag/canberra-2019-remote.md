@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Remote Participants: Canberra 2019"
+title: "Remote participants: Canberra 2019"
 tag: canberra-2019-remote
 ---
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-people">

@@ -5,7 +5,7 @@ layout: default
 # People
 The Evidence Synthesis Hackathon series is a meeting place that brings people together to form new networks and collaborations across sectors, disciplines and career stages. These networks of collaborators are our most important outcome, as they lead to developments and projects that would not otherwise have been possible, driving progress in evidence synthesis methods.
 
-<table style="width:100%">
+<table>
   <tr>
     <td>
       <a href="/tag/canberra-2019-people">

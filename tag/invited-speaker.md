@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Invited Speakers"
+title: "Invited speakers"
 tag: invited-speaker
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-speaker">
