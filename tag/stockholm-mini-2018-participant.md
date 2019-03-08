@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Local participants: Stockholm miniESH 2018"
+title: "Stockholm miniESH 2018 | Local participants"
 tag: stockholm-mini-2018-participant
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-people">

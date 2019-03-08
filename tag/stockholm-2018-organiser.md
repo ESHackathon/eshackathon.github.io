@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Organisers: Stockholm 2018"
+title: "Stockholm 2018 | Organisers"
 tag: stockholm-2018-organiser
 ---
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-people">

@@ -7,6 +7,13 @@ The Evidence Synthesis Hackathon series is a meeting place that brings people to
 
 <table>
   <tr>
+    <th>All</th>
+    <th>Organisers</th>
+    <th>Speakers</th>
+    <th>Local</th>
+    <th>remote</th>
+  </tr>
+  <tr>
     <td>
       <a href="/tag/canberra-2019-people">
         <img align="left" width="100" height="100"
@@ -73,6 +80,7 @@ The Evidence Synthesis Hackathon series is a meeting place that brings people to
           src="/assets/images/thumbs/esh_thumb_stkmini2018_4_local.png"
           alt="Stockholm miniESH 2018 local participants"
         />
+      </a>
     </td>
     <td>
       <a href="/tag/stockholm-mini-2018-remote">

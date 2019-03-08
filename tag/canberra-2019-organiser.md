@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Organisers: Canberra 2019"
+title: "Canberra 2019 | Organisers"
 tag: canberra-2019-organiser
 ---
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-people">
