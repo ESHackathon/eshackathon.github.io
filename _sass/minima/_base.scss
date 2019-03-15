@@ -51,6 +51,15 @@ div.figures {
   display: inline-block;
 }
 
+div.widefigures {
+  width: 150px;
+  height: 150px;
+  padding: 10px 30px 10px 30px; 
+  position: relative;
+  text-align: center;
+  display: inline-block;
+}
+
 div.figurecaption {
   width: 150px;
   height: 50px;

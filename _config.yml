@@ -20,6 +20,7 @@ collections:
   sponsors:
     output: true
 header_pages:
+  - events.md
   - people.md
   - software.md
   - sponsors.md

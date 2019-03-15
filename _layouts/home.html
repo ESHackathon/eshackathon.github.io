@@ -5,22 +5,26 @@ layout: default
 <div class="home">
 
   {{ content }}
-
   <br>
-  <h2>Events</h2>
-  {% for event in site.events %}
-    <div class="figures">
-      <a href="{{ event.url }}">
-        <img class="profilecenter"
-        src= /assets/images/logos/full/{{ event.image }}
-        alt={{ event.title }}
-        />
-      </a>
-    </div>&nbsp;&nbsp;
-  {% endfor %}
-
+  <hr>
   <br>
-  <h2>Read More</h2>
+  <div class="center">
+    <h2>Events</h2>
+    {% for event in site.events %}
+      <div class="widefigures">
+        <a href="{{ event.url }}">
+          <img class="profilecenter"
+          src= /assets/images/logos/full/{{ event.image }}
+          alt={{ event.title }}
+          />
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+  <hr>
+  <br>
+  <h2>Latest Blogposts</h2>
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {% for post in site.posts %}
