@@ -6,7 +6,7 @@ image: Viechtbauer_Wolfgang.jpg
 tags: interviews
 ---
 <div class="clearfix">
-Wolfgang is associate professor of statistics at Maastricht University. In addition to a successful career in meta-research, Wolfgang's hugely-influential software package 'metafor' is the default method for meta-analysis in R. Here Wolfgang answers some our questions about his work and the importance of open science.  
+Wolfgang is associate professor of statistics at Maastricht University. In addition to a successful career in meta-research, Wolfgang's hugely-influential software package 'metafor' is the default method for meta-analysis in R. Here Wolfgang answers some of our questions about his work and the importance of open science.  
 </div>
 <br>
 
@@ -21,7 +21,7 @@ This has been one of the most rewarding aspects of my work. As a result, I have 
 <b><em>You were a keynote presenter at last year's Evidence Synthesis Hackathon. What drew you to the ESH? How did it go?</em></b>  
 As mentioned above, I am the author of the R package ‘metafor’, which I also consider my most useful and important contribution to the sciences. So, software development for research synthesis is what I love to do! I therefore wasn’t going to miss the opportunity to interact with others who are as excited as I am about this topic and especially the technology aspect of it.
 
-The ESH in Stockholm was a great experience. This was the first hackathon that I have participated in and it generated exactly the kind of atmosphere that I was hoping for. Something incredibly inspirational happens when you put a bunch of overly excited researchers into a room, given them a common goal, provide them with food and beverages, and just let me do their thing without interruption.  
+The ESH in Stockholm was a great experience. This was the first hackathon that I have participated in and it generated exactly the kind of atmosphere that I was hoping for. Something incredibly inspirational happens when you put a bunch of overly excited researchers into a room, given them a common goal, provide them with food and beverages, and just let them do their thing without interruption.  
 <br>
 
 <b><em>What's so important about Open Science and collaborative efforts like the hackathon?</em></b>  
