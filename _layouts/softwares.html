@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<h1>Software</h1>
+
+<div class="home">
+
+  <button class="button"><a class="linkbutton" href="/software">
+    All Software
+  </a></button>&nbsp;
+  <button class="button"><a class="linkbutton" href="/tag/r-package">
+    R Packages
+  </a></button>&nbsp;
+  <button class="button"><a class="linkbutton" href="/tag/r-shiny">
+    R Shiny
+  </a></button>&nbsp;
+  <button class="button"><a class="linkbutton" href="/tag/python">
+    Python
+  </a></button>&nbsp;
+  <button class="button"><a class="linkbutton" href="/tag/web">
+    Web
+  </a></button>
+  <br>
+  <br>
+  <br>
+  {% for software in site.software %}
+    <b><a href="{{ software.url }}">{{ software.title }}</a> | {{ software.description }}</b>
+    {{ software.excerpt }}
+    <br>
+  {% endfor %}
+
+</div>

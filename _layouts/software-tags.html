@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+<br>
+
+<div class="post">
+  {% for software in site.software %}
+    {% if software.tags contains page.tag %}
+      <b><a href="{{ site.baseurl }}{{ software.url }}">
+        {{ software.title }}</a> | {{ software.description }}
+      </b>
+      {{ software.excerpt }}
+      <br>
+    {% endif %}
+  {% endfor %}
+</div>

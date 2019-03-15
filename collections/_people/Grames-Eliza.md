@@ -1,0 +1,11 @@
+---
+layout: person
+name: Eliza Grames
+affiliation:  University of Connecticut
+tags: participant-local canberra-2019-people canberra-2019-local
+image: Grames_Eliza.jpg
+homepage: https://elizagrames.github.io
+twitter: ElizaGrames
+github: elizagrames
+---
+Eliza is a PhD candidate in Ecology and Evolutionary Biology at the University of Connecticut. Her research combines field work observations of bird behaviors, nest predation, and food availability with meta-analytic structural equation modeling and Bayesian path analysis to understand why small forest fragments are less densely populated by breeding birds than larger fragments and how the underlying mechanisms interact. She is interested in evidence-based model development, automated information retrieval and extraction, and quality standards for reviews in ecology.

@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: people-tags
 title: "Stockholm 2018 | Organisers"
 tag: stockholm-2018-organiser
 ---
@@ -12,6 +12,6 @@ tag: stockholm-2018-organiser
 <button class="button"><a class="linkbutton" href="/tag/stockholm-2018-speaker">
   Invited speakers
 </a></button>&nbsp;
-<button class="button"><a class="linkbutton" href="/tag/stockholm-2018-participant">
+<button class="button"><a class="linkbutton" href="/tag/stockholm-2018-local">
   Local participants
 </a></button>

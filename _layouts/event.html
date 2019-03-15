@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <img class="profiletext"
+      src= /assets/images/logos/full/{{ page.image }}
+      alt={{ page.title }}
+    /><b>{{ page.title }}</b><br>
+    {{ content }}
+  </div>
+
+  <span>
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <button class="button"><a class="linkbutton" href="/tag/{{ tag_name }}">
+        {{ tag_name }}
+      </a></button>&nbsp;
+    {% endfor %}
+  </span>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -6,11 +6,28 @@ layout: default
 
   {{ content }}
 
+  <br>
+  <h2>Events</h2>
+  {% for event in site.events %}
+    <div class="figures">
+      <a href="{{ event.url }}">
+        <img class="profilecenter"
+        src= /assets/images/logos/full/{{ event.image }}
+        alt={{ event.title }}
+        />
+      </a>
+    </div>&nbsp;&nbsp;
+  {% endfor %}
+
+  <br>
+  <h2>Read More</h2>
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {% for post in site.tags["posts"] %}
+      {% for post in site.posts %}
         <div class="clearfix">
+          <img class="profiletext"
+            src= /assets/images/posts/{{ post.image }}
+            alt={{ post.name }}/>
           <a href="{{ post.url }}">{{ post.title }}</a><br>
           <em>{{ post.description }}</em><br>
           {{ post.excerpt }}

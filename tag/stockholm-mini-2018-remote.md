@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: people-tags
 title: "Stockholm miniESH 2018 | Remote participants"
 tag: stockholm-mini-2018-remote
 ---
@@ -9,7 +9,7 @@ tag: stockholm-mini-2018-remote
 <button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-organiser">
   Organisers
 </a></button>&nbsp;
-<button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-participant">
+<button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-local">
   Local participants
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/stockholm-mini-2018-remote">

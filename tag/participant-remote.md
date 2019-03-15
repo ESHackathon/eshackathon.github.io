@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: people-tags
 title: "Remote participants"
 tag: participant-remote
 ---

@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: people-tags
 title: "Invited speakers"
 tag: invited-speaker
 ---

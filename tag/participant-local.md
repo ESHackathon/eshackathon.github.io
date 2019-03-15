@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: people-tags
 title: "Local participants"
 tag: participant-local
 ---

@@ -1,9 +1,9 @@
 ---
-layout: tagpage
+layout: software-tags
 title: "Web apps"
 tag: web
 ---
-<button class="button"><a class="linkbutton" href="/tag/software">
+<button class="button"><a class="linkbutton" href="/software">
   All Software
 </a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/r-package">
