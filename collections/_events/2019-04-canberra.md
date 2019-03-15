@@ -19,6 +19,9 @@ Our intention is to inspire and support the development of new ideas in this imp
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-organiser">
   Organisers
 </a></button>&nbsp;
+<button class="button"><a class="linkbutton" href="/tag/canberra-2019-support">
+  Support team
+</a></button>&nbsp;
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-speaker">
   Invited speakers
 </a></button>&nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: people-tags
-title: "Canberra 2019 | Remote participants"
-tag: canberra-2019-remote
+title: "Canberra 2019 | Support team"
+tag: canberra-2019-support
 ---
 <button class="button"><a class="linkbutton" href="/tag/canberra-2019-people">
   All attendees

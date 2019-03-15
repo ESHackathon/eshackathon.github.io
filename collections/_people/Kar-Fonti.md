@@ -2,7 +2,7 @@
 layout: person
 name: Fonti Kar
 affiliation: University of New South Wales
-tags: participant-local canberra-2019-people canberra-2019-local
+tags: support-team canberra-2019-people canberra-2019-support
 image: Kar_Fonti.jpg
 homepage: https://fontikar.wordpress.com/
 twitter: fonti_kar
