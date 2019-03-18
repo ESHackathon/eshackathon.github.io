@@ -1,6 +1,6 @@
 ---
 layout: software
-title: pdf-to-text
+title: PDF reference extraction
 description: Extract reference lists from PDFs
 tags: stockholm-2018-software web
 ---
