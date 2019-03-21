@@ -3,20 +3,121 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <div class="post-content e-content" itemprop="articleBody">
-    <h1>{{ page.title }}</h1>
-    <em>{{ page.description }}</em><br><br>
-    {{ content }}
+  <div class="clearfix">
+    <div class="post-content e-content" itemprop="articleBody">
+      <img
+        class="hex"
+        src= /assets/images/hex/{{ page.short-title }}.png
+        alt={{ page.name }}
+      />
+
+      <h1>{{ page.title }}</h1>
+      <em>{{ page.description }}</em><br>
+
+      {%- if page.status == "available" -%}
+        <button class="available">
+          <a class="linkbutton" href="/status/{{ page.status }}">
+            Status: Available
+          </a>
+        </button>
+        &nbsp;
+      {%- endif -%}
+      {%- if page.status == "prototype" -%}
+        <button class="prototype">
+          <a class="linkbutton" href="/status/{{ page.status }}">
+            Status: Prototype
+          </a>
+        </button>
+        &nbsp;
+      {%- endif -%}
+      {%- if page.status == "development" -%}
+        <button class="development">
+          <a class="linkbutton" href="/status/{{ page.status }}">
+            Status: In development
+          </a>
+        </button>
+        &nbsp;
+      {%- endif -%}
+
+      {%- if page.language == "r-lang" -%}
+        <a href="/language/r-lang">
+          <img class="language"
+          src= /assets/images/languages/R-logo-thumb.png
+          alt="R"
+          />
+        </a>
+        &nbsp;
+      {%- endif -%}
+      {%- if page.language == "python" -%}
+        <a href="/language/python">
+          <img class="language"
+          src= /assets/images/languages/python-logo-thumb.png
+          alt="Python"
+          />
+        </a>
+        &nbsp;
+      {%- endif -%}
+      {%- if page.language == "javascript" -%}
+        <a href="/language/javascript">
+          <img class="language"
+          src= /assets/images/languages/JavaScript-logo-thumb.png
+          alt="JS"
+          />
+        </a>
+        &nbsp;
+      {%- endif -%}
+
+
+      {%- if page.run.size > 0 -%}
+        <a
+          href={{ page.run }}
+          title="Run"
+          target="_blank"
+          rel="noopener">
+          <i class="fa fa-play fa-2x" style="color:#4FB3A9"></i>
+        </a>
+        &nbsp;
+      {%- endif -%}
+
+      {%- if page.github.size > 0 -%}
+        <a
+          href="https://github.com/{{ page.github }} "
+          title="GitHub"
+          target="_blank"
+          rel="noopener">
+          <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i>
+        </a>
+        &nbsp;
+      {%- endif -%}
+
+    </div>
   </div>
 
-  <span>
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <button class="button"><a class="linkbutton" href="/tag/{{ tag_name }}">
-        {{ tag_name }}
-      </a></button>&nbsp;
+  {{ content }}
+
+  <h1>Developers</h1>
+  <div class="post">
+    {% for person in site.people %}
+      {% if person.developer contains page.short-title %}
+        {%- include people-display.html -%}
+      {% endif %}
     {% endfor %}
-  </span>
+  </div>
+
+  <br>
+
+  <h1>Tags</h1>
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <button class="grey">
+      <a class="linkbutton" href="/tag/{{ tag_name }}">
+        {{ tag_name }}
+      </a>
+    </button>
+    &nbsp;
+  {% endfor %}
+
+  <br>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

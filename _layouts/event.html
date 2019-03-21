@@ -11,14 +11,12 @@ layout: default
     {{ content }}
   </div>
 
-  <span>
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <button class="button"><a class="linkbutton" href="/tag/{{ tag_name }}">
-        {{ tag_name }}
-      </a></button>&nbsp;
-    {% endfor %}
-  </span>
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <button class="grey"><a class="linkbutton" href="/tag/{{ tag_name }}">
+      {{ tag_name }}
+    </a></button>&nbsp;
+  {% endfor %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

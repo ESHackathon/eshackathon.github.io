@@ -8,11 +8,7 @@ layout: default
 <div class="post">
   {% for software in site.software %}
     {% if software.tags contains page.tag %}
-      <b><a href="{{ site.baseurl }}{{ software.url }}">
-        {{ software.title }}</a> | {{ software.description }}
-      </b>
-      {{ software.excerpt }}
-      <br>
+      {%- include software-display.html -%}
     {% endif %}
   {% endfor %}
 </div>

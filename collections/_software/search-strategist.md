@@ -1,8 +1,11 @@
 ---
 layout: software
 title: Search Strategist
+short-title: search-strategist
 description: A web tool to test and improve search strategies
-tags: stockholm-2018-software web
+tags: stockholm-2018-software
+language: python
+status: prototype
 ---
 Defining a good search strategy for systematic reviews can be a particularly challenging task. Some of the problems encountered are: when asking two people for a strategy they will get totally different outputs, the number of hits is prohibitively high, there are missing relevant references because a specific keyword was omitted, few means of validating search strategies exist, it is difficult to adapt the strategy for other databases, errors may be introduced when adapting strategies between databases, etc.
 

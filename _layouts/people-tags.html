@@ -8,23 +8,7 @@ layout: default
 <div class="post">
   {% for person in site.people %}
     {% if person.tags contains page.tag %}
-      <div class="figures">
-        <figure>
-          <a href="{{ site.baseurl }}{{ person.url }}">
-            <img class="profilecenter"
-            src= /assets/images/people/{{ person.image }}
-            alt={{ person.name }}
-            />
-          </a>
-          <figcaption>
-            <div class="figurecaption">
-              <a class="linkbutton" href="{{ person.url }}">
-                {{ person.name }}
-              </a>
-            </div>
-          </figcaption>
-        </figure>
-      </div>&nbsp;&nbsp;
+      {%- include people-display.html -%}
     {% endif %}
   {% endfor %}
 </div>

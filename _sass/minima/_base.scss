@@ -54,7 +54,7 @@ div.figures {
 div.widefigures {
   width: 150px;
   height: 150px;
-  padding: 10px 30px 10px 30px; 
+  padding: 10px 30px 10px 30px;
   position: relative;
   text-align: center;
   display: inline-block;
@@ -70,6 +70,11 @@ div.figurecaption {
   background-color: #a3a3a3;
   color: white;
   padding: 0px;
+}
+
+div.languages {
+  height: 30px;
+  padding: 5px 10px 5px 10px;
 }
 
 /**
@@ -122,6 +127,25 @@ img.logocenter {
   padding: 5px
 }
 
+
+img.language {
+  height: 30px;
+}
+
+img.hex {
+  float: left;
+  width: 129px;
+  height: 150px;
+  vertical-align: middle;
+  padding: 5px 15px 5px 0px;
+}
+
+img.hex-thumb {
+  width: 65px;
+  height: 75px;
+  vertical-align: middle;
+  padding: 5px 15px 5px 0px;
+}
 
 .clearfix::after {
   content: "";
@@ -327,9 +351,7 @@ table {
 }
 
 
-
-.button {
-  background-color: #a3a3a3;
+button {
   border: none;
   color: white;
   padding: 10px;
@@ -340,4 +362,20 @@ table {
   margin: 2px 2px;
   cursor: pointer;
   border-radius: 4px;
+}
+
+button.grey{
+    background-color: #a3a3a3;
+}
+
+button.available {
+  background-color: #5db766;
+}
+
+button.prototype {
+  background-color: #c1b95e;
+}
+
+button.development {
+  background-color: #c1675d;
 }

@@ -2,7 +2,7 @@
 layout: person
 name: Ana Patricia Ayala
 affiliation: University of Toronto
-tags: participant-local canberra-2019-people canberra-2019-local
+tags: participant-local canberra-2019-people canberra-2019-remote
 image: Ayala_Patricia.jpg
 twitter: apayala
 ---

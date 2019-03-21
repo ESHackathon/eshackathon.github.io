@@ -15,56 +15,75 @@ layout: default
     </div>
   </div>
 
-  {%- if page.homepage.size > 0 -%}
-    <a
-      href={{ page.homepage }}
-      title="Homepage"
-      target="_blank"
-      rel="noopener">
-      <i class="fa fa-home fa-2x" style="color:#4FB3A9"></i>
-    </a>&nbsp;
-  {%- endif -%}
+  <div class="clearfix">
 
-  {%- if page.github.size > 0 -%}
-    <a
-      href="https://github.com/{{ page.github }} "
-      title="GitHub"
-      target="_blank"
-      rel="noopener">
-      <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i>
-    </a>&nbsp;
-  {%- endif -%}
+    {%- if page.developer.size > 0 -%}
+      {% assign packages = site.people | map: 'developer' | join: ',' | split: ',' | uniq %}
+      {% for package in packages offset:1 %}
+        {% if page.developer contains package %}
+            <a href=/software/{{ package }}>
+              <img
+                class="hex-thumb"
+                src= /assets/images/hex/{{ package }}.png
+                alt={{ package }}
+              />
+            </a>
+        {%- endif -%}
+      {% endfor %}
+    {%- endif -%}
 
-  {%- if page.twitter.size > 0 -%}
-    <a
-      href="https://twitter.com/{{ page.twitter }}"
-      title="Twitter"
-      target="_blank"
-      rel="noopener">
-      <i class="fa fa-twitter fa-2x" style="color:#4FB3A9"></i>
-    </a>&nbsp;
-  {%- endif -%}
+    {%- if page.homepage.size > 0 -%}
+      <a
+        href={{ page.homepage }}
+        title="Homepage"
+        target="_blank"
+        rel="noopener">
+        <i class="fa fa-home fa-2x" style="color:#4FB3A9"></i>
+      </a>&nbsp;
+    {%- endif -%}
 
-  {%- if page.podcast.size > 0 -%}
-    <a
-      href={{ page.podcast }}
-      title="Podcast"
-      target="_blank"
-      rel="noopener">
-      <i class="fa fa-play fa-2x" style="color:#4FB3A9"></i>
-    </a>&nbsp;
-  {%- endif -%}
+    {%- if page.github.size > 0 -%}
+      <a
+        href="https://github.com/{{ page.github }} "
+        title="GitHub"
+        target="_blank"
+        rel="noopener">
+        <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i>
+      </a>&nbsp;
+    {%- endif -%}
 
-  <br><br>
+    {%- if page.twitter.size > 0 -%}
+      <a
+        href="https://twitter.com/{{ page.twitter }}"
+        title="Twitter"
+        target="_blank"
+        rel="noopener">
+        <i class="fa fa-twitter fa-2x" style="color:#4FB3A9"></i>
+      </a>&nbsp;
+    {%- endif -%}
 
-  <span>
+    {%- if page.podcast.size > 0 -%}
+      <a
+        href={{ page.podcast }}
+        title="Podcast"
+        target="_blank"
+        rel="noopener">
+        <i class="fa fa-play fa-2x" style="color:#4FB3A9"></i>
+      </a>&nbsp;
+    {%- endif -%}
+
+  </div>
+
+  <br>
+
+  {%- if page.tags.size > 0 -%}
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      <button class="button"><a class="linkbutton" href="/tag/{{ tag_name }}">
+      <button class="grey"><a class="linkbutton" href="/tag/{{ tag_name }}">
         {{ tag_name }}
       </a></button>&nbsp;
     {% endfor %}
-  </span>
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
