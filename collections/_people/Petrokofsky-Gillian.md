@@ -2,7 +2,7 @@
 layout: person
 name: Gillian Petrokofsky
 affiliation: University of Oxford
-tags: invited-speaker canberra-2019-people canberra-2019-speaker
+tags: participant-remote canberra-2019-people canberra-2019-remote
 image: Petrokofsky_Gillian.jpg
 homepage: https://oxlel.zoo.ox.ac.uk/people/dr-gillian-petrokofsky
 twitter: greenwoodtree
