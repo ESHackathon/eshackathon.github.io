@@ -9,7 +9,9 @@ layout: default
   <hr>
   <br>
   <div class="center">
-    <h2>Events</h2>
+    <h2>Our Events</h2>
+    We support the growth of new ideas, <a href="/software">software</a>, and collaborations for improved evidence synthesis
+    <br><br>
     {% for event in site.events %}
       <div class="widefigures">
         <a href="{{ event.url }}">
@@ -24,7 +26,24 @@ layout: default
   <br>
   <hr>
   <br>
-  <h2>Latest Blogposts</h2>
+  <div class="center">
+    <h2>Our Network</h2>
+    We support participants from around the world to meet and work together to solve key problems
+    <br><br>
+    <iframe
+      src="/assets/html/esh_participants.html"
+      width="900px"
+      height="450px"
+      >
+      You should see a map here!
+    </iframe>
+  </div>
+  <br>
+  <hr>
+  <br>
+  <div class="center">
+    <h2>Latest Blogposts</h2>
+  </div>
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {% for post in site.posts %}

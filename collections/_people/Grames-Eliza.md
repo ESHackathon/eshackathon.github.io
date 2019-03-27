@@ -7,5 +7,7 @@ image: Grames_Eliza.jpg
 homepage: https://elizagrames.github.io
 twitter: ElizaGrames
 github: elizagrames
+latitude: 41.8077
+longitude: -72.2540
 ---
 Eliza is a PhD candidate in Ecology and Evolutionary Biology at the University of Connecticut. Her research combines field work observations of bird behaviors, nest predation, and food availability with meta-analytic structural equation modeling and Bayesian path analysis to understand why small forest fragments are less densely populated by breeding birds than larger fragments and how the underlying mechanisms interact. She is interested in evidence-based model development, automated information retrieval and extraction, and quality standards for reviews in ecology.
