@@ -28,7 +28,7 @@ layout: default
     src="/assets/images/logos/full/ESH_logo_stockholm2018.png"
     alt="ESH Stockholm 2018"/>
   </a><a href="/events/2018-04-stockholm.html"><b>Stockholm</b> | April 2018</a>  
-  The inaugral ESH was held in April 2018 at the Stockholm Environment Institute and involved 29 participants from 10 countries, leading to 11 new projects.  
+  The inaugural ESH was held in April 2018 at the Stockholm Environment Institute and involved 29 participants from 10 countries, leading to 11 new projects.  
 </div>
 
 <br>
