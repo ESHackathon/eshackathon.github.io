@@ -1,9 +1,17 @@
 ---
-layout: tagpage
-title: "Invited Speakers: Stockholm 2018"
+layout: people-tags
+title: "Stockholm 2018 | Invited speakers"
 tag: stockholm-2018-speaker
 ---
-<a href="/tag/stockholm-2018"><code><nobr>all-attendees</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-2018-participant"><code><nobr>participants</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-2018-speaker"><code><nobr>invited-speakers</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-2018-organiser"><code><nobr>organisers</nobr></code></a>
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-2018-people">
+  All attendees
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-2018-organiser">
+  Organisers
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-2018-speaker">
+  Invited speakers
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-2018-local">
+  Local participants
+</a></button>

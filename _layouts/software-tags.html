@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+<br>
+
+<div class="post">
+  {% for software in site.software %}
+    {% if software.tags contains page.tag %}
+      {%- include software-display.html -%}
+    {% endif %}
+  {% endfor %}
+</div>

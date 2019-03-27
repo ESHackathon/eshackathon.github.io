@@ -5,12 +5,52 @@ layout: default
 <div class="home">
 
   {{ content }}
-
+  <br>
+  <hr>
+  <br>
+  <div class="center">
+    <h2>Our Events</h2>
+    We support the growth of new ideas, <a href="/software">software</a>, and collaborations for improved evidence synthesis
+    <br><br>
+    {% for event in site.events %}
+      <div class="widefigures">
+        <a href="{{ event.url }}">
+          <img class="profilecenter"
+          src= /assets/images/logos/full/{{ event.image }}
+          alt={{ event.title }}
+          />
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+  <hr>
+  <br>
+  <div class="center">
+    <h2>Our Network</h2>
+    We support participants from around the world to meet and work together to solve key problems
+    <br><br>
+    <iframe
+      src="/assets/html/esh_participants.html"
+      width="900px"
+      height="450px"
+      >
+      You should see a map here!
+    </iframe>
+  </div>
+  <br>
+  <hr>
+  <br>
+  <div class="center">
+    <h2>Latest Blogposts</h2>
+  </div>
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {% for post in site.tags["posts"] %}
+      {% for post in site.posts %}
         <div class="clearfix">
+          <img class="profiletext"
+            src= /assets/images/posts/{{ post.image }}
+            alt={{ post.name }}/>
           <a href="{{ post.url }}">{{ post.title }}</a><br>
           <em>{{ post.description }}</em><br>
           {{ post.excerpt }}

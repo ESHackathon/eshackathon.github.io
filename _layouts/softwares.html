@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h1>Software</h1>
+
+<div class="home">
+  {% for software in site.software %}
+    {%- include software-display.html -%}
+  {% endfor %}
+</div>

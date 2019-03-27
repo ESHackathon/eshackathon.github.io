@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+<br>
+
+<div class="post">
+  {% for person in site.people %}
+    {% if person.tags contains page.tag %}
+      {%- include people-display.html -%}
+    {% endif %}
+  {% endfor %}
+</div>

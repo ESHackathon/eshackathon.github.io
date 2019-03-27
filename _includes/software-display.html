@@ -1,0 +1,67 @@
+<div class="clearfix">
+  <a href="{{ software.url }}">
+    <img
+      class="hex"
+      src= /assets/images/hex/{{ software.short-title }}.png
+      alt={{ software.name }}
+    />
+  </a>
+
+  <b><a href="{{ software.url }}">{{ software.title }}</a>
+    | {{ software.description }}
+  </b><br>
+
+  {{ software.excerpt }}
+</div>
+
+{%- if software.status == "available" -%}
+  <button class="available">
+    <a class="linkbutton" href="/status/{{ software.status }}">
+      Status: Available
+    </a>
+  </button>
+  &nbsp;
+{%- endif -%}
+{%- if software.status == "prototype" -%}
+  <button class="prototype">
+    <a class="linkbutton" href="/status/{{ software.status }}">
+      Status: Prototype
+    </a>
+  </button>
+  &nbsp;
+{%- endif -%}
+{%- if software.status == "development" -%}
+  <button class="development">
+    <a class="linkbutton" href="/status/{{ software.status }}">
+      Status: In development
+    </a>
+  </button>
+  &nbsp;
+{%- endif -%}
+
+{%- if software.language == "r-lang" -%}
+  <a href="/language/r-lang">
+    <img class="language"
+    src= /assets/images/languages/R-logo-thumb.png
+    alt="R"
+    />
+  </a>&nbsp;
+{%- endif -%}
+{%- if software.language == "python" -%}
+  <a href="/language/python">
+    <img class="language"
+    src= /assets/images/languages/python-logo-thumb.png
+    alt="Python"
+    />
+  </a>&nbsp;
+{%- endif -%}
+{%- if software.language == "javascript" -%}
+  <a href="/language/javascript">
+    <img class="language"
+    src= /assets/images/languages/JavaScript-logo-thumb.png
+    alt="JS"
+    />
+  </a>&nbsp;
+{%- endif -%}
+<br>
+<br>

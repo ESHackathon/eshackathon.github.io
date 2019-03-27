@@ -1,9 +1,17 @@
 ---
-layout: tagpage
-title: "Stockholm 2018 miniESH"
+layout: people-tags
+title: "Stockholm miniESH 2018 | Organisers"
 tag: stockholm-mini-2018-organiser
 ---
-<a href="/tag/stockholm-mini-2018"><code><nobr>all-attendees</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-mini-2018-remote"><code><nobr>participants-remote</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-mini-2018-participant"><code><nobr>participants-local</nobr></code></a>&nbsp;
-<a href="/tag/stockholm-mini-2018-organiser"><code><nobr>organisers</nobr></code></a>
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-mini-2018-people">
+  All attendees
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-mini-2018-organiser">
+  Organisers
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-mini-2018-local">
+  Local participants
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/stockholm-mini-2018-remote">
+  Remote participants
+</a></button>

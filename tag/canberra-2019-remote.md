@@ -1,10 +1,23 @@
 ---
-layout: tagpage
-title: "Remote Participants: Canberra 2019"
+layout: people-tags
+title: "Canberra 2019 | Remote participants"
 tag: canberra-2019-remote
 ---
-<a href="/tag/canberra-2019"><code><nobr>all-attendees</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-remote"><code><nobr>participants-remote</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-participant"><code><nobr>participants-local</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-speaker"><code><nobr>invited-speakers</nobr></code></a>&nbsp;
-<a href="/tag/canberra-2019-organiser"><code><nobr>organisers</nobr></code></a>
+<button class="grey"><a class="linkbutton" href="/tag/canberra-2019-people">
+  All attendees
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/canberra-2019-organiser">
+  Organisers
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/canberra-2019-support">
+  Support team
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/canberra-2019-speaker">
+  Invited speakers
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/canberra-2019-local">
+  Local participants
+</a></button>&nbsp;
+<button class="grey"><a class="linkbutton" href="/tag/canberra-2019-remote">
+  Remote participants
+</a></button>
