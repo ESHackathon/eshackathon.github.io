@@ -1,7 +1,7 @@
 ---
 layout: person
 name: Jacqui Eales
-affiliation: Exeter University
+affiliation: University of Exeter
 tags: participant-local participant-remote stockholm-2018-people canberra-2019-people stockholm-2018-local canberra-2019-remote
 image: eales_jacqui.png
 twitter: jacqui_eales
