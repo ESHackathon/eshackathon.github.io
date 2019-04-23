@@ -6,6 +6,7 @@ tags: participant-local canberra-2019-people canberra-2019-local
 image: White_Thomas.jpg
 homepage: https://tomwhite.io
 github: thomased
+developer: metadat
 latitude: -33.8886
 longitude: 151.1873
 ---

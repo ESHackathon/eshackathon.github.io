@@ -5,6 +5,7 @@ affiliation: University of Connecticut
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Hennessy_Emily.jpg
 homepage: https://sharp.uconn.edu/people/emily-alden-hennessy-phd/
+developer: metaverse
 latitude: 41.8077
 longitude: -72.2540
 ---

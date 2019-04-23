@@ -7,6 +7,7 @@ image: Noble_Dan.jpg
 homepage: http://nobledan.com
 github: daniel1noble
 twitter: DanielWANoble
+developer: metadat
 latitude: -35.2777
 longitude: 149.1185
 ---

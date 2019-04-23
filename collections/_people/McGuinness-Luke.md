@@ -6,6 +6,7 @@ tags: participant-local canberra-2019-people canberra-2019-local
 image: McGuinness-Luke.jpg
 twitter: mcguinlu
 github: mcguinlu
+developer: metaverse
 latitude: 51.4584
 longitude: -2.6030
 ---

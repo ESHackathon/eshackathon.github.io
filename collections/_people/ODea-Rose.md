@@ -5,6 +5,7 @@ affiliation: University of New South Wales
 tags: support-team canberra-2019-people canberra-2019-support
 image: ODea-Rose.png
 homepage: https://www.roseodea.com
+developer: metaverse
 latitude: -33.9173
 longitude: 151.2313
 ---

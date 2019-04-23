@@ -5,6 +5,7 @@ affiliation: Macquarie University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Newman_Paige.jpg
 github: pmartin23
+developer: grey-lit-reporter,research-weaving
 latitude: -33.7771
 longitude: 151.1180
 ---

@@ -6,7 +6,7 @@ tags: participant-local stockholm-2018-people canberra-2019-people stockholm-201
 image: penkin_christopher.jpg
 github: penkin
 twitter: penkin
-developer: roses-website
+developer: roses-website,grey-lit-reporter
 latitude: -26.2015
 longitude: 28.0583
 ---

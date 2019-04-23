@@ -6,6 +6,7 @@ tags: participant-local canberra-2019-people canberra-2019-local
 image: Carter_Matt.jpg
 twitter: hashbhang
 github: hash-bang
+developer: research-weaving
 latitude: -28.0731
 longitude: 153.4166
 ---

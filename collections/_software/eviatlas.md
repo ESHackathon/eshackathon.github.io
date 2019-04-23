@@ -3,7 +3,7 @@ layout: software
 title: eviatlas
 short-title: eviatlas
 description: An R tool for systematic maps
-tags: stockholm-2018-software
+tags: stockholm-2018-software canberra-2019-software
 language: r-lang
 run: https://estech.shinyapps.io/eviatlas/
 github: ESHackathon/eviatlas

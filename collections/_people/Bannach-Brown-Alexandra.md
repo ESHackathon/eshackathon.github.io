@@ -6,6 +6,7 @@ tags: participant-local canberra-2019-people canberra-2019-local
 image: Bannach-Brown_Alexandra.jpg
 twitter: ABannachBrown
 github: abannachbrown
+developer: research-weaving
 latitude: -28.0731
 longitude: 153.4166
 ---

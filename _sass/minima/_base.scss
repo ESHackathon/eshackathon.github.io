@@ -29,6 +29,21 @@ body {
   flex-direction: column;
 }
 
+
+/* Container holding the image and the text */
+div.container {
+  position: relative;
+}
+
+
+div.text-main {
+  position: absolute;
+  left: 10px;
+  font-size: 200%;
+}
+
+
+
 div.main {
   text-align: center;
   font-size: 200%;

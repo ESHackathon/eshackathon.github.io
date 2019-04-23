@@ -6,6 +6,7 @@ tags: support-team canberra-2019-people canberra-2019-support
 image: Kar_Fonti.jpg
 homepage: https://fontikar.wordpress.com/
 twitter: fonti_kar
+developer: forestr
 latitude: -33.9173
 longitude: 151.2313
 ---

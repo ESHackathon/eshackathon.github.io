@@ -7,6 +7,7 @@ image: Grames_Eliza.jpg
 homepage: https://elizagrames.github.io
 twitter: ElizaGrames
 github: elizagrames
+developer: metaverse
 latitude: 41.8077
 longitude: -72.2540
 ---

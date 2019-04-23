@@ -4,6 +4,7 @@ name: Luis Furuya-Kanamori
 affiliation: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Furuya-Kanamori-Luis.jpg
+developer: forestr
 latitude: -35.2777
 longitude: 149.1185
 ---

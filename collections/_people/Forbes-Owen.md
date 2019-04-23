@@ -4,6 +4,7 @@ name: Owen Forbes
 affiliation: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Forbes_Owen.jpg
+developer: forestr
 latitude: -35.2777
 longitude: 149.1185
 ---

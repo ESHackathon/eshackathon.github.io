@@ -7,7 +7,7 @@ image: Viechtbauer_Wolfgang.jpg
 homepage: http://www.wvbauer.com
 github: wviechtb
 twitter: wviechtb
-developer: metafor-reports
+developer: metafor-reports,metadat,forestr
 latitude: 50.8471
 longitude: 5.6864
 ---

@@ -6,6 +6,7 @@ tags: participant-local canberra-2019-people canberra-2019-local
 image: Sanchez-Tojar_Alfredo.jpg
 github: ASanchez-Tojar
 twitter: ASanchez_Tojar
+developer: metaverse
 latitude: 52.0367
 longitude: 8.4952
 ---

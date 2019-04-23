@@ -7,11 +7,6 @@ The second Evidence Synthesis Hackathon will take place at The University of New
 
 Our intention is to inspire and support the development of new ideas in this important field. By bringing together technologists and developers with subject-matter experts, this will be a unique opportunity to form new collaborations and develop new ways to approach critical problems. Attendees will work together to build software tools and research papers that will profoundly influence the field of meta-research.
 
-## Details
-<strong>Dates: </strong>Monday 8<sup>th</sup> - Wednesday 10<sup>th</sup> April 2019  
-<strong>Venue: </strong>UNSW Canberra & ANU  
-<strong>Registration cost: </strong>$100 (full) or $50 (student)
-
 ## People
 <button class="grey"><a class="linkbutton" href="/tag/canberra-2019-people">
   All attendees

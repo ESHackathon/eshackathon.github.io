@@ -6,7 +6,7 @@ tags: participant-local stockholm-2018-people stockholm-mini-2018-people canberr
 image: gray_charles.jpg
 twitter: cantabile
 github: softloud
-developer: eviatlas
+developer: eviatlas,metaverse
 latitude: -36.7808
 longitude: 144.3000
 ---
