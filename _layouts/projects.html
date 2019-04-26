@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>Projects</h1>
+
+<div class="home">
+  <h2>Software</h2>
+  <br>
+  {% for software in site.software %}
+    {%- include software-display.html -%}
+  {% endfor %}
+
+  <br>
+  <hr>
+  <br>
+
+  <h2>Discussions</h2>
+  {% for discussion in site.discussions %}
+    {%- include discussion-display.html -%}
+  {% endfor %}
+</div>

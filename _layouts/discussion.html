@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <h1>{{ page.title }}</h1>
+    <em>{{ page.description }}</em><br>
+
+    {%- if page.status == "published" -%}
+      <button class="available">
+        <a class="linkbutton" href="/status/{{ page.status }}">
+          Status: Published
+        </a>
+      </button>
+      &nbsp;
+    {%- endif -%}
+    {%- if page.status == "in-prep" -%}
+      <button class="prototype">
+        <a class="linkbutton" href="/status/{{ page.status }}">
+          Status: In preparation
+        </a>
+      </button>
+      &nbsp;
+    {%- endif -%}
+    {%- if page.status == "closed" -%}
+      <button class="development">
+        <a class="linkbutton" href="/status/{{ page.status }}">
+          Status: Closed
+        </a>
+      </button>
+      &nbsp;
+    {%- endif -%}
+
+  </div>
+
+  {{ content }}
+
+  <h1>Contributors</h1>
+  <div class="post">
+    {% for person in site.people %}
+      {% if person.contributor contains page.short-title %}
+        {%- include people-display.html -%}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <br>
+
+  <h1>Tags</h1>
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <button class="grey">
+      <a class="linkbutton" href="/tag/{{ tag_name }}">
+        {{ tag_name }}
+      </a>
+    </button>
+    &nbsp;
+  {% endfor %}
+
+  <br>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

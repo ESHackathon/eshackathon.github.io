@@ -5,18 +5,89 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     <img class="profiletext"
-      src= /assets/images/logos/full/{{ page.image }}
+      src= /assets/images/events/{{ page.image }}
       alt={{ page.title }}
     /><b>{{ page.title }}</b><br>
     {{ content }}
   </div>
 
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <button class="grey"><a class="linkbutton" href="/tag/{{ tag_name }}">
-      {{ tag_name }}
-    </a></button>&nbsp;
+  {%- if page.panorama-image.size > 0 -%}
+    <img src="/assets/images/events/{{ page.panorama-image }}" alt="Panorama"/>
+  {%- endif -%}
+  <br>
+  <br>
+  <h2>People</h2>
+  {%- if page.organisers.size > 0 -%}
+    {% for person in site.people %}
+      {% if person.tags contains page.organisers %}
+        {%- include display-organiser.html -%}
+      {% endif %}
+    {% endfor %}
+  {%- endif -%}
+
+  {%- if page.support.size > 0 -%}
+    {% for person in site.people %}
+      {% if person.tags contains page.support %}
+        {%- include display-support.html -%}
+      {% endif %}
+    {% endfor %}
+  {%- endif -%}
+
+  {%- if page.speakers.size > 0 -%}
+    {% for person in site.people %}
+      {% if person.tags contains page.speakers %}
+        {%- include display-speaker.html -%}
+      {% endif %}
+    {% endfor %}
+  {%- endif -%}
+
+  {%- if page.local.size > 0 -%}
+    {% for person in site.people %}
+      {% if person.tags contains page.local %}
+        {%- include display-local.html -%}
+      {% endif %}
+    {% endfor %}
+  {%- endif -%}
+
+  {%- if page.remote.size > 0 -%}
+    {% for person in site.people %}
+      {% if person.tags contains page.remote %}
+        {%- include display-remote.html -%}
+      {% endif %}
+    {% endfor %}
+  {%- endif -%}
+
+  <br>
+  <hr>
+  <br>
+
+  <h2>Software</h2>
+  This event included development of the following software projects:<br><br>
+  <br>
+  {% for software in site.software %}
+    {% if software.tags contains page.software %}
+      {%- include software-display.html -%}
+    {% endif %}
   {% endfor %}
+
+  <br>
+
+  {%- if page.discussion.size > 0 -%}
+  <hr>
+  <br>
+  <h2>Discussions</h2>
+  <br>
+    {% for discussion in site.discussions %}
+      {% if discussion.tags contains page.discussion %}
+        {%- include discussion-display.html -%}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+
+  {%- if page.group-image.size > 0 -%}
+    <img src="/assets/images/events/{{ page.group-image }}" alt="Group Photo"/>
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

@@ -1,0 +1,33 @@
+<b><a href="{{ discussion.url }}">{{ discussion.title }}</a>
+  | {{ discussion.description }}
+</b><br>
+
+{{ discussion.excerpt }}
+
+{%- if discussion.status == "published" -%}
+  <button class="available">
+    <a class="linkbutton" href="/status/{{ discussion.status }}">
+      Status: Published
+    </a>
+  </button>
+  &nbsp;
+{%- endif -%}
+{%- if discussion.status == "in-prep" -%}
+  <button class="prototype">
+    <a class="linkbutton" href="/status/{{ discussion.status }}">
+      Status: In preparation
+    </a>
+  </button>
+  &nbsp;
+{%- endif -%}
+{%- if discussion.status == "closed" -%}
+  <button class="development">
+    <a class="linkbutton" href="/status/{{ discussion.status }}">
+      Status: Closed
+    </a>
+  </button>
+  &nbsp;
+{%- endif -%}
+
+<br>
+<br>

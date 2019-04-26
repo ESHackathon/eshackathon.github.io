@@ -10,5 +10,8 @@ twitter: wviechtb
 developer: metafor-reports,metadat,forestr
 latitude: 50.8471
 longitude: 5.6864
+events:
+  - {title: 2018-04-stockholm, role: Speaker}
+  - {title: 2019-04-canberra, role: Speaker}
 ---
 Wolfgang is associate professor of methodology and statistics at Maastricht University in the Netherlands. His research is primarily focused on developing statistical methods and software for meta-analysis and the design and analysis of longitudinal and multilevel studies using appropriate mixed-effects models. He is author of the <a href="http://www.metafor-project.org/" target="_blank" rel="noopener">metafor</a> package for R, which covers a wide variety of standard and advanced meta-analytic methods (e.g., fixed/random/mixed-effects models, meta-regression, multilevel and multivariate meta-analysis, network meta-analysis, phylogenetic and spatio-temporal models).

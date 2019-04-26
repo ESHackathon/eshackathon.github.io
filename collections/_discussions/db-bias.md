@@ -1,0 +1,9 @@
+---
+layout: discussion
+title: Limitations and biases of commercial bibliographic databases
+short-title: db-bias
+description: Proposed Academic Paper
+tags: stockholm-2018-discussion
+status: in-prep
+---
+Reliable evidence synthesis requires access to a comprehensive, unbiased body of literature that can be searched for relevant information. Systematic reviewers typically search multiple (upwards of 10) bibliographic databases to identify sets of search results that might yield relevant results. Access to these databases is often restrictively expensive, hampering efforts to synthesise evidence by smaller organisations and groups from low- and middle- income countries, for example. When reviewers export references from these databases they must typically do so in small batches (this supposedly stops people from replicating commercial databases for profit): for Web of Science this must be done in batches of 500, which can add considerable time to a review with 20,000 search results or more! Finally, databases such as Web of Science exacerbate publication bias by selecting journals and publishers that are perceived to be of ‘high impact’, for example using citation indices. So, these resources may be expensive, hard to use, and offer a biased selection of evidence. In order to facilitate evidence synthesis and to reduce bias in how information is indexed and found, we call for the production of an Open Source, Open Access on-stop-shop database that catalogues all known academic research. Since tables of contents are freely available online, technology exists that can produce such an important and useful tool.

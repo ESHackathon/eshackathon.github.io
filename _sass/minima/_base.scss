@@ -87,6 +87,114 @@ div.figurecaption {
   padding: 0px;
 }
 
+
+
+div.figures-event-role {
+  width: 200px;
+  height: 75px;
+  position: relative;
+  text-align: left;
+  display: inline-block;
+  background-color: #a3a3a3;
+}
+
+div.figurecaption-event-role {
+  width: 125px;
+  height: 75px;
+  position: relative;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #a3a3a3;
+  color: white;
+  padding: 0px;
+}
+
+img.square-thumb {
+  width: 75px;
+  height: 75px;
+  vertical-align: left;
+  padding: 0px 15px 0px 0px;
+}
+
+p.event-role-text {
+  color: white;
+  position: relative;
+  bottom: 55px;
+  left: 90px;
+}
+
+
+div.figure-event {
+  width: 150px;
+  height: 240px;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+}
+
+div.caption-organiser {
+  width: 150px;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #af673b;
+  color: white;
+  padding: 0px;
+}
+
+div.caption-support {
+  width: 150px;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #d6824f;
+  color: white;
+  padding: 0px;
+}
+
+div.caption-speaker {
+  width: 150px;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #707070;
+  color: white;
+  padding: 0px;
+}
+
+div.caption-local {
+  width: 150px;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #a3a3a3;
+  color: white;
+  padding: 0px;
+}
+
+div.caption-remote {
+  width: 150px;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #4FB3A9;
+  color: white;
+  padding: 0px;
+}
+
+
+
 div.languages {
   height: 30px;
   padding: 5px 10px 5px 10px;
@@ -159,11 +267,13 @@ img.hex {
 }
 
 img.hex-thumb {
+  float: left;
   width: 65px;
   height: 75px;
   vertical-align: middle;
   padding: 5px 15px 5px 0px;
 }
+
 
 .clearfix::after {
   content: "";
@@ -238,6 +348,8 @@ a {
 a.linkbutton {
   color: white;
 }
+
+
 
 /**
  * Blockquotes
@@ -368,6 +480,13 @@ table {
   }
 }
 
+table.people {
+  text-align: left;
+}
+
+td.people {
+  vertical-align: top;
+}
 
 button {
   border: none;

@@ -8,5 +8,7 @@ twitter: Brian__Cottrell
 developer: pdf-annotation
 latitude: 33.8492
 longitude: -118.3884
+events:
+  - {title: 2018-04-stockholm, role: Participant}
 ---
 Brian is a mobile software engineer and hackathon enthusiast from Redondo Beach, California. He received his degree in physics from the University of California, Santa Barbara and currently works on developing mobile and TV applications at AT&T. In his free time, he enjoys building prototype software as a part of hackathons or other challenge events as well as competitive sailboat racing.

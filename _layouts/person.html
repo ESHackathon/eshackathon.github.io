@@ -5,32 +5,8 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.name | escape }}</h1>
-    <em>{{ page.affiliation }}</em><br>
-  </header>
-
-  <div class="clearfix">
-    <div class="post-content e-content" itemprop="articleBody">
-      <img class="profiletext" src= /assets/images/people/{{ page.image }} alt={{ page.name }}/>
-      {{ content }}
-    </div>
-  </div>
-
-  <div class="clearfix">
-
-    {%- if page.developer.size > 0 -%}
-      {% assign packages = site.people | map: 'developer' | join: ',' | split: ',' | uniq %}
-      {% for package in packages offset:1 %}
-        {% if page.developer contains package %}
-            <a href=/software/{{ package }}>
-              <img
-                class="hex-thumb"
-                src= /assets/images/hex/{{ package }}.png
-                alt={{ package }}
-              />
-            </a>
-        {%- endif -%}
-      {% endfor %}
-    {%- endif -%}
+    <em>{{ page.affiliation }}</em>
+    &nbsp;&nbsp;
 
     {%- if page.homepage.size > 0 -%}
       <a
@@ -72,18 +48,92 @@ layout: default
       </a>&nbsp;
     {%- endif -%}
 
+  </header>
+
+  <div class="clearfix">
+    <div class="post-content e-content" itemprop="articleBody">
+      <img class="profiletext" src= /assets/images/people/{{ page.image }} alt={{ page.name }}/>
+      {{ content }}
+    </div>
   </div>
 
   <br>
 
-  {%- if page.tags.size > 0 -%}
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <button class="grey"><a class="linkbutton" href="/tag/{{ tag_name }}">
-        {{ tag_name }}
-      </a></button>&nbsp;
-    {% endfor %}
-  {%- endif -%}
+  <table class="people">
+    <tr>
+      <th width="20%">Events</th>
+      <th width="40%">Software</th>
+      <th width="40%">Discussions</th>
+    </tr>
+    <tr>
+      <td class="people">
+        {% for event in page.events %}
+          <div class="figures-event-role">
+            <a href=/events/{{ event.title }}>
+              <img
+                class="square-thumb"
+                src= /assets/images/events/{{ event.title }}.png
+                alt={{ event.title }}
+              />
+              <p class="event-role-text">{{ event.role }}</p>
+            </a>
+          </div>
+
+        {% endfor %}
+      </td>
+      <td class="people">
+        {%- if page.developer.size > 0 -%}
+          {% assign packages = site.people | map: 'developer' | join: ',' | split: ',' | uniq %}
+          {% for package in packages offset:1 %}
+            {% if page.developer contains package %}
+
+              {% for software-tr in site.software %}
+                {% if software-tr.short-title contains package %}
+                  <div class="clearfix">
+                    <a href=/software/{{ package }}>
+                      <img
+                        class="hex-thumb"
+                        src= /assets/images/hex/{{ package }}.png
+                        alt={{ package }}
+                      />
+                    </a>
+                    <a href=/software/{{ package }}>
+                      {{ software-tr.title }}
+                    </a>
+                    <br>
+                    <em>{{ software-tr.description }}</em>
+                  </div><br>
+                {%- endif -%}
+              {% endfor %}
+
+            {%- endif -%}
+          {% endfor %}
+        {%- endif -%}
+      </td>
+      <td class="people">
+        {% if page.contributor.size > 0 %}
+          {% assign projects = site.people | map: 'contributor' | join: ',' | split: ',' | uniq %}
+          {% for project in projects %}
+            {% if project != "" %}
+              {% for discussion in site.discussions %}
+                {% if page.contributor contains project and discussion.short-title contains project %}
+                  <a href=/discussions/{{ project }}>
+                    {{ discussion.title }}
+                  </a>
+                  <br>
+                  <em>{{ discussion.description }}</em>
+                  <br><br>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </td>
+    </tr>
+  </table>
+
+
+  <br>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
