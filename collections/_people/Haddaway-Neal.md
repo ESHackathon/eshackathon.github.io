@@ -7,7 +7,7 @@ image: Haddaway_Neal.jpg
 homepage: https://sei.academia.edu/NealHaddaway
 twitter: nealhaddaway
 developer: eviatlas,roses-website
-contributor: db-bias,es-utopia
+contributor: db-bias,es-utopia,synthesis-ready
 latitude: 59.3345
 longitude: 18.0969
 events:
