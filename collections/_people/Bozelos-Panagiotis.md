@@ -2,7 +2,7 @@
 layout: person
 name: Panagiotis Bozelos
 affiliation: University of Oxford
-tags: participant-local participant-remote stockholm-2018-people canberra-2019-people stockholm-2018-local canberra-2019-remote
+tags: participant-local participant-remote stockholm-2018-people stockholm-2018-local
 image: bozelos_panagiotis.jpg
 twitter: BozelosP
 github: bozelosp

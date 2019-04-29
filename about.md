@@ -27,4 +27,4 @@ The Evidence Synthesis Hackathon Series was founded in 2017 by <a href="/people/
 </ul>
 
 <br>
-We support the <a href="http://ebrnetwork.org/the-vienna-principles/">Vienna Principles for collaboration on development of automation in systematic reviews</a>.
+We support the <a href="https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-018-0740-7">Vienna Principles for collaboration on development of automation in systematic reviews</a>.
