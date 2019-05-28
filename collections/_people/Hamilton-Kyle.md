@@ -7,7 +7,7 @@ image: Hamilton_Kyle.jpg
 homepage: http://kylehamilton.com
 twitter: kylehamilton
 github: kylehamilton
-developer: metaverse
+developer: metaverse,robvis
 latitude: 37.3642
 longitude: -120.4255
 events:

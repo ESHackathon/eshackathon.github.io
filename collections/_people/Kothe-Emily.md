@@ -7,7 +7,7 @@ image: Kothe_Emily.jpg
 homepage: https://emilykothe.com
 twitter: emilyandthelime
 github: ekothe
-developer: metaverse,metadat
+developer: metaverse,metadat,robvis
 latitude: -38.1439
 longitude: 144.3603
 events:
