@@ -88,6 +88,27 @@ div.figurecaption {
 }
 
 
+div.pagefigures {
+  width: 600px;
+  position: relative;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.pagefigurecaption {
+  width: 600px;
+  height: 65px;
+  position: absolute;
+  text-align: center;
+  vertical-align: 20px;
+  font-size: 90%;
+  background-color: #a3a3a3;
+  color: white;
+  padding: 0px;
+}
+
 
 div.figures-event-role {
   width: 200px;
@@ -214,6 +235,21 @@ ul, ol, dl, figure,
 }
 
 
+/**
+ * Set up main im
+ */
+figure.centered_image {
+  float: left;
+  display: table;
+  width: 50%;
+  vertical-align: centre;
+}
+
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
+
 
 /**
  * `main` element
@@ -251,6 +287,13 @@ img.logocenter {
   height: 150px;
   vertical-align: middle;
   padding: 5px
+}
+
+
+img.widecenter {
+  width: 600px;
+  vertical-align: middle;
+  padding: 0px;
 }
 
 
@@ -360,7 +403,6 @@ blockquote {
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
-  font-style: italic;
 
   > :last-child {
     margin-bottom: 0;
