@@ -52,7 +52,9 @@ layout: default
             src= /assets/images/posts/{{ post.image }}
             alt={{ post.name }}/>
           <a href="{{ post.url }}">{{ post.title }}</a><br>
-          <em>{{ post.description }}</em><br>
+          {% if post.description.size > 0 %}
+            <em>{{ post.description }}</em><br>
+          {% endif %}
           {{ post.excerpt }}
         </div>
         <br>
