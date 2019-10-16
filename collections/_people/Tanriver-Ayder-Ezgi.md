@@ -2,7 +2,7 @@
 layout: person
 name: Ezgi Tanriver-Ayder
 affiliation: University of Edinburgh
-tags: participant-local stockholm-2018-people stockholm-mini-2018-people canberra-2019-people stockholm-2018-local stockholm-mini-2018-local canberra-2019-local
+tags: participant-local stockholm-2018-people stockholm-mini-2018-people canberra-2019-people stockholm-2018-local stockholm-mini-2018-local canberra-2019-remote
 image: tanriver-ayder_ezgi.jpg
 github: ezz-uh
 twitter: ezgitanriver
