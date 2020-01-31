@@ -57,20 +57,20 @@ layout: default
     {% endfor %}
   {%- endif -%}
 
+  {%- if page.software.size > 0 -%}
   <br>
   <hr>
   <br>
-
   <h2>Software</h2>
   This event included development of the following software projects:<br><br>
   <br>
-  {% for software in site.software %}
-    {% if software.tags contains page.software %}
-      {%- include software-display.html -%}
-    {% endif %}
-  {% endfor %}
-
+    {% for software in site.software %}
+      {% if software.tags contains page.software %}
+        {%- include software-display.html -%}
+      {% endif %}
+    {% endfor %}
   <br>
+  {% endif %}
 
   {%- if page.discussion.size > 0 -%}
   <hr>

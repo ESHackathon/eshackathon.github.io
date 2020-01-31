@@ -4,13 +4,23 @@ layout: default
 ---
 # Events
 <div class="clearfix">
+  <a href="/events/2020-06-ottawa.html">
+    <img class="profiletext"
+    src="/assets/images/events/2020-06-ottawa.png"
+    alt="ESH Ottawa 2020"/>
+  </a>
+  <a href="/events/2020-06-ottawa.html"><b>Ottawa</b> | June 2020</a>  
+  The next ESH will be held at Carleton University from 1st-2nd June 2020.  
+</div>
+
+<div class="clearfix">
   <a href="/events/2019-04-canberra.html">
     <img class="profiletext"
     src="/assets/images/events/2019-04-canberra.png"
     alt="ESH Canberra 2019"/>
   </a>
   <a href="/events/2019-04-canberra.html"><b>Canberra</b> | April 2019</a>  
-  The next ESH will be held at UNSW Canberra from 8th-10th April 2019.  
+  The second major ESH was held at UNSW Canberra from 8th-10th April 2019, and brought together 40 participants to discuss future directions for evidence synthesis. Work from this event led to the development of five new software products and one forthcoming scientific publication.  
 </div>
 
 <div class="clearfix">
