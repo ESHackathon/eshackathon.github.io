@@ -4,12 +4,12 @@ layout: default
 ---
 # Events
 <div class="clearfix">
-  <a href="/events/2020-06-online.html">
+  <a href="/events/2020-04-online.html">
     <img class="profiletext"
     src="/assets/images/events/2020-04-online.png"
     alt="ESH Online 2020"/>
   </a>
-  <a href="/events/2020-06-online.html"><b>Online</b> | from April 2020</a>  
+  <a href="/events/2020-04-online.html"><b>Online</b> | from April 2020</a>  
   The next ESH will consist of a series of online projects starting in April 2020.  
 </div>
 
