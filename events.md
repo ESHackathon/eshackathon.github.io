@@ -4,13 +4,13 @@ layout: default
 ---
 # Events
 <div class="clearfix">
-  <a href="/events/2020-06-ottawa.html">
+  <a href="/events/2020-06-online.html">
     <img class="profiletext"
-    src="/assets/images/events/2020-06-ottawa.png"
-    alt="ESH Ottawa 2020"/>
+    src="/assets/images/events/2020-06-online.png"
+    alt="ESH Online 2020"/>
   </a>
-  <a href="/events/2020-06-ottawa.html"><b>Ottawa</b> | June 2020</a>  
-  The next ESH will be held at Carleton University from 1st-2nd June 2020.  
+  <a href="/events/2020-06-online.html"><b>Online</b> | from April 2020</a>  
+  The next ESH will consist of a series of online projects starting in April 2020.  
 </div>
 
 <div class="clearfix">
