@@ -2,7 +2,7 @@
 layout: software
 title: doi2txt
 short-title: doi2txt
-description: A tool to parse full text article sections based on an input digital object identifier
+description: A tool to parse full text article sections based on a doi
 tags: online-2020-software
 language: R
 github: elizagrames/doi2txt
