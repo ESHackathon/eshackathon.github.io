@@ -4,7 +4,7 @@ name: Gabriela Palomo-Munoz
 affiliation: University of Nebraska Lincoln
 tags: participant-remote online-2020-people
 image: Palomo-Munoz_Gabriela.jpg
-homepage: https://www.researchgate.net/profile/Gabriela_Palomo-Munoz
+homepage: https://www.researchgate.net/profile/Palomo-Munoz_Gabriela
 twitter: gabbspalomo
 developer: doi2txt
 latitude: 40.8202
