@@ -1,7 +1,7 @@
 ---
 layout: people-tags
-title: "Online 2020 | All Attendees"
-tag: online-2020-people
+title: "Online 2020 | Remote participants"
+tag: online-2020-remote
 ---
 <button class="grey"><a class="linkbutton" href="/tag/online-2020-people">
   All attendees

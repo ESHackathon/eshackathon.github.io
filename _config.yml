@@ -9,6 +9,8 @@ email: eshackathon@gmail.com
 google_analytics: UA-121833450-3
 collections_dir: collections
 collections:
+  about:
+    output: true
   discussions:
     output: true
   events:
@@ -24,4 +26,3 @@ header_pages:
   - events.md
   - people.md
   - projects.md
-  - sponsors.md
