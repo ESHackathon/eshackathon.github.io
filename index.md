@@ -19,3 +19,23 @@ We believe that ES can be made more <b>resource-efficient, timely, transparent, 
 <br>
 <a href="/2019/01/17/what_is_the_esh.html">We created the Evidence Synthesis Hackathon</a> (ESH) series to bring together interested researchers, practitioners and coders to discuss and develop new Open Source technologies for ES applications.
 </div>
+
+<br>
+<hr>
+<br>
+
+<div class="center">
+  <h2>Our Network</h2>
+  We support participants from around the world to meet and work together to solve key problems
+  <br><br>
+  <iframe
+    src="/assets/html/esh_participants.html"
+    width="830px"
+    height="450px"
+    >
+    You should see a map here!
+  </iframe>
+</div>
+<br>
+<hr>
+<br>

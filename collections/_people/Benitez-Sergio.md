@@ -8,5 +8,6 @@ github: suabochica
 developer: roses-website
 events:
   - {title: 2018-04-stockholm, role: Participant}
+core: "FALSE"
 ---
 Sergio is a system engineer with the emphasis on the design of user interfaces for improved user experiences. His work focussed on improved human-machine interactions and novel tools for data visualisation. His interests include football, tennis and travel.  

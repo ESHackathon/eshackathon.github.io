@@ -35,7 +35,6 @@ div.container {
   position: relative;
 }
 
-
 div.text-main {
   position: absolute;
   left: 10px;
@@ -66,6 +65,44 @@ div.figures {
   display: inline-block;
 }
 
+div.minifigures {
+  width: 150px;
+  height: 162px;
+  padding: 0px;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+}
+
+.minifigure_overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #828282;
+}
+
+.minifigure_text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.minifigures:hover .minifigure_overlay {
+  opacity: 0.8;
+}
+
 div.widefigures {
   width: 150px;
   height: 150px;
@@ -86,7 +123,6 @@ div.figurecaption {
   color: white;
   padding: 0px;
 }
-
 
 div.pagefigures {
   width: 600px;
@@ -280,7 +316,6 @@ img.profilecenter {
   vertical-align: middle;
   padding: 0px;
 }
-
 
 img.logocenter {
   float: centre;

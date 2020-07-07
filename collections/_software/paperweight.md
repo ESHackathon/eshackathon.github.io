@@ -4,6 +4,7 @@ title: Paperweight
 short-title: paperweight
 description: Using natural language processing to improve search queries
 tags: stockholm-2018-software
+function: data_collection
 language: python
 github: ESHackathon/paperweight
 status: prototype

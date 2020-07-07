@@ -4,6 +4,7 @@ title: Reference completer
 short-title: ref-completer
 description: A tool to fill in missing information from incomplete references
 tags: stockholm-2018-software
+function: data_collection
 language: python
 github: ESHackathon/fill_in_incomplete_refs
 status: development

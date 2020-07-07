@@ -4,6 +4,7 @@ title: doi2txt
 short-title: doi2txt
 description: A tool to parse full text article sections based on a doi
 tags: online-2020-software
+function: data_collection
 language: R
 github: elizagrames/doi2txt
 status: development

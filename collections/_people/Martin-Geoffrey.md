@@ -9,5 +9,6 @@ latitude: 1.2966
 longitude: 103.7764
 events:
   - {title: 2018-04-stockholm, role: Participant}
+core: "FALSE"
 ---
 Geoffrey is a third-year undergraduate student from Yale-NUS College majoring in computer science and statistics. He has spent time conducting data driven research on economics, dating, health policy and the environmental sciences, for several research centers at his university and in the data analytics industry. His interests span the intersection of data science and macrosociological issues, and will be spending the coming summer as a machine learning intern at NASA’s Jet Propulsion Laboratory.

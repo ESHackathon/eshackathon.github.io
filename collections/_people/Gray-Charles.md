@@ -14,5 +14,6 @@ events:
   - {title: 2018-04-stockholm, role: Participant}
   - {title: 2018-12-stockholm-mini, role: Participant}
   - {title: 2019-04-canberra, role: Participant}
+core: "TRUE"
 ---
 Charles is a proud <a href="http://choosemaths.org.au/charles-gray/" target="_blank" rel="noopener">mathbassador</a> for the Australian Mathematical Sciences Institute’s <a href="http://choosemaths.org.au" target="_blank" rel="noopener">Choose Maths</a> program. Being a math-talking-doing-advocate grrrl is a relatively new career development, after twenty years working as a classically-trained pianist. She now thinks of herself as a data detective who tells stories with data.

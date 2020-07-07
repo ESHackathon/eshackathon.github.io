@@ -10,5 +10,6 @@ latitude: 27.6778
 longitude: 85.3190
 events:
   - {title: 2018-04-stockholm, role: Participant}
+core: "FALSE"
 ---
 Sanita is a research officer in the Water Futures group at the International Water Management Institute. A water resources engineer by degree, Sanita currently supports watershed modeling research with hydrological and climate data processing, analysis and visualization. Her primary interest is the application of models and data analysis to provide information needed to achieve equitable and transparent water governance and management. In that pursuit, she has worked in environmental modeling, hydro-meteorological monitoring, hydroeconomics and forecasting. Sanita is passionate about finding novel ways to synthesize and visualize scientific evidence to support better decision making in water management.

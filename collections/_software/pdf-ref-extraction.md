@@ -4,6 +4,7 @@ title: PDF reference extraction
 short-title: pdf-ref-extraction
 description: Extract reference lists from PDFs
 tags: stockholm-2018-software
+function: data_collection
 language: python
 run: http://35.196.139.104/
 github: ESHackathon/pdf-to-text

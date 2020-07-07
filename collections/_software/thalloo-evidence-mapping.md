@@ -4,6 +4,7 @@ title: Thallo Evidence Mapping
 short-title: thalloo-evidence-mapping
 description: A Jekyll Theme for Dataset Visualisation
 tags: stockholm-2018-software
+function: communication
 language: javascript
 github: AndrewIOM/thalloo
 status: available

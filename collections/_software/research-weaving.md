@@ -4,6 +4,7 @@ title: Integration & Research Weaving
 short-title: research-weaving
 description: Developing the ICASR Integration Engine
 tags: canberra-2019-software
+function: workflow
 language: javascript
 github: icasr/I3
 status: development

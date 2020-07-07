@@ -4,6 +4,7 @@ title: Grey Literature Reporter
 short-title: grey-lit-reporter
 description: Chrome plugin for grey literature searching
 tags: canberra-2019-software
+function: data_collection
 language: chrome
 github: ESHackathon/grey-literature-recorder
 status: available

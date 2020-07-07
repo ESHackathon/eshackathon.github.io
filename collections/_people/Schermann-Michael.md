@@ -11,5 +11,6 @@ latitude: 37.3496
 longitude: -121.9390
 events:
   - {title: 2019-04-canberra, role: Participant}
+core: "FALSE"
 ---
 Michael is an assistant professor at Santa Clara University. His work focusses on mining both the quantitative and qualitative research of the information systems discipline to understand how managers learn from previous behavior and adapt and how this behavior change makes theories obsolete. He was a senior research fellow at Technische Universität München, Germany and a visiting researcher at the University of Melbourne, Australia. He holds a master's degree in Information Systems and a Ph.D. in Information Systems.

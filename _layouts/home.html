@@ -5,37 +5,34 @@ layout: default
 <div class="home">
 
   {{ content }}
-  <br>
-  <hr>
-  <br>
+
   <div class="center">
-    <h2>Upcoming Events</h2>
-    Our events support the growth of new ideas, <a href="/software">software</a>, and collaborations for improved evidence synthesis.
-    <br><br>
-    <b>All in-person events are currently suspended due to the coronavirus pandemic</b>. ESH Ottawa 2020 has been cancelled as a live event, but may proceed as a virtual event, possibly at a later time. For more information <a href="/events/2020-04-online.html">click here</a>.
-    <br><br>
+    <h2>Core Contributors</h2>
+  </div>
+  <div class="post">
+    {% for person in site.people %}
+      {% if person.core contains "TRUE" %}
+      <div class="minifigures">
+          <a href="{{ person.url }}">
+            <img class="profilecenter"
+              src= /assets/images/people/{{ person.image }}
+              alt={{ person.name }}
+              />
+            <div class="minifigure_overlay">
+              <div class="minifigure_text">{{ person.name }}</div>
+            </div>
+          </a>
+      </div>&nbsp;&nbsp;
+      {% endif %}
+    {% endfor %}
   </div>
 
   <br>
   <hr>
   <br>
+
   <div class="center">
-    <h2>Our Network</h2>
-    We support participants from around the world to meet and work together to solve key problems
-    <br><br>
-    <iframe
-      src="/assets/html/esh_participants.html"
-      width="830px"
-      height="450px"
-      >
-      You should see a map here!
-    </iframe>
-  </div>
-  <br>
-  <hr>
-  <br>
-  <div class="center">
-    <h2>Latest Blogposts</h2>
+    <h2>Blogposts</h2>
   </div>
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
