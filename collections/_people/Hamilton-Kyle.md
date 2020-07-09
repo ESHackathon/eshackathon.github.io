@@ -1,7 +1,7 @@
 ---
 layout: person
-name: W. Kyle Hamilton
-affiliation: University of California, Merced
+title: W. Kyle Hamilton
+subtitle: University of California, Merced
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Hamilton_Kyle.jpg
 homepage: http://kylehamilton.com

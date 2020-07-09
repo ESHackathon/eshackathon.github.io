@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Malgorzata (Losia) Lagisz
-affiliation: University of New South Wales
+title: Malgorzata (Losia) Lagisz
+subtitle: University of New South Wales
 tags: organiser canberra-2019-people canberra-2019-remote
 image: Lagisz_Malgorzata.jpg
 homepage: http://www.i-deel.org/

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Alison Bethel
-affiliation: University of Exeter
+title: Alison Bethel
+subtitle: University of Exeter
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Bethel_Alison.jpg
 twitter: AlisonBethel

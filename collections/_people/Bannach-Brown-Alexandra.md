@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Alexandra Bannach-Brown
-affiliation: Bond University
+title: Alexandra Bannach-Brown
+subtitle: Bond University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Bannach-Brown_Alexandra.jpg
 twitter: ABannachBrown

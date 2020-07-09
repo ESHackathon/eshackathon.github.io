@@ -3,59 +3,52 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.name | escape }}</h1>
-    <em>{{ page.affiliation }}</em>
-    &nbsp;&nbsp;
-
-    {%- if page.homepage.size > 0 -%}
-      <a
-        href={{ page.homepage }}
-        title="Homepage"
-        target="_blank"
-        rel="noopener">
-        <i class="fa fa-home fa-2x" style="color:#4FB3A9"></i>
-      </a>&nbsp;
-    {%- endif -%}
-
-    {%- if page.github.size > 0 -%}
-      <a
-        href="https://github.com/{{ page.github }} "
-        title="GitHub"
-        target="_blank"
-        rel="noopener">
-        <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i>
-      </a>&nbsp;
-    {%- endif -%}
-
-    {%- if page.twitter.size > 0 -%}
-      <a
-        href="https://twitter.com/{{ page.twitter }}"
-        title="Twitter"
-        target="_blank"
-        rel="noopener">
-        <i class="fa fa-twitter fa-2x" style="color:#4FB3A9"></i>
-      </a>&nbsp;
-    {%- endif -%}
-
-    {%- if page.podcast.size > 0 -%}
-      <a
-        href={{ page.podcast }}
-        title="Podcast"
-        target="_blank"
-        rel="noopener">
-        <i class="fa fa-play fa-2x" style="color:#4FB3A9"></i>
-      </a>&nbsp;
-    {%- endif -%}
-
-  </header>
-
   <div class="clearfix">
     <div class="post-content e-content" itemprop="articleBody">
       <img class="profiletext" src= /assets/images/people/{{ page.image }} alt={{ page.name }}/>
       {{ content }}
     </div>
   </div>
+
+  {%- if page.homepage.size > 0 -%}
+    <a
+      href={{ page.homepage }}
+      title="Homepage"
+      target="_blank"
+      rel="noopener">
+      <i class="fa fa-home fa-2x" style="color:#4FB3A9"></i> {{ page.homepage }}
+    </a><br>
+  {%- endif -%}
+
+  {%- if page.github.size > 0 -%}
+    <a
+      href="https://github.com/{{ page.github }} "
+      title="GitHub"
+      target="_blank"
+      rel="noopener">
+      <i class="fa fa-github fa-2x" style="color:#4FB3A9"></i> {{ page.github }}
+    </a><br>
+  {%- endif -%}
+
+  {%- if page.twitter.size > 0 -%}
+    <a
+      href="https://twitter.com/{{ page.twitter }}"
+      title="Twitter"
+      target="_blank"
+      rel="noopener">
+      <i class="fa fa-twitter fa-2x" style="color:#4FB3A9"></i> @{{ page.twitter }}
+    </a><br>
+  {%- endif -%}
+
+  {%- if page.podcast.size > 0 -%}
+    <a
+      href={{ page.podcast }}
+      title="Podcast"
+      target="_blank"
+      rel="noopener">
+      <i class="fa fa-play fa-2x" style="color:#4FB3A9"></i> {{ page.podcast }}
+    </a><br>
+  {%- endif -%}
 
   <br>
 

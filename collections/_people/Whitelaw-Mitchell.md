@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Mitchell Whitelaw
-affiliation: Australian National University
+title: Mitchell Whitelaw
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Whitelaw_Mitchell.jpg
 homepage: http://mtchl.net/

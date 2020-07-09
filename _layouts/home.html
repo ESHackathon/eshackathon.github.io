@@ -16,10 +16,10 @@ layout: default
           <a href="{{ person.url }}">
             <img class="profilecenter"
               src= /assets/images/people/{{ person.image }}
-              alt={{ person.name }}
+              alt={{ person.title }}
               />
             <div class="minifigure_overlay">
-              <div class="minifigure_text">{{ person.name }}</div>
+              <div class="minifigure_text">{{ person.title }}</div>
             </div>
           </a>
       </div>&nbsp;&nbsp;
@@ -32,7 +32,7 @@ layout: default
   <br>
 
   <div class="center">
-    <h2>Blogposts</h2>
+    <h2>News</h2>
   </div>
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">

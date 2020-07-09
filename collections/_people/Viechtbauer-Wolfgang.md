@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Wolfgang Viechtbauer
-affiliation: Maastricht University
+title: Wolfgang Viechtbauer
+subtitle: Maastricht University
 tags: invited-speaker stockholm-2018-people canberra-2019-people stockholm-2018-speaker canberra-2019-speaker
 image: Viechtbauer_Wolfgang.jpg
 homepage: http://www.wvbauer.com

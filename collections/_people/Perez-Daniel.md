@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Daniel Perez
-affiliation: Epistemonikos
+title: Daniel Perez
+subtitle: Epistemonikos
 tags: participant-local stockholm-2018-people canberra-2019-people stockholm-2018-local canberra-2019-local
 image: perez-rada_daniel.jpg
 github: dperezrada

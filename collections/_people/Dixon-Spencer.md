@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Spencer Dixon
-affiliation: UN Environment World Conservation Monitoring Centre
+title: Spencer Dixon
+subtitle: UN Environment World Conservation Monitoring Centre
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: dixon_spencer.jpg
 twitter: spencerldixon

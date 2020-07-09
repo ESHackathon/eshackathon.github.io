@@ -2,7 +2,7 @@
 layout: software
 title: ROSES
 short-title: roses-website
-description: A website to support reporting of systematic evidence syntheses
+subtitle: A website to support reporting of systematic evidence syntheses
 tags: stockholm-2018-software
 function: workflow
 language: javascript

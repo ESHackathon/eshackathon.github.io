@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Charles Gray
-affiliation: R-ladies
+title: Charles Gray
+subtitle: R-ladies
 tags: participant-local stockholm-2018-people stockholm-mini-2018-people canberra-2019-people stockholm-2018-local stockholm-mini-2018-local canberra-2019-local
 image: gray_charles.jpg
 twitter: cantabile

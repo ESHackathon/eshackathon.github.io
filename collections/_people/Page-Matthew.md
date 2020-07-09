@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Matthew Page
-affiliation: Cochrane Australia
+title: Matthew Page
+subtitle: Cochrane Australia
 tags: invited-speaker canberra-2019-people canberra-2019-speaker online-2020-people online-2020-remote
 image: Page_Matthew.jpeg
 homepage: https://research.monash.edu/en/persons/matthew-page

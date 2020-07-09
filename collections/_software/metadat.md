@@ -2,7 +2,7 @@
 layout: software
 title: metadat
 short-title: metadat
-description: Meta-analytic datasets for R
+subtitle: Meta-analytic datasets for R
 tags: canberra-2019-software
 function: analysis
 language: r-lang

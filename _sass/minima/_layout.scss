@@ -12,6 +12,15 @@
   position: relative;
 }
 
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/assets/images/banners/main_image.jpeg");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;

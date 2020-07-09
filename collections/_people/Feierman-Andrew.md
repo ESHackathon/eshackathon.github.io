@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Andrew Feierman
-affiliation: Data-Driven Yale
+title: Andrew Feierman
+subtitle: Data-Driven Yale
 tags: participant-local participant-remote stockholm-2018-people stockholm-mini-2018-people canberra-2019-people stockholm-2018-local stockholm-mini-2018-local canberra-2019-remote
 image: feiermann_andrew.jpg
 twitter: AlmostFireman

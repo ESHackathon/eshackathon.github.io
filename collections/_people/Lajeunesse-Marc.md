@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Marc Lajeunesse
-affiliation: University of South Florida
+title: Marc Lajeunesse
+subtitle: University of South Florida
 tags: participant-local invited-speaker stockholm-2018-people stockholm-2018-speaker
 image: lajeunesse_marc.png
 homepage: http://lajeunesse.myweb.usf.edu

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Mandlenkosi Ngwenya
-affiliation: Department of Planning, Monitoring, and Evaluation
+title: Mandlenkosi Ngwenya
+subtitle: Department of Planning, Monitoring, and Evaluation
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Mandlenkosi_Ngwenya.jpg
 developer: grey-lit-reporter

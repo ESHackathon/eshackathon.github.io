@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Luis Furuya-Kanamori
-affiliation: Australian National University
+title: Luis Furuya-Kanamori
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Furuya-Kanamori-Luis.jpg
 developer: forestr

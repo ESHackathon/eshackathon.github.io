@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Vivian Welch
-affiliation: Campbell Collaboration
+title: Vivian Welch
+subtitle: Campbell Collaboration
 tags: invited-speaker canberra-2019-people canberra-2019-speaker online-2020-people online-2020-remote
 image: Welch_Vivian.jpg
 homepage: https://bruyere.uniweb.network/members/51/profile

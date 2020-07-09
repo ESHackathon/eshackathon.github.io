@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Rose O'Dea
-affiliation: University of New South Wales
+title: Rose O'Dea
+subtitle: University of New South Wales
 tags: support-team canberra-2019-people canberra-2019-support
 image: ODea-Rose.png
 homepage: https://www.roseodea.com

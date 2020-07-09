@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Pieter Arnold
-affiliation: Australian National University
+title: Pieter Arnold
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Arnold_Pieter.jpg
 homepage: https://pieterarnold.wixsite.com/home

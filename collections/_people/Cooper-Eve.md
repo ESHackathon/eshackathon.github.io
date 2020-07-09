@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Eve Cooper
-affiliation: Australian National University
+title: Eve Cooper
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Cooper_Eve.jpg
 twitter: EveCooper44

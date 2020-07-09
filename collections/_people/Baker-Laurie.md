@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Laurie Baker
-affiliation: University of Glasgow
+title: Laurie Baker
+subtitle: University of Glasgow
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: baker_laurie.jpg
 twitter: llbaker1707

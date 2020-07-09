@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Sonia Mitchell
-affiliation: University of Glasgow
+title: Sonia Mitchell
+subtitle: University of Glasgow
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: mitchell_sonia.jpg
 twitter: SoniaNMitchell

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Gihan Samarasinghe
-affiliation: University of New South Wales
+title: Gihan Samarasinghe
+subtitle: University of New South Wales
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: samarasinghe_gihan.jpg
 twitter: gihants87

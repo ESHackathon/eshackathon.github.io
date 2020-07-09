@@ -2,7 +2,7 @@
 layout: software
 title: Search Strategist
 short-title: search-strategist
-description: A web tool to test and improve search strategies
+subtitle: A web tool to test and improve search strategies
 tags: stockholm-2018-software
 function: data_collection
 language: python

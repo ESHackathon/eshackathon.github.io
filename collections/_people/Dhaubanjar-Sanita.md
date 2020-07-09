@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Sanita Dhaubanjar
-affiliation: International Water Management Institute
+title: Sanita Dhaubanjar
+subtitle: International Water Management Institute
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: dhaubanjar_sanita.jpg
 twitter: sanita_h2o

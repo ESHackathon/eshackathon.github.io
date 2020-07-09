@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Martin Westgate
-affiliation: Australian National University
+title: Martin Westgate
+subtitle: Australian National University
 image: Westgate_Martin.jpg
 homepage: https://martinwestgate.com
 github: mjwestgate

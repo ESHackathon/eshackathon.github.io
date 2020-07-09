@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Yongzhi Foo
-affiliation: University of New South Wales
+title: Yongzhi Foo
+subtitle: University of New South Wales
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Foo_Yongzhi.jpg
 contributor: es-utopia,synthesis-ready

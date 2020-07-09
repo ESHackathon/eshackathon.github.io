@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Eliza Grames
-affiliation:  University of Connecticut
+title: Eliza Grames
+subtitle:  University of Connecticut
 tags: participant-local canberra-2019-people canberra-2019-local online-2020-people online-2020-remote
 image: Grames_Eliza.jpg
 homepage: https://elizagrames.github.io

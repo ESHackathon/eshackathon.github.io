@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Adam Dunn
-affiliation: Macquarie University
+title: Adam Dunn
+subtitle: Macquarie University
 tags: invited-speaker canberra-2019-people canberra-2019-speaker online-2020-people online-2020-remote
 image: Dunn_Adam.jpg
 homepage: https://www.adamgdunn.net

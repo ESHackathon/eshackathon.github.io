@@ -1,7 +1,7 @@
 ---
 layout: person
-name: James Thomas
-affiliation: University College London
+title: James Thomas
+subtitle: University College London
 tags: participant-remote canberra-2019-people canberra-2019-remote
 image: Thomas_James.jpg
 twitter: james_m_thomas

@@ -2,7 +2,7 @@
 layout: software
 title: Integration & Research Weaving
 short-title: research-weaving
-description: Developing the ICASR Integration Engine
+subtitle: Developing the ICASR Integration Engine
 tags: canberra-2019-software
 function: workflow
 language: javascript

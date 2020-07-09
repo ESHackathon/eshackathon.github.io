@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Claudia Munera
-affiliation: Australian National University
+title: Claudia Munera
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Munera-Claudia.jpg
 twitter: mune_rita

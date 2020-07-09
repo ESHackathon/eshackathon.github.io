@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Luke McGuinness
-affiliation: University of Bristol
+title: Luke McGuinness
+subtitle: University of Bristol
 tags: participant-local canberra-2019-people canberra-2019-local online-2020-people online-2020-remote
 image: McGuinness-Luke.jpg
 twitter: mcguinlu

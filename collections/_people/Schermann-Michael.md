@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Michael Schermann
-affiliation: Santa Clara University
+title: Michael Schermann
+subtitle: Santa Clara University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Schermann_Michael.png
 developer: metaverse

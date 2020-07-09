@@ -2,7 +2,7 @@
 layout: software
 title: forestr
 short-title: forestr
-description: Interactive forest plots
+subtitle: Interactive forest plots
 tags: canberra-2019-software
 function: visualisation
 language: javascript

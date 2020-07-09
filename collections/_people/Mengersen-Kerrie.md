@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Kerrie Mengersen
-affiliation: Queensland University of Technology
+title: Kerrie Mengersen
+subtitle: Queensland University of Technology
 tags: invited-speaker canberra-2019-people canberra-2019-speaker
 image: Mengersen_Kerrie.jpg
 homepage: https://staff.qut.edu.au/staff/k.mengersen

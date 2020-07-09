@@ -2,7 +2,7 @@
 layout: software
 title: PDF annotation
 short-title: pdf-annotation
-description: Coding and extracting data from PDFs
+subtitle: Coding and extracting data from PDFs
 tags: stockholm-2018-software
 function: data_collection
 language: javascript

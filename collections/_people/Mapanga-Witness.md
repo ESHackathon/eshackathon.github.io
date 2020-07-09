@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Witness Mapanga
-affiliation: University of Witwatersrand
+title: Witness Mapanga
+subtitle: University of Witwatersrand
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Mapanga_Witness.jpg
 twitter: Witmapanga

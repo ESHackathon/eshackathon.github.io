@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Christopher Penkin
-affiliation: Digital Solution Foundry
+title: Christopher Penkin
+subtitle: Digital Solution Foundry
 tags: participant-local stockholm-2018-people canberra-2019-people stockholm-2018-local canberra-2019-local
 image: penkin_christopher.jpg
 github: penkin

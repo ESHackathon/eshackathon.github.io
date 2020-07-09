@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Matt Carter
-affiliation: Bond University
+title: Matt Carter
+subtitle: Bond University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Carter_Matt.jpg
 twitter: hashbhang

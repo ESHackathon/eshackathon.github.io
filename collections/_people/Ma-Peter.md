@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Peter Ma
-affiliation: Clean Water AI
+title: Peter Ma
+subtitle: Clean Water AI
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: ma_peter.jpg
 twitter: Nyceane

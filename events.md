@@ -2,7 +2,6 @@
 title: Events
 layout: default
 ---
-# Events
 <div class="clearfix">
   <a href="/events/2020-04-online.html">
     <img class="profiletext"

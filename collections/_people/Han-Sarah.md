@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Sarah Han
-affiliation: Collide LLC
+title: Sarah Han
+subtitle: Collide LLC
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: han_sarah.png
 homepage: http://www.sarahjhan.co

@@ -2,7 +2,7 @@
 layout: software
 title: robvis
 short-title: robvis
-description: Risk of bias assessments in R
+subtitle: Risk of bias assessments in R
 tags: canberra-2019-software
 function: visualisation
 language: r-lang

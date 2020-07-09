@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Alistair Senior
-affiliation: University of Sydney
+title: Alistair Senior
+subtitle: University of Sydney
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Senior_Alistair.jpg
 homepage: http://alistairmsenior.com

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Alfredo Sánchez-Tójar
-affiliation: Bielefeld University
+title: Alfredo Sánchez-Tójar
+subtitle: Bielefeld University
 tags: participant-local canberra-2019-people canberra-2019-local online-2020-people online-2020-remote
 image: Sanchez-Tojar_Alfredo.jpg
 github: ASanchez-Tojar

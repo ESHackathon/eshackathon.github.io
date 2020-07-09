@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Juan Vásquez
-affiliation: Epistemonikos
+title: Juan Vásquez
+subtitle: Epistemonikos
 tags: participant-local stockholm-2018-people canberra-2019-people stockholm-2018-local canberra-2019-local
 image: vasquez_juan_ignacio.jpg
 github: jivasquez

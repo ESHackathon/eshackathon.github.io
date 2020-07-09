@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Emily Hennessy
-affiliation: University of Connecticut
+title: Emily Hennessy
+subtitle: University of Connecticut
 tags: participant-local canberra-2019-people canberra-2019-local online-2020-people online-2020-remote
 image: Hennessy_Emily.jpg
 homepage: https://sharp.uconn.edu/people/emily-alden-hennessy-phd/

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Gorm Shackelford
-affiliation: University of Cambridge
+title: Gorm Shackelford
+subtitle: University of Cambridge
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: shackleford_gorm.png
 twitter: GormShackleford

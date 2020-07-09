@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Owen Forbes
-affiliation: Australian National University
+title: Owen Forbes
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Forbes_Owen.jpg
 developer: forestr

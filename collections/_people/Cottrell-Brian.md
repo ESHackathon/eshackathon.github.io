@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Brian Cottrell
-affiliation: AT&T
+title: Brian Cottrell
+subtitle: AT&T
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: cottrell_brian.jpg
 twitter: Brian__Cottrell

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Thomas White
-affiliation: The University of Sydney
+title: Thomas White
+subtitle: The University of Sydney
 tags: participant-local canberra-2019-people canberra-2019-local
 image: White_Thomas.jpg
 homepage: https://tomwhite.io

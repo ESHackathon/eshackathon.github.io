@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Andrew Martin
-affiliation: University of Oxford  
+title: Andrew Martin
+subtitle: University of Oxford  
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: martin_andrew.jpg
 developer: thalloo-evidence-mapping

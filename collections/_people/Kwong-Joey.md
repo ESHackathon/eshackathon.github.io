@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Joey Kwong
-affiliation: United Nations Population Funds Asia and the Pacific Regional Office
+title: Joey Kwong
+subtitle: United Nations Population Funds Asia and the Pacific Regional Office
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Kwong_Joey.png
 developer: grey-lit-reporter

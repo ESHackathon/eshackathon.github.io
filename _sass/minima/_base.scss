@@ -31,6 +31,12 @@ body {
 
 
 /* Container holding the image and the text */
+span.heading-text {
+  color: "white";
+  text-align: left;
+  font-size: 150%;
+}
+
 div.container {
   position: relative;
 }
@@ -40,8 +46,6 @@ div.text-main {
   left: 10px;
   font-size: 200%;
 }
-
-
 
 div.main {
   text-align: center;
@@ -299,6 +303,12 @@ main {
 /**
  * Images
  */
+img.right-image {
+  float: right;
+  width: 200px;
+  padding: 0px 0px 0px 50px;
+}
+
 img.profiletext {
   border: 1px solid grey;
   float: left;
@@ -343,6 +353,21 @@ img.hex {
   height: 150px;
   vertical-align: middle;
   padding: 5px 15px 5px 0px;
+}
+
+img.hex-right {
+  float: right;
+  width: 129px;
+  height: 150px;
+  vertical-align: middle;
+  padding: 0px 0px 10px 30px;
+}
+
+img.hex_title {
+  width: 215px;
+  height: 250px;
+  vertical-align: middle;
+  padding: 60px 10px 10px 40px;
 }
 
 img.hex-thumb {
@@ -543,7 +568,6 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 0px solid $grey-color-light;
   th, td {
@@ -560,6 +584,11 @@ table {
 
 table.people {
   text-align: left;
+}
+
+table.header {
+  text-align: left;
+  font-size: 150%;
 }
 
 td.people {

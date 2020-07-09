@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Shinichi Nakagawa
-affiliation: University of New South Wales
+title: Shinichi Nakagawa
+subtitle: University of New South Wales
 tags: organiser canberra-2019-people canberra-2019-organiser
 image: Nakagawa_Shinichi.jpeg
 homepage: http://www.i-deel.org/

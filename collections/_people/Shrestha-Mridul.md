@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Mridul Shrestha
-affiliation: Alight Tech
+title: Mridul Shrestha
+subtitle: Alight Tech
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: shrestha_mridul.jpg
 events:

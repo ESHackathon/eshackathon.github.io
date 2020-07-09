@@ -2,7 +2,7 @@
 layout: software
 title: PDF reference extraction
 short-title: pdf-ref-extraction
-description: Extract reference lists from PDFs
+subtitle: Extract reference lists from PDFs
 tags: stockholm-2018-software
 function: data_collection
 language: python

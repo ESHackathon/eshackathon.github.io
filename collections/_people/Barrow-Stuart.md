@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Stuart Barrow
-affiliation: Australian Academy of Science
+title: Stuart Barrow
+subtitle: Australian Academy of Science
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Barrow_Stuart.jpg
 twitter: functionary

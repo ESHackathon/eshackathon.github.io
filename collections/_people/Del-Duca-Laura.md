@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Laura Del Duca
-affiliation: Stockholm Environment Institute
+title: Laura Del Duca
+subtitle: Stockholm Environment Institute
 tags: participant-local canberra-2019-people canberra-2019-remote
 image: Del_Duca_Laura.jpg
 twitter: laura_delduca

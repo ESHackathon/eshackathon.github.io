@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Neal Haddaway
-affiliation: Stockholm Environment Institute
+title: Neal Haddaway
+subtitle: Stockholm Environment Institute
 tags: organiser stockholm-2018-people stockholm-mini-2018-people canberra-2019-people stockholm-2018-organiser stockholm-mini-2018-organiser canberra-2019-organiser participant-remote online-2020-organiser online-2020-people
 image: Haddaway_Neal.jpg
 homepage: https://sei.academia.edu/NealHaddaway

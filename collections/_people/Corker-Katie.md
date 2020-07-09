@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Katie Corker
-affiliation: Grand Valley State University
+title: Katie Corker
+subtitle: Grand Valley State University
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: corker_katherine.jpg
 twitter: katiecorker

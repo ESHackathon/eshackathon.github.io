@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Daniel Noble
-affiliation: Australian National University
+title: Daniel Noble
+subtitle: Australian National University
 tags: organiser canberra-2019-people canberra-2019-organiser
 image: Noble_Dan.jpg
 homepage: http://nobledan.com

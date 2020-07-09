@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Biljana Macura
-affiliation: Stockholm Environment Institute
+title: Biljana Macura
+subtitle: Stockholm Environment Institute
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: macura_biljana.jpg
 twitter: biljana_macura

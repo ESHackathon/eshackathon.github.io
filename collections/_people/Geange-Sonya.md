@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Sonya Geange
-affiliation: Australian National University
+title: Sonya Geange
+subtitle: Australian National University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Geange_Sonya.jpg
 homepage: https://sonyageange.com/

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Geoffrey Martin
-affiliation: Yale NUS College
+title: Geoffrey Martin
+subtitle: Yale NUS College
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: martin_geoffrey.jpg
 developer: paperweight

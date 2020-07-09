@@ -2,7 +2,7 @@
 layout: software
 title: metafor automated reports
 short-title: metafor-reports
-description: A function to summarize meta-analysis outputs
+subtitle: A function to summarize meta-analysis outputs
 tags: stockholm-2018-software
 function: communication
 language: r-lang

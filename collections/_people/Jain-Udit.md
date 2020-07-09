@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Udit Jain
-affiliation: Data-Driven Yale
+title: Udit Jain
+subtitle: Data-Driven Yale
 tags: participant-local stockholm-2018-people stockholm-2018-local
 image: jain_udit.jpg
 latitude: 41.3163

@@ -1,7 +1,7 @@
 ---
 layout: person
-name: Emily Kothe
-affiliation: Deakin University
+title: Emily Kothe
+subtitle: Deakin University
 tags: participant-local canberra-2019-people canberra-2019-local
 image: Kothe_Emily.jpg
 homepage: https://emilykothe.com
