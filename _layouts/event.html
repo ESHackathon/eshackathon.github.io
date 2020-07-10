@@ -20,7 +20,7 @@ layout: default
   {%- if page.organisers.size > 0 -%}
     {% for person in site.people %}
       {% if person.tags contains page.organisers %}
-        {%- include display-organiser.html -%}
+        {%- include display-person.html -%}
       {% endif %}
     {% endfor %}
   {%- endif -%}
@@ -28,7 +28,7 @@ layout: default
   {%- if page.support.size > 0 -%}
     {% for person in site.people %}
       {% if person.tags contains page.support %}
-        {%- include display-support.html -%}
+        {%- include display-person.html -%}
       {% endif %}
     {% endfor %}
   {%- endif -%}
@@ -36,7 +36,7 @@ layout: default
   {%- if page.speakers.size > 0 -%}
     {% for person in site.people %}
       {% if person.tags contains page.speakers %}
-        {%- include display-speaker.html -%}
+        {%- include display-person.html -%}
       {% endif %}
     {% endfor %}
   {%- endif -%}
@@ -44,7 +44,7 @@ layout: default
   {%- if page.local.size > 0 -%}
     {% for person in site.people %}
       {% if person.tags contains page.local %}
-        {%- include display-local.html -%}
+        {%- include display-person.html -%}
       {% endif %}
     {% endfor %}
   {%- endif -%}
@@ -52,7 +52,7 @@ layout: default
   {%- if page.remote.size > 0 -%}
     {% for person in site.people %}
       {% if person.tags contains page.remote %}
-        {%- include display-remote.html -%}
+        {%- include display-person.html -%}
       {% endif %}
     {% endfor %}
   {%- endif -%}

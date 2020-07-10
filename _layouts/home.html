@@ -1,55 +1,116 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<div class="home">
+  {%- include head.html -%}
 
-  {{ content }}
+  <body>
 
-  <div class="center">
-    <h2>Core Contributors</h2>
-  </div>
-  <div class="post">
-    {% for person in site.people %}
-      {% if person.core contains "TRUE" %}
-      <div class="minifigures">
-          <a href="{{ person.url }}">
-            <img class="profilecenter"
-              src= /assets/images/people/{{ person.image }}
-              alt={{ person.title }}
-              />
-            <div class="minifigure_overlay">
-              <div class="minifigure_text">{{ person.title }}</div>
-            </div>
-          </a>
-      </div>&nbsp;&nbsp;
-      {% endif %}
-    {% endfor %}
-  </div>
+    {%- include header.html -%}
 
-  <br>
-  <hr>
-  <br>
+    <div class="home">
 
-  <div class="center">
-    <h2>News</h2>
-  </div>
-  {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <div class="clearfix">
-          <img class="profiletext"
-            src= /assets/images/posts/{{ post.image }}
-            alt={{ post.name }}/>
-          <a href="{{ post.url }}">{{ post.title }}</a><br>
-          {% if post.description.size > 0 %}
-            <em>{{ post.description }}</em><br>
-          {% endif %}
-          {{ post.excerpt }}
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
         </div>
-        <br>
-      {% endfor %}
-    </ul>
-  {%- endif -%}
+      </main>
+      <br>
 
-</div>
+      <div class="section">
+        <main class="page-content" aria-label="Content">
+          <div class="wrapper">
+
+            <div class="center"><h2>Key Projects</h2></div>
+
+            <div class="clearfix">
+              <a href="/software/metaverse">
+                <img class="hexleft" src="/assets/images/hex/metaverse.png" alt="metaverse">
+              </a>
+              <br>
+              <a href="/software/metaverse">metaverse</a>
+              <p>Evidence synthesis workflows for R</p>
+            </div>
+
+            <div class="clearfix">
+              <a href="/software/grey-lit-reporter">
+                <img class="hexright" src="/assets/images/hex/grey-lit-reporter.png" alt="Grey Literature">
+              </a>
+              <br>
+              <a href="/software/grey-lit-reporter">Grey Literature Reporter</a>
+              <p>Chrome plugin for grey literature searching</p>
+            </div>
+
+            <div class="clearfix">
+              <a href="/software/eviatlas">
+                <img class="hexleft" src="/assets/images/hex/eviatlas.png" alt="metaverse">
+              </a>
+              <br>
+              <a href="/software/eviatlas">eviatlas</a>
+              <p>An R tool for exploring systematic map databases</p>
+            </div>
+
+            <br>
+            <br>
+
+          </div>
+        </main>
+      </div>
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="center"><h2>ESHcon 2020</h2></div>
+          <p>Our next event will be a virtual conference on R tools for evidence synthesis. If you work on software tools for meta-analysis, systematic review or related fields, then this is for you!</p>
+          <em>Details are still TBC, but you can see our event page <a href="/events/2020-04-online.html">here</a></em>
+        </div>
+      </main>
+
+      <br>
+      <br>
+      <div class="section">
+        <main class="page-content" aria-label="Content">
+          <div class="wrapper">
+            <div class="center"><h2>Core Contributors</h2></div>
+            <div class="post">
+              {% for person in site.people %}
+                {% if person.core contains "TRUE" %}
+                  {%- include display-person.html -%}
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </main>
+      </div>
+      <br>
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="center"><h2>News</h2></div>
+          {%- if site.posts.size > 0 -%}
+            <ul class="post-list">
+              {% for post in site.posts %}
+                <div class="clearfix">
+                  <img class="profiletext"
+                    src= /assets/images/posts/{{ post.image }}
+                    alt={{ post.name }}/>
+                  <a href="{{ post.url }}">{{ post.title }}</a><br>
+                  {% if post.description.size > 0 %}
+                    <em>{{ post.description }}</em><br>
+                  {% endif %}
+                  {{ post.excerpt }}
+                </div>
+                <br>
+              {% endfor %}
+            </ul>
+          {%- endif -%}
+        </div>
+      </main>
+
+    </div>
+
+
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
