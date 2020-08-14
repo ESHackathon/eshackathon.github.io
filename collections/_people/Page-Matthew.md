@@ -2,13 +2,14 @@
 layout: person
 title: Matthew Page
 subtitle: Cochrane Australia
-tags: invited-speaker canberra-2019-people canberra-2019-speaker
+tags: invited-speaker canberra-2019-people canberra-2019-speaker online-2020-people online-2020-remote
 image: Page_Matthew.jpeg
 homepage: https://research.monash.edu/en/persons/matthew-page
 latitude: -37.907803
 longitude: 145.133957
 events:
   - {title: 2019-04-canberra, role: Speaker}
+  - {title: 2020-04-online, role: Remote}
 contributor: es-utopia,synthesis-ready,opendataopencode
 core: "TRUE"
 ---

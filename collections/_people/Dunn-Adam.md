@@ -2,7 +2,7 @@
 layout: person
 title: Adam Dunn
 subtitle: Macquarie University
-tags: invited-speaker canberra-2019-people canberra-2019-speaker
+tags: invited-speaker canberra-2019-people canberra-2019-speaker online-2020-people online-2020-remote
 image: Dunn_Adam.jpg
 homepage: https://www.adamgdunn.net
 twitter: adamgdunn
@@ -11,6 +11,7 @@ latitude: -33.7771
 longitude: 151.1180
 events:
   - {title: 2019-04-canberra, role: Speaker}
+  - {title: 2020-04-online, role: Remote}
 contributor: es-utopia,synthesis-ready,opendataopencode
 core: "TRUE"
 ---

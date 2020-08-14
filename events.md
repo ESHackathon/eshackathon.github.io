@@ -5,12 +5,22 @@ layout: default
 <div class="clearfix">
   <a href="/events/2020-04-online.html">
     <img class="profiletext"
-    src="/assets/images/events/2021-01-online.png"
+    src="/assets/images/events/2021-01-ESMAR.png"
     alt="ESH Online 2020"/>
   </a>
-  <a href="/events/2021-01-online.html"><b>Online</b> | January 2021</a><br>
-  <b>Evidence Synthesis & Meta-Analysis in R (ESMA-R) Conference</b><br>
+  <a href="/events/2021-01-ESMAR.html"><b>ESMA-R</b> | January 2021</a><br>
+  <b>Evidence Synthesis & Meta-Analysis in R Conference</b><br>
   We invite you to join us for a 2-day conference in January 2021 dedicated to conducting evidence syntheses and meta-analyses in R.
+</div>
+
+<div class="clearfix">
+  <a href="/events/2020-04-online.html">
+    <img class="profiletext"
+    src="/assets/images/events/2020-04-online.png"
+    alt="ESH Online 2020"/>
+  </a>
+  <a href="/events/2020-04-online.html"><b>Online</b> | from April 2020</a><br>
+  In April 2020 we began a series of smaller, online events to foster new projects and collaborations
 </div>
 
 <div class="clearfix">
