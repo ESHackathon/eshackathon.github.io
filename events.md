@@ -5,11 +5,12 @@ layout: default
 <div class="clearfix">
   <a href="/events/2020-04-online.html">
     <img class="profiletext"
-    src="/assets/images/events/2020-04-online.png"
+    src="/assets/images/events/2021-01-online.png"
     alt="ESH Online 2020"/>
   </a>
-  <a href="/events/2020-04-online.html"><b>Online</b> | from April 2020</a>  
-  The next ESH will consist of a series of online projects starting in April 2020.  
+  <a href="/events/2021-01-online.html"><b>Online</b> | January 2021</a><br>
+  <b>Evidence Synthesis & Meta-Analysis in R (ESMA-R) Conference</b><br>
+  We invite you to join us for a 2-day conference in January 2021 dedicated to conducting evidence syntheses and meta-analyses in R.
 </div>
 
 <div class="clearfix">
@@ -18,7 +19,7 @@ layout: default
     src="/assets/images/events/2019-04-canberra.png"
     alt="ESH Canberra 2019"/>
   </a>
-  <a href="/events/2019-04-canberra.html"><b>Canberra</b> | April 2019</a>  
+  <a href="/events/2019-04-canberra.html"><b>Canberra</b> | April 2019</a><br>
   The second major ESH was held at UNSW Canberra from 8th-10th April 2019, and brought together 40 participants to discuss future directions for evidence synthesis. Work from this event led to the development of five new software products and one forthcoming scientific publication.  
 </div>
 
@@ -27,7 +28,7 @@ layout: default
     <img class="profiletext"
     src="/assets/images/events/2018-12-stockholm-mini.png"
     alt="ESH Stockholm mini 2018"/>
-  </a><a href="/events/2018-12-stockholm-mini.html"><b>Stockholm miniESH</b> | December 2018</a>   
+  </a><a href="/events/2018-12-stockholm-mini.html"><b>Stockholm miniESH</b> | December 2018</a><br>
   The first miniESH ran for 3 days, and focussed on completing the visualisation app '<a href="https://github.com/ESHackathon/eviatlas">eviatlas'</a>.<sup>1</sup>  
 </div>
 
@@ -36,7 +37,7 @@ layout: default
     <img class="profiletext"
     src="/assets/images/events/2018-04-stockholm.png"
     alt="ESH Stockholm 2018"/>
-  </a><a href="/events/2018-04-stockholm.html"><b>Stockholm</b> | April 2018</a>  
+  </a><a href="/events/2018-04-stockholm.html"><b>Stockholm</b> | April 2018</a><br>
   The inaugral ESH was held in April 2018 at the Stockholm Environment Institute and involved 29 participants from 10 countries, leading to 11 new projects.  
 </div>
 

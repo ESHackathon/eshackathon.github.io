@@ -19,6 +19,35 @@
       <div class="section">
         <main class="page-content" aria-label="Content">
           <div class="wrapper">
+            <div class="center"><h2>Evidence Synthesis & Meta-Analysis in R (ESMA-R) Conference</h2></div>
+            <p>We invite you to join us for a 2-day conference in January 2021 dedicated to conducting evidence syntheses and meta-analyses in R.</p>
+
+            <p>This conference will be held over two days and across all timezones for an inclusive and diverse discourse around the state-of-the-art in tools to support evidence synthesis and meta-analysis in R.</p>
+
+            <em>For more information, or to submit an abstract, see our <a href="/events/2021-01-online.html">event page</a></em>
+            <br>
+            <br>
+          </div>
+        </main>
+      </div>
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="center"><h2>Core Contributors</h2></div>
+          <div class="post">
+            {% for person in site.people %}
+              {% if person.core contains "TRUE" %}
+                {%- include display-person.html -%}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </main>
+
+
+      <div class="section">
+        <main class="page-content" aria-label="Content">
+          <div class="wrapper">
 
             <div class="center"><h2>Key Projects</h2></div>
 
@@ -56,30 +85,6 @@
         </main>
       </div>
 
-      <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-          <div class="center"><h2>ESHcon 2020</h2></div>
-          <p>Our next event will be a virtual conference on R tools for evidence synthesis. If you work on software tools for meta-analysis, systematic review or related fields, then this is for you!</p>
-          <em>Details are still TBC, but you can see our event page <a href="/events/2020-04-online.html">here</a></em>
-        </div>
-      </main>
-
-      <br>
-      <br>
-      <div class="section">
-        <main class="page-content" aria-label="Content">
-          <div class="wrapper">
-            <div class="center"><h2>Core Contributors</h2></div>
-            <div class="post">
-              {% for person in site.people %}
-                {% if person.core contains "TRUE" %}
-                  {%- include display-person.html -%}
-                {% endif %}
-              {% endfor %}
-            </div>
-          </div>
-        </main>
-      </div>
       <br>
 
       <main class="page-content" aria-label="Content">

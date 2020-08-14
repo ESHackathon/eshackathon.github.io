@@ -7,7 +7,7 @@ layout: default
     <img class="profiletext"
       src= /assets/images/events/{{ page.image }}
       alt={{ page.title }}
-    /><b>{{ page.title }}</b><br>
+    />
     {{ content }}
   </div>
 
@@ -15,14 +15,17 @@ layout: default
     <img src="/assets/images/events/{{ page.panorama-image }}" alt="Panorama"/>
   {%- endif -%}
   <br>
-  <br>
-  <h2>People</h2>
+  <h2>Organisers</h2>
   {%- if page.organisers.size > 0 -%}
     {% for person in site.people %}
       {% if person.tags contains page.organisers %}
         {%- include display-person.html -%}
       {% endif %}
     {% endfor %}
+  {%- endif -%}
+
+  {%- if page.speakers.size > 0 -%}
+    <h2>People</h2>
   {%- endif -%}
 
   {%- if page.support.size > 0 -%}
