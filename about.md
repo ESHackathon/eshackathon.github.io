@@ -4,7 +4,7 @@ layout: default
 ---
 The Evidence Synthesis Hackathon Series was founded in 2017 by <a href="/people/Westgate-Martin">Martin Westgate</a> and <a href="/people/Haddaway-Neal">Neal Haddaway</a> to drive progress in technology for evidence synthesis. You can read more about our motivations for founding the ESH series <a href="/2019/01/17/what_is_the_esh.html">here</a>.
 
-We work hard to ensure our events are safe, inclusive spaces for all. For more information, you can read our diversity and equity policy <a href="/about/diversity_and_equity.html">here</a>.
+We work hard to ensure our events are safe, inclusive spaces for all. For more information, you can read our diversity and equity policy <a href="/about/diversity_and_equity.html">here</a> or our data and privacy policy <a href="/about/data_and_privacy.html">here</a>.
 
 <b>Our mission is to:</b>
 <ul>
