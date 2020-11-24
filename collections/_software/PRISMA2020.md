@@ -10,7 +10,7 @@ github: nealhaddaway/PRISMA2020
 status: available
 ---
 Flowcharts in evidence syntheses allow the reader to rapidly understand the core procedures used in a review and examine the attrition of irrelevant records throughout the review process. The PRISMA flow diagram published in 2009 describes the sources, numbers and fates of all identified and screened records in a review. PRISMA is currently in the final stages of a 2020 update, including a new version of the PRISMA flow chart:<br>
-<img src="https://raw.githubusercontent.com/nealhaddaway/PRISMA2020/master/inst/extdata/PRISMA.png" width="50%">
+<img src="https://raw.githubusercontent.com/nealhaddaway/PRISMA2020/master/inst/extdata/PRISMA.png" width="70%">
 
 Systematic review flow charts undoubtedly facilitate rapid comprehension of basic review methodology. However, they have far greater potential as a tool for communication and transparency when used not only as static graphics, but also as interactive ‘site maps’ for reviews. Flow charts in their crudest sense consist of inputs, processes and outputs, with the ‘nodes’ (i.e. boxes) in a systematic review flow chart containing summaries of the numbers of records included or excluded at each stage, and ‘edges’ (i.e. arrows) indicating the flow of records from sources to the final set of included studies. For each node, there is a rich set of information relating both to the methods used and the respective associated records: for example, the number of records excluded at full text eligibility screening with exclusion reasons. 
 
