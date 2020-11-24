@@ -1,6 +1,6 @@
 ---
 layout: software
-title: PRISMA2020_flowchart
+title: PRISMA2020
 short-title: PRISMA2020
 subtitle: R package and ShinyApp for making PRISMA2020 flowcharts
 tags: online-2020-software
