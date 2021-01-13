@@ -319,6 +319,14 @@ img.profiletext {
   margin: 5px 15px 5px 0px;
 }
 
+img.profilewidth {
+  border: 0px;
+  float: left;
+  max-width: 100%;
+  width: 150px;
+  vertical-align: middle;
+  margin: 5px 15px 5px 0px;
+}
 
 img.profilecenter {
   width: 150px;
@@ -607,6 +615,16 @@ table {
 
 table.people {
   text-align: left;
+}
+
+#conference {
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid grey;
+}
+
+#br {
+  border: 1px solid grey;
 }
 
 table.header {
