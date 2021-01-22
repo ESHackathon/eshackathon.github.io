@@ -55,6 +55,24 @@ body.tablesorter-disableSelection { -ms-user-select: none; -moz-user-select: -mo
 </style>
  </head>
  <body>
+   <select id="sessionDropdown" oninput="filterDropdownTable()">
+      <option>All</option>
+      <option>Introduction</option>
+      <option>Session 1A</option>
+      <option>Session 1B</option>
+      <option>Session 2A</option>
+      <option>Session 2B</option>
+      <option>Session 3</option>
+      <option>Session 4A</option>
+      <option>Session 4B</option>
+      <option>Session 5</option>
+      <option>Session 6</option>
+      <option>Workshop 1</option>
+      <option>Workshop 2</option>
+      <option>Workshop 3</option>
+      <option>Workshop 4</option>
+      <option>Close</option>
+    </select>
    <input id="myInput" type="text" placeholder="Search" />
    <button type="button" data-column="#abstract">Hide/show Abstract</button>
    <table class="table table-bordered table-hover table-condensed" id="myTable">
@@ -481,6 +499,28 @@ body.tablesorter-disableSelection { -ms-user-select: none; -moz-user-select: -mo
     }
     
     document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+    
+    function filterDropdownTable() {
+  // Variables
+  let dropdown, table, rows, cells, session, filter;
+  dropdown = document.getElementById("sessionDropdown");
+  table = document.getElementById("myTable");
+  rows = table.getElementsByTagName("tr");
+  filter = dropdown.value;
+
+  // Loops through rows and hides those with countries that don't match the filter
+  for (let row of rows) { // `for...of` loops through the NodeList
+    cells = row.getElementsByTagName("td");
+    session = cells[0] || null; // gets the 2nd `td` or nothing
+    // if the filter is set to 'All', or this is the header row, or 2nd `td` text matches filter
+    if (filter === "All" || !session || (filter === session.textContent)) {
+      row.style.display = ""; // shows this row
+    }
+    else {
+      row.style.display = "none"; // hides this row
+    }
+  }
+}
 </script>
 
  </body>
