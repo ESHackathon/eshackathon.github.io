@@ -18,7 +18,7 @@ Systematic review flow diagrams undoubtedly facilitate rapid comprehension of ba
 This package makes use of the DiagrammeR R package to develop a customisable flow diagram that conforms to PRISMA 2020 standards. It allows the user to specify whether previous and other study arms should be included, and allows interactivity to be embedded through the use of mouseover tooltips and hyperlinks on box clicks.
 
 The online tool is avaialble here:
-<iframe src="https://estech.shinyapps.io/prisma_flowdiagram/" style="width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+<iframe src="https://estech.shinyapps.io/prisma_flowdiagram/" style="width:100%; height:800; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
     Your browser doesn't support iframes
 </iframe>
 
