@@ -5,7 +5,7 @@ subtitle: Newcastle University
 tags: participant-local participant-remote stockholm-2018-people stockholm-mini-2018-people canberra-2019-people stockholm-2018-local stockholm-mini-2018-remote canberra-2019-remote online-2020-people online-2020-remote ESMAR-2021-organiser ESMAR-2021-people
 image: grainger_matthew.jpg
 twitter: Ed_pheasant
-developer: eviatlas,doi2txt
+developer: eviatlas,doi2txt,sysrevdata
 contributor: r-for-es,opendataopencode
 latitude: 63.4305
 longitude: 10.3951
