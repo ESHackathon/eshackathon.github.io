@@ -5,7 +5,7 @@ short-title: PRISMA2020
 subtitle: R package and ShinyApp for making PRISMA2020 flow diagrams
 tags: online-2020-software
 function: visualisation communication
-language: r-lang html dot javascript
+language: r-lang,html,dot,javascript
 github: nealhaddaway/PRISMA2020
 run: https://estech.shinyapps.io/prisma_flowdiagram/
 status: available
