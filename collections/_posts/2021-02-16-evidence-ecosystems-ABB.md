@@ -9,7 +9,7 @@ tags: interviews
 Alex Bannach-Brown is a meta-researcher and systematic review methodologist at QUEST Center, Berlin Institute of Health. She delivers education, develops infrastructure, and provides methodological support for preclinical animal systematic reviews. Here, she talks to us about <em>Open Evidence Ecosystems</em> and her experiences with ESH!
 </div>
 <br>
- 
+
 <b><em>Why is Evidence Synthesis technology important to you?</em></b>  
 We rely increasingly on technology, tools, and software to be able to carry out any form of evidence synthesis in the explosion of scientific literature and information overload. Technology aims to make our lives as reviewers easier, whether that be to save time and resources, to collaborate with colleagues internationally, and to help ensure quality in our work. Ultimately we want to answer our research questions as quickly as possible with the best quality synthesis, technology supports us.
 
