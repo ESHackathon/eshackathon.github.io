@@ -29,7 +29,7 @@ The conference was a virtual only conference. All talks were live streamed direc
 <b><em>What do you think is the role and importance of communities working on free-to-use, Open Source tools for evidence synthesis?</em></b>  
 High quality evidence synthesis projects are already incredibly resource-intensive as it is. Tools aim to reduce resources associated with this research, but open-source tools aim to go a step further, reduce the barriers to being able to carry out high quality evidence synthesis.
  
-Responsive communities, such as these, enable us to keep up with demands of our research field, expanding the scope of tools, spreading awareness of high quality tools, and providing support and education to implement tools. ESMARConf2021 strengthens the open-source community, by creating a platform to support long-term sustainability of open-source tools and improve quality and documentation. This, in turn, brings us close to the aim of removing barriers to conducting high quality evidence synthesis. 
+Responsive communities, such as these, enable us to keep up with demands of our research field, expanding the scope of tools, spreading awareness of high quality tools, and providing support and education to implement tools. ESMARConf2021 strengthens the open-source community, by creating a platform to support long-term sustainability of open-source tools and improve quality and documentation. This, in turn, brings us close to the aim of removing barriers to conducting high quality evidence synthesis.
 <br>
 
 <b><em>Why should people care about the Evidence Synthesis Hackathon?</em></b>  
