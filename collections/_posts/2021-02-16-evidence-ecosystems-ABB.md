@@ -20,7 +20,6 @@ I am a systematic review methodologist in translational biomedicine, I use techn
 <em>Open Evidence Ecosystems</em> are our vision for the future of research and research synthesis communities! Open Evidence Ecosystems are communities of primary researchers, evidence synthesists, tool makers, information specialists, and statisticians that collaboratively work together to answer research questions relevant to their field. They work across institutions and countries to design, conduct and report primary research in a way that optimises reuse and translation. Open methods and sharing of data are used to ensure synthesis of data is seamless, and outputs are designed in connection with all stakeholders and communicated in a timely way.
  
 We are actively establishing Open Evidence Ecosystems in translational biomedical research, a project we have recently received seed funding from the Stifterverband (DE), to kick-start. We are working to increase open evidence synthesis education, provide infrastructure to conduct evidence synthesis, and form open communities of stakeholders to support and grow effective research translation, evidence synthesis, and priority setting. Starting locally, we are building scalable blueprints to grow this structure across institutions and geographical regions. Watch this space!
-.  
 <br>
 
 <b><em>You also attended ESMARConf2021 in January - how was your experience of that online conference?</em></b>  
@@ -31,7 +30,6 @@ The conference was a virtual only conference. All talks were live streamed direc
 High quality evidence synthesis projects are already incredibly resource-intensive as it is. Tools aim to reduce resources associated with this research, but open-source tools aim to go a step further, reduce the barriers to being able to carry out high quality evidence synthesis.
  
 Responsive communities, such as these, enable us to keep up with demands of our research field, expanding the scope of tools, spreading awareness of high quality tools, and providing support and education to implement tools. ESMARConf2021 strengthens the open-source community, by creating a platform to support long-term sustainability of open-source tools and improve quality and documentation. This, in turn, brings us close to the aim of removing barriers to conducting high quality evidence synthesis. 
-
 <br>
 
 <b><em>Why should people care about the Evidence Synthesis Hackathon?</em></b>  
