@@ -1,5 +1,5 @@
 ---
 layout: discussion-status
-title: "Discussion Papers: In preparation"
+title: "Status: In preparation"
 status: in-prep
 ---

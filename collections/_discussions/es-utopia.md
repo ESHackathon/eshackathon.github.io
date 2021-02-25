@@ -4,7 +4,7 @@ title: A new ecosystem for evidence synthesis
 short-title: es-utopia
 description: Published Academic Paper
 tags: canberra-2019-discussion
-status: available
+status: published
 ---
 The number of publications has been increasing exponentially, and as a result, so has the research field of evidence synthesis. Consequently, there is now a need to maintain the quality, currency and credibility of evidence synthesis approaches. Within this commentary, we provide a vision for evidence synthesis as a fundamental tool for generating and guiding decision-making. This paper is aimed at all stakeholders, including researchers, institutions, and the broader general community.
 
