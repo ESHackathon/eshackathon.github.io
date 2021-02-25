@@ -6,7 +6,7 @@ image: Westgate_Martin.jpg
 homepage: https://martinwestgate.com
 github: mjwestgate
 twitter: westgatecology
-developer: eviatlas,metaverse
+developer: eviatlas,metaverse,bibfix
 contributor: r-for-es,db-bias
 latitude: -35.2777
 longitude: 149.1185
