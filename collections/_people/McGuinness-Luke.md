@@ -6,7 +6,7 @@ tags: participant-local canberra-2019-people canberra-2019-local online-2020-peo
 image: McGuinness-Luke.jpg
 twitter: mcguinlu
 github: mcguinlu
-developer: metaverse,robvis,PRISMA2020
+developer: metaverse,robvis,PRISMA2020,ROSESflowchart
 contributor: opendataopencode
 latitude: 51.4584
 longitude: -2.6030
