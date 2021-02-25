@@ -1,7 +1,7 @@
 ---
 layout: software
-title: ROSES flowchart
-short-title: ROSES flowchart
+title: ROSESflowchart
+short-title: ROSESflowchart
 subtitle: R package and ShinyApp for making ROSES flow diagrams
 tags: online-2020-software
 function: visualisation communication
