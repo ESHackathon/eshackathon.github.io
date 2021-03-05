@@ -14,4 +14,4 @@ Imagine the way you backup your mobile phone and transfer your files and setting
 
 We recognise the wasted effort that could be saved here, and we are conducting a project to establish a set of minimum standards, file types and formats that will help to ensure that systematic reviews are as transparent and interoperable as possible (meaning that their data can be easily reused and adapted for other purposes).
 
-You can read more about the project here: [https://reviewdata.github.io/](https://reviewdata.github.io/)
+you can read more about the project here: [https://reviewdata.github.io/](https://reviewdata.github.io/)
