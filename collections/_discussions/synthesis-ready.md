@@ -2,7 +2,7 @@
 layout: discussion
 title: Making primary research synthesis ready
 short-title: synthesis-ready
-description: Proposed Academic Paper
+description: Proposed academic paper
 tags: online-2020-discussion
 status: in-prep
 ---

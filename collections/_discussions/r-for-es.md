@@ -2,7 +2,7 @@
 layout: discussion
 title: R for Evidence Synthesis
 short-title: r-for-es
-description: Proposed Academic Paper
+description: Proposed academic paper
 tags: stockholm-2018-discussion
 status: closed
 ---

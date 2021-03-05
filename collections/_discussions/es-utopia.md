@@ -2,7 +2,7 @@
 layout: discussion
 title: A new ecosystem for evidence synthesis
 short-title: es-utopia
-description: Published Academic Paper
+description: Published academic paper
 tags: canberra-2019-discussion
 status: published
 ---

@@ -1,8 +1,8 @@
 ---
 layout: discussion
-title: OpenDataOpenCode
+title: An assessment of data and code availability in reviews
 short-title: opendataopencode
-description: An assessment of data and code availability in reviews
+description: Ongoing project
 tags: online-2020-discussion
 status: in-prep
 ---

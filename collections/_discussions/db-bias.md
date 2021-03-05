@@ -2,7 +2,7 @@
 layout: discussion
 title: Limitations and biases of commercial bibliographic databases
 short-title: db-bias
-description: Proposed Academic Paper
+description: Proposed academic paper
 tags: stockholm-2018-discussion
 status: in-prep
 ---
