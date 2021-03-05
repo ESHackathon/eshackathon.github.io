@@ -2,7 +2,7 @@
 layout: discussion
 title: Standardised data files for systematic reviews
 short-title: reviewdata
-description: Published Academic Paper
+description: Ongoing project
 tags: online-2020-discussion
 status: in-prep
 ---
