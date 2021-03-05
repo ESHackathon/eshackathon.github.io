@@ -1,17 +1,11 @@
 ---
 layout: discussion
-title: Standardised data files for systematic reviews
-short-title: reviewdata
-description: Published Academic Paper
+title: ESH Usability Blog
+short-title: ESHUsabilityBlog
+description: User-focused blog series
 tags: online-2020-discussion
 status: in-prep
 ---
-Systematic reviews are complex, laborious tasks that produce vast amounts of data. However, the effort required to produce these data are typically lost once a review is completed: some information is reported in the review, but often information is missing or specific details are lacking.
+The Evidence Synthesis Technology world can be complicated - tools can be hard to find, it can be difficult to know what skill level is needed, and they can involve a considerable learning curve. Here at ESH, we are trying to lower the costs associated with finding, learning and using new ESTech tools and frameworks. This blog series aims to introduce key tools that can help increase transparency, accessibility, efficiency and rigour in evidence syntheses. Each month, a member of the ESH family will introduce their ESTech, explaining its purpose, the background skills needed, and how it can be used to support evidence synthesis.
 
-Even in excellent systematic reviews, data are rarely reported in formats and file types that are easily understood and can be reused or repurposed for future projects, like systematic review updates or overlapping analyses. Instead, much of the review work must be repeated.
-
-Imagine the way you backup your mobile phone and transfer your files and settings to a new handset: if systematic reviews were accompanied by a set of standardised file types describing the methods, activities and outputs, reviews could easily be updated, verified and adapted by machines.
-
-We recognise the wasted effort that could be saved here, and we are conducting a project to establish a set of minimum standards, file types and formats that will help to ensure that systematic reviews are as transparent and interoperable as possible (meaning that their data can be easily reused and adapted for other purposes).
-
-you can read more about the project here: [https://reviewdata.github.io/](https://reviewdata.github.io/)
+You can read the ESH Usability Blog series [here](https://www.eshackathon.org/#news).
