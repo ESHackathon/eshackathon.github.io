@@ -10,7 +10,7 @@ We open our #ESHToolsBlog series with a recent tool from Neal Haddaway: citation
 
 citationchaser promises to make the time-consuming work of mopping-up potentially missing studies after a traditional search and alleviate the pain of the tedious tasks that are backward- and forward- citation chasing. We also give a shout out to the folks behind Lens.org - an Open Discovery resource – an initiative that makes using citationchaser possible.  
 </div>
-<img src="https://github.com/nealhaddaway/citationchaser/blob/master/inst/extdata/citationchaser.png?raw=true" align="right" width="20%"/>
+<img src="https://github.com/nealhaddaway/citationchaser/blob/master/inst/extdata/citationchaser.png?raw=true" align="right" width="15%"/>
 <br>
 
 <b><em>Can you tell us a little bit about yourself? Where does your work fit within the evidence synthesis world?</em></b>  
@@ -47,7 +47,7 @@ But hang on, each review references about 100 other articles. That's 10,000 more
 This is where citationchaser comes in. Just paste in a comma-separated list of DOIs (digital object identifiers) for your review articles and you can search for all of the references these 100 review articles include - boom! You have 10,000 records as an RIS file. Deduplicate against your search results and you have a set of unique articles that weren't captured through searching. You can also find all articles that cite these 100 reviews. If this brings back tonnes of new records, still, you could use topic modelling in something like <a href="https://revtools.net/" target="_blank">revtools</a> to highlight relevant topics and articles from amongst the results.  
 <br>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6BidWppZ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe src="https://www.youtube.com/embed/U6BidWppZ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br>  
 
 <b><em>What future developments can users expect to see?</em></b>  
