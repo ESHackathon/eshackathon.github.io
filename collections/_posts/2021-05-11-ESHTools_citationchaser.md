@@ -2,6 +2,7 @@
 layout: post
 title: ESHToolsBlog - citationchaser
 description: A walkthrough of citationchaser with developer Neal Haddaway
+image: citationchaser.png
 tags: ESHToolsBlog
 ---
 <div class="clearfix">
@@ -46,7 +47,7 @@ But hang on, each review references about 100 other articles. That's 10,000 more
 This is where citationchaser comes in. Just paste in a comma-separated list of DOIs (digital object identifiers) for your review articles and you can search for all of the references these 100 review articles include - boom! You have 10,000 records as an RIS file. Deduplicate against your search results and you have a set of unique articles that weren't captured through searching. You can also find all articles that cite these 100 reviews. If this brings back tonnes of new records, still, you could use topic modelling in something like <a href="https://revtools.net/" target="_blank">revtools</a> to highlight relevant topics and articles from amongst the results.  
 <br>  
 
-<iframe src="https://www.youtube.com/embed/U6BidWppZ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="840" height="473" src="https://www.youtube.com/embed/U6BidWppZ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br>  
 
 <b><em>What future developments can users expect to see?</em></b>  
