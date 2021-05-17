@@ -58,5 +58,6 @@ Recently, Matthew Grainger helped to include the option for a Network visualisat
 We're also considering building in a deduplication tool to make it easier to highlight the unique records from citation chasing relative to a bibliographic database search. Users will be able to upload their search results, or input a search string, and the tool will extract only the new studies. We then might integrate and link to tools like revtools for topic modelling the abstracts remaining to see what terms might usefully be included in any bibliographic database search update.  
 <br>  
 
-Interviews for the ESH Tools Blog are coordinated by <a href="https://www.eshackathon.org/people/Stojanova-Jana.html" target="_blank">Jana Stojanova</a>.
+Interviews for the ESH Tools Blog are coordinated by <a href="https://www.eshackathon.org/people/Stojanova-Jana.html" target="_blank">Jana Stojanova</a>.  
+<br>
 <em>Posted 2021-05-11</em>
