@@ -2,7 +2,7 @@
 layout: post
 title: ESHToolsBlog - citationchaser
 description: A walkthrough of citationchaser with developer Neal Haddaway
-image: 
+image: ESHToolsBlog.png
 tags: ESHToolsBlog
 ---
 <div class="clearfix">

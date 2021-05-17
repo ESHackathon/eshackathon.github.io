@@ -3,6 +3,7 @@ layout: discussion
 title: ESHToolsBlog
 short-title: ESHToolsBlog
 description: User-focused blog series
+image: ESHToolsBlog.png
 tags: online-2020-discussion
 status: in-prep
 ---
