@@ -43,7 +43,7 @@ As we indicate above, metaDigitise is an R package that is <a href="https://cran
 We have a very detailed vignette along with a nice README on GitHub that explains (in great detail) all the fun things you can do with metaDigitise. While it does seem like a trivial thing, if you do use it, please cite it in your paper! It helps readers know what package you used and tells them that you must have the original figures to allow someone to check extractions and build on them. In addition we encourage uploading all the figure extractions from a meta-analysis alongside the code and data. This can easily be done using Figshare or, even better, using the Open Science Framework (they allow unlimited storage).  
 <br>  
 
-<iframe width="840" height="473" src="https://youtu.be/2Q8TzgRSACM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="840" height="473" src="https://youtu.be/2Q8TzgRSACM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br>  
 
 <b><em>What future developments can users expect to see?</em></b>  
