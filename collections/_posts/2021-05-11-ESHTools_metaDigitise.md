@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ESHToolsBlog - metaDigitise
-description: A walkthrough of metaDigitise with developer Joel  and Daniel Noble
+description: A walkthrough of metaDigitise with developer Joel and Daniel Noble
 image: ESHToolsBlog.png
 tags: ESHToolsBlog
 ---
 <div class="clearfix">
-For this month’s edition of the #ESHToolsBlog we hear from Joel Pick and Daniel Noble about metaDigitise, an R package that facilitates data extraction from figures taken from the primary literature – a serious time saver for those of us that need to do this.   
+For this month’s edition of the #ESHToolsBlog we hear from Joel Pick and <a href="https://www.eshackathon.org/people/Noble-Dan.html" target = "_blank">Daniel Noble</a> about metaDigitise, an R package that facilitates data extraction from figures taken from the primary literature – a serious time saver for those of us that need to do this.   
 </div>
 This is the second time this week that I’ve heard of a great tool idea come to fruition following a round of beers among friends, so bottoms-up folks and keep those great ideas coming! If you’d like your tool featured in the series, please reach out by Twitter (<a href="https://twitter.com/eshackathon" target="_blank">https://twitter.com/eshackathon</a>).  
 <br>
@@ -16,7 +16,7 @@ We are both Evolutionary Ecologists. Joel did his PhD at the University of Zuric
 <br>  
 
 <b><em>What is the problem that your tool aims to resolve? How does your tool fit into broader evidence synthesis methods?</em></b>  
-We developed metaDigitise in collaboration with Shinichi Nakagawa (UNSW). All of us conduct meta-analyses that involve a substantial amount of data extraction from figures taken from the primary literature. We were all frustrated by how slow, inflexible and irreproducible existing software was at this critical stage of evidence synthesis.  
+We developed metaDigitise in collaboration with <a href="https://www.eshackathon.org/people/Nakagawa-Shinichi.html" target="_blank">Shinichi Nakagawa (UNSW)</a>. All of us conduct meta-analyses that involve a substantial amount of data extraction from figures taken from the primary literature. We were all frustrated by how slow, inflexible and irreproducible existing software was at this critical stage of evidence synthesis.  
 
 As such, metaDigitise is an R package that provides fairly high-throughput data extraction from figures (i.e., boxplots, scatterplots, mean error plots and histograms). While the user extracts the data, metadata can be entered at the same time for multiple groups of interest, and summary statistics relevant for meta-analysis are automatically calculated for the user.  
 
