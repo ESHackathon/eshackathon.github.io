@@ -6,8 +6,9 @@ image: ESHToolsBlog.png
 tags: ESHToolsBlog
 ---
 <div class="clearfix">
-For this month’s edition of the #ESHToolsBlog we hear from Joel Pick and Daniel Noble about metaDigitise, an R package that facilitates data extraction from figures taken from the primary literature – a serious time saver for those of us that need to do this. This is the second time this week that I’ve heard of a great tool idea come to fruition following a round of beers among friends, so bottoms-up folks and keep those great ideas coming! If you’d like your tool featured in the series, please reach out by Twitter (<a href="https://twitter.com/eshackathon" target="_blank">https://twitter.com/eshackathon</a>).   
+For this month’s edition of the #ESHToolsBlog we hear from Joel Pick and Daniel Noble about metaDigitise, an R package that facilitates data extraction from figures taken from the primary literature – a serious time saver for those of us that need to do this.   
 </div>
+This is the second time this week that I’ve heard of a great tool idea come to fruition following a round of beers among friends, so bottoms-up folks and keep those great ideas coming! If you’d like your tool featured in the series, please reach out by Twitter (<a href="https://twitter.com/eshackathon" target="_blank">https://twitter.com/eshackathon</a>).  
 <br>
 
 <b><em>Can you tell us a little bit about yourself? Where does your work fit within the evidence synthesis world?</em></b>  
