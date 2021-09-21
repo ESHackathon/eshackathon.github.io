@@ -2,7 +2,7 @@
 layout: person
 title: Marc Lajeunesse
 subtitle: University of South Florida
-tags: participant-local invited-speaker stockholm-2018-people stockholm-2018-speaker
+tags: participant-local invited-speaker stockholm-2018-people stockholm-2018-speaker ESMARConf-2022-organiser
 image: lajeunesse_marc.png
 homepage: http://lajeunesse.myweb.usf.edu
 twitter: LajeunesseLab
@@ -10,6 +10,7 @@ latitude: 28.0587
 longitude: -82.4139
 events:
   - {title: 2018-04-stockholm, role: Speaker}
+  - {title: 2022-01-ESMARConf2022, role: Organiser}
 contributor: r-for-es
 core: "FALSE"
 ---
