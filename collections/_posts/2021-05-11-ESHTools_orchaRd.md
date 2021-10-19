@@ -26,13 +26,13 @@ Furthermore, prediction intervals show the extent of ‘heterogeneity’ among y
 <b><em>What does your tool do? Please briefly describe its core functionality with respect to the problem it aims to solve.</em></b>  
 The orchaRd package draws an orchard plot, and you can see why it is called so in the schematic and an example below.  
 
-![figures showing orchaRd plot components and examples](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd1.png){width=50%}  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd1.png" width="50%">   
 <br>
 And you probably see how the orchard plot does resolve these two issues I outlined above.  
 
 The orchaRd package can draw another type of plot, which we named “a caterpillars plot”. The term “caterpillar plot” is sometimes used in the literature, but we wanted to call ours with plural “caterpillars”, as seen in the example below.  
 
-![figures showing caterpillars plot components and examples](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd2.png){width=50%}  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd2.png" width="50%">  
 <br>  
 
 <b><em>What is the origin story of your tool?</em></b>  
@@ -51,22 +51,22 @@ By the way, if you cannot access this journal, you can get a freely available ar
 
 Below are some excerpts from orchaRd package vignette. This package needs to be always used with the legendary meta-analysis R package, <a href="https://wviechtb.github.io/metafor/" target="_blank">metafor</a> by Wolfgang Viechtbauer.  
 
-![example code running orchaRd](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd3.png){width=75%} 
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd3.png" width="75%">  
 
 Once you run a meta-analytic model with the metafor’s rma.mv (or rma) function, you can just put that output object into our orchard_plot function; note we have one categorical moderator “Phylum” with taking out the intercept (i.e. – 1).  
 
-![example code running orchaRd](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd4.png){width=75%} 
-![example meta-regression model](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd5.png){width=50%}  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd4.png" width="75%">  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd5.png" width="50%">  
 
 Or we can put the object into caterpillars function.  
 
-![example code running orchaRd](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd6.png){width=75%}  
-![example meta-regression model](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd7.png){width=50%}  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd6.png" width="75%">  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd7.png" width="50%">  
 
 Importantly, both orchard and caterpillars plot functions use ggplot graphics, so you can add on and change the look of figures as you wish, like below:  
 
-![example code running orchaRd](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd8.png){width=75%} 
-![example meta-regression model](https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd9.png){width=50%}  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd8.png" width="75%">  
+<img src="https://github.com/ESHackathon/eshackathon.github.io/raw/master/assets/images/posts/orchaRd9.png" width="50%">  
 <br>  
 
 <b><em>What future developments can users expect to see?</em></b>  
