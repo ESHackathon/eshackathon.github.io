@@ -8,7 +8,7 @@ layout: default
     src="/assets/images/events/2022-01-ESMARConf2022.png"
     alt="ESMARConf2022"/>
   </a>
-  <a href="/events/2022-01-ESMARConf2022.html"><b>ESMARConf2022</b> | January 2022</a><br>
+  <a href="/events/2022-01-ESMARConf2022.html"><b>ESMARConf2022</b> | February 2022</a><br>
   <b>Evidence Synthesis & Meta-Analysis in R Conference</b><br>
   News about our next event
 </div>
