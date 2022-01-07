@@ -2,7 +2,7 @@
 layout: person
 title: Luke McGuinness
 subtitle: University of Bristol
-tags: participant-local canberra-2019-people canberra-2019-local online-2020-people online-2020-remote ESMAR-2021-organiser ESMAR-2021-people ESMARConf-2022-organiser
+tags: participant-local canberra-2019-people canberra-2019-local online-2020-people online-2020-remote ESMAR-2021-organiser ESMAR-2021-people
 image: McGuinness-Luke.jpg
 twitter: mcguinlu
 github: mcguinlu
