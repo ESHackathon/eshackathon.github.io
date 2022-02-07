@@ -10,7 +10,6 @@ latitude: 28.0587
 longitude: -82.4139
 events:
   - {title: 2018-04-stockholm, role: Speaker}
-  - {title: 2022-01-ESMARConf2022, role: Organiser}
 contributor: r-for-es
 core: "FALSE"
 ---
