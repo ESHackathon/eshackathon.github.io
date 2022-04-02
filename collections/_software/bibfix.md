@@ -14,4 +14,4 @@ bibfix is an R package and Shiny app that helps users repair and enrich their bi
 
 Repaired fields can include titles, abstract, unique identifiers (e.g. DOIs), publication years, etc.
 
-The Shiny app can be found < a href="https://estech.shinyapps.io/bibfix/" target="_blank">here</a>.
+The Shiny app can be found <a href="https://estech.shinyapps.io/bibfix/" target="_blank">here</a>.
