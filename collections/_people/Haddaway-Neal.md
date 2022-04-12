@@ -6,7 +6,7 @@ tags: organiser stockholm-2018-people stockholm-mini-2018-people canberra-2019-p
 image: Haddaway_Neal.jpg
 homepage: https://sei.academia.edu/NealHaddaway
 twitter: nealhaddaway
-developer: eviatlas,roses-website,doi2txt,PRISMA2020,citationchaser,bibfix,ROSESflowchart,GSscraper,PredicTER
+developer: eviatlas,roses-website,doi2txt,PRISMA2020,citationchaser,bibfix,ROSESflowchart,GSscraper,PredicTER,greylitsearcher
 contributor: db-bias,es-utopia,synthesis-ready,opendataopencode,reviewdata,ESHUsabilityBlog
 latitude: 59.3345
 longitude: 18.0969
