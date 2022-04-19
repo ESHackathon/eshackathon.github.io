@@ -17,8 +17,11 @@ This tool aims to support scraping of search results in bulk up to the 1,000th r
 
 GSscraper includes three major functions:  
 
-1) `buildGSlinks()` that creates working URLs for a given advanced search, each corresponding to a page of 10 search results,
-2) `save_htmls()` that downloads these URLs as HTML files, and 
-3) `scrapeGS()` that converts search results in locally stored Googl Scholar results as HTML files into a dataframe of record metadata.
+1) `buildGSlinks()` that creates working URLs for a given advanced search, each corresponding to a page of 10 search results,  
+2) `save_htmls()` that downloads these URLs as HTML files, and  
+3) `scrapeGS()` that converts search results in locally stored Googl Scholar results as HTML files into a dataframe of record metadata.  
+
+You cen now run GSscraper as a Shiny App locally by running the following code:  
+`GSscraper::runGSscraper()` if you have GSscraper installed, or `shiny::runGitHub("GSscraper", "nealhaddaway", subdir = "inst/shiny-examples/GSscraper")` if not.
 
 The function in 2) above is susceptible to 'bot detection' - blocking of an IP address due to use that goes against Google Scholar's terms of use. The function therefore includes rate-limiting steps to reduce the likelihood of IP blocking.
