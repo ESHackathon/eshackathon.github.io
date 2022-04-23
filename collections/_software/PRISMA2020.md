@@ -27,4 +27,6 @@ The R package has the following capabilities:
 
 2) to adapt this code and publish a free-to-use, web-based tool (a Shiny App) for producing publication-quality flow chart figures without any necessary prior coding experience;
 
-3) to allow users to produce interactive versions of the flow charts that include hyperlinks to specific web pages, files or document sections.
+3) to allow users to produce interactive versions of the flow charts that include hyperlinks to specific web pages, files or document sections.  
+
+Read more about the package and its functionality in this paper in Campbell Systematic Reviews: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1230" target="_blank">https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1230</a>
