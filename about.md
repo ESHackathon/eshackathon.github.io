@@ -24,9 +24,6 @@ We work hard to ensure our events are safe, inclusive spaces for all. For more i
 We support the <a href="https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-018-0740-7">Vienna Principles for collaboration on development of automation in systematic reviews</a>.  
 
 If you would like to support our work, you can donate via our [ESMARConf Open Collective fiscal host](https://opencollective.com/esmarconf) - our fully transparent ccounts for funding work related to ESH and [ESMARConf](https://esmarconf.github.io) (the Evidence Synthesis and Meta-Analysis in R Conference).  
-<script src="https://opencollective.com/esmarconf/banner.js"></script><br>  
-
-
 
 # Sponsors
 The Evidence Synthesis Hackathon series relies on generous funding from a number of supporters to progress our goals of making evidence synthesis faster, cheaper, and more reliable. If you are interested in supporting our activities then please <a href="mailto:eshackathon@gmail.com">contact us</a>.
@@ -87,3 +84,6 @@ The Evidence Synthesis Hackathon series relies on generous funding from a number
       </a>
     </td>
   </tr>
+  
+  
+<script src="https://opencollective.com/esmarconf/banner.js"></script>  
