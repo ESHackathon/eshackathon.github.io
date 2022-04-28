@@ -84,6 +84,7 @@ The Evidence Synthesis Hackathon series relies on generous funding from a number
       </a>
     </td>
   </tr>
+</table>
   
   
 <script src="https://opencollective.com/esmarconf/banner.js"></script>  
