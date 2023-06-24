@@ -3,6 +3,17 @@ title: Events
 layout: default
 ---
 <div class="clearfix">
+  <a href="/events/2023-12-newcastle.html">
+    <img class="profiletext"
+    src="/assets/images/events/2023-12-newcastle.png"
+    alt="ESH2023"/>
+  </a>
+  <a href="/events/2023-12-newcastle.html"><b>ESH2023</b> | December 2023</a><br>
+  <b>Evidence Synthesis Hackathon 2023</b><br>
+  We're thrilled to announce the return of a physical ESH event with ESH2023 in Newcastle! Find out more...
+</div>
+
+<div class="clearfix">
   <a href="/events/2022-01-ESMARConf2022.html">
     <img class="profiletext"
     src="/assets/images/events/2022-01-ESMARConf2022.png"
@@ -10,7 +21,6 @@ layout: default
   </a>
   <a href="/events/2022-01-ESMARConf2022.html"><b>ESMARConf2022</b> | February 2022</a><br>
   <b>Evidence Synthesis & Meta-Analysis in R Conference</b><br>
-  News about our next event
 </div>
 
 <div class="clearfix">
