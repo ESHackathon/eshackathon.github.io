@@ -2,7 +2,7 @@
 layout: post
 title: Position Vacancy - ESHackathon and ESMARConf Fellow
 description: Terms of Reference for ESHackathon and ESMARConf Fellow Position
-image: esh_hex_final.png
+image: ESH_logo_simple.png
 tags: 
 ---
 <div class="clearfix">
