@@ -3,6 +3,17 @@ title: Events
 layout: default
 ---
 <div class="clearfix">
+  <a href="/events/2024-12-newcastle.html">
+    <img class="profiletext"
+    src="/assets/images/events/2023-12-newcastle.png"
+    alt="ESH2024"/>
+  </a>
+  <a href="/events/2024-12-newcastle.html"><b>ESH2024</b> | December 2024</a><br>
+  <b>Evidence Synthesis Hackathon 2024</b><br>
+  Join us in December for ESH2024 in Newcastle! Find out more...
+</div>
+
+<div class="clearfix">
   <a href="/events/2023-12-newcastle.html">
     <img class="profiletext"
     src="/assets/images/events/2023-12-newcastle.png"
