@@ -1,7 +1,7 @@
 ---
 title: Newcastle 2024
 layout: event
-image: 2023-12-newcastle.png
+image: 2024-12-newcastle.jpg
 label: 2024-12-newcastle
 panorama-image: newcastle_banner_small.png
 organisers: newcastle-2024-organiser

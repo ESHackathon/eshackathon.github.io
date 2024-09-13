@@ -5,7 +5,7 @@ layout: default
 <div class="clearfix">
   <a href="/events/2024-12-newcastle.html">
     <img class="profiletext"
-    src="/assets/images/events/2023-12-newcastle.png"
+    src="/assets/images/events/2024-12-newcastle.jpg"
     alt="ESH2024"/>
   </a>
   <a href="/events/2024-12-newcastle.html"><b>ESH2024</b> | December 2024</a><br>
@@ -16,7 +16,7 @@ layout: default
 <div class="clearfix">
   <a href="/events/2023-12-newcastle.html">
     <img class="profiletext"
-    src="/assets/images/events/2023-12-newcastle.png"
+    src="/assets/images/events/2024-12-newcastle.jpg"
     alt="ESH2023"/>
   </a>
   <a href="/events/2023-12-newcastle.html"><b>ESH2023</b> | December 2023</a><br>
