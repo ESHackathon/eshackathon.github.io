@@ -13,7 +13,7 @@ Our intention is to inspire and support the development of new ideas in this imp
 We're incredibly thankful to our partners at Newcastle University and the Innovation Observatory for supporting the event, as well as generous funding from the Evidence-Based Toxicology Collaboration.
 
 <img src="https://www.ncl.ac.uk/mediav8/logos/uni-logo-twitter.jpg" width="200"/><br>
-<img src="https://www.io.nihr.ac.uk/wp-content/themes/innovationobservatory/assets/images/header-logo.png" width="200"/>
+<img src="https://www.io.nihr.ac.uk/wp-content/themes/innovationobservatory/assets/images/header-logo.png" width="200"/><br>
 <img src="https://github.com/ESHackathon/eshackathon.github.io/blob/master/assets/images/logos/EBTC%20logo%20-%20white%20background%20-%20w300.png?raw=true" width="200"/>
 
 Apply to join ESH2024 now!
