@@ -3,6 +3,17 @@ title: Events
 layout: default
 ---
 <div class="clearfix">
+  <a href="/events/2025-05-london.html">
+    <img class="profiletext"
+    src="/assets/images/events/2024-12-newcastle.jpg"
+    alt="ESH2025"/>
+  </a>
+  <a href="/events/2025-05-london.html"><b>ESH2024</b> | May 2025</a><br>
+  <b>Evidence Synthesis Hackathon 2025</b><br>
+  Join us in May for ESH2025 in London! Find out more...
+</div>
+
+<div class="clearfix">
   <a href="/events/2024-12-newcastle.html">
     <img class="profiletext"
     src="/assets/images/events/2024-12-newcastle.jpg"
