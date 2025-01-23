@@ -3,13 +3,24 @@ title: Events
 layout: default
 ---
 <div class="clearfix">
+  <a href="/events/2025-07-madison.html">
+    <img class="profiletext"
+    src="/assets/images/events/2024-12-newcastle.jpg"
+    alt="ESH2025-Madison"/>
+  </a>
+  <a href="/events/2025-07-madison.html"><b>ESH2025-Madison</b> | July 2025</a><br>
+  <b>Evidence Synthesis Hackathon 2025-Madison</b><br>
+  Join us in July for ESH2025 in Madison (USA)! Find out more...
+</div>
+
+<div class="clearfix">
   <a href="/events/2025-05-london.html">
     <img class="profiletext"
     src="/assets/images/events/2024-12-newcastle.jpg"
-    alt="ESH2025"/>
+    alt="ESH2025-London"/>
   </a>
-  <a href="/events/2025-05-london.html"><b>ESH2025</b> | May 2025</a><br>
-  <b>Evidence Synthesis Hackathon 2025</b><br>
+  <a href="/events/2025-05-london.html"><b>ESH2025-London</b> | May 2025</a><br>
+  <b>Evidence Synthesis Hackathon 2025-London</b><br>
   Join us in May for ESH2025 in London! Find out more...
 </div>
 
