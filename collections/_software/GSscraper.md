@@ -7,7 +7,7 @@ tags: online-2020-software
 function: data_collection
 language: r-lang
 github: nealhaddaway/GSscraper
-status: available
+status: on-hold
 ---
 Google Scholar is one of the most commonly used resources by researchers for information retrieval on an every-day basis. Although designed for 'lookup' searches (i.e. finding one or more specific records), it may also be a useful additional resource in evidence reviews (including systematic reviews) for academic and grey literature.  
 
